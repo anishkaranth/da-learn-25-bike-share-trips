@@ -1,0 +1,3 @@
+rider_type,n_days,corr_temp,rides_per_deg_c,intercept
+casual,365,0.801,342.0,1978.3
+member,365,0.869,425.2,5946.0

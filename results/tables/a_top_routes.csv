@@ -1,0 +1,21 @@
+rider_type,rnk,start_station,end_station,is_round_trip,rides,median_min
+casual,1,Navy Pier,Navy Pier,1,9162,24.9
+casual,2,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,1,5371,22.3
+casual,3,DuSable Lake Shore Dr & Monroe St,Navy Pier,0,4409,15.9
+casual,4,Michigan Ave & Oak St,Michigan Ave & Oak St,1,3485,34.2
+casual,5,Navy Pier,DuSable Lake Shore Dr & Monroe St,0,2296,14.6
+casual,6,Millennium Park,Millennium Park,1,2201,11.5
+casual,7,Dusable Harbor,Dusable Harbor,1,2119,12.7
+casual,8,Navy Pier,Millennium Park,0,1800,20.3
+casual,9,Shedd Aquarium,Navy Pier,0,1785,22.4
+casual,10,Navy Pier,Theater on the Lake,0,1745,22.7
+member,1,Ellis Ave & 60th St,Ellis Ave & 55th St,0,2727,4.2
+member,2,Ellis Ave & 55th St,Ellis Ave & 60th St,0,2692,4.4
+member,3,Ellis Ave & 60th St,University Ave & 57th St,0,2283,3.5
+member,4,University Ave & 57th St,Ellis Ave & 60th St,0,2130,3.6
+member,5,Blackstone Ave & 59th St,University Ave & 57th St,0,1517,4.6
+member,6,University Ave & 57th St,Blackstone Ave & 59th St,0,1426,4.7
+member,7,University Ave & 57th St,Kimbark Ave & 53rd St,0,1242,5.6
+member,8,Morgan St & Polk St,Loomis St & Lexington St,0,1218,4.0
+member,9,Loomis St & Lexington St,Morgan St & Polk St,0,1155,3.9
+member,10,Kimbark Ave & 53rd St,University Ave & 57th St,0,1042,5.6

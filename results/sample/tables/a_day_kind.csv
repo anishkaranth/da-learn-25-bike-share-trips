@@ -1,0 +1,4 @@
+day_kind,n_days,member_rides_per_day,casual_rides_per_day,casual_share_pct
+Federal holiday,12,32.0,26.0,45.01
+Ordinary weekday,250,45.0,20.0,30.09
+Weekend,103,34.0,30.0,46.83

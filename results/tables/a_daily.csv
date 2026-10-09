@@ -1,0 +1,366 @@
+date,day_name,day_type,season,temp_mean_c,precip_mm,snowfall_cm,weather_type,holiday_name,member_rides,casual_rides,rides
+2025-10-01,Wed,Weekday,Autumn,19.6,0.0,0.0,Dry (< 1 mm),,17565,7561,25126
+2025-10-02,Thu,Weekday,Autumn,19.7,0.0,0.0,Dry (< 1 mm),,17428,8345,25773
+2025-10-03,Fri,Weekday,Autumn,23.4,0.0,0.0,Dry (< 1 mm),,15869,9240,25109
+2025-10-04,Sat,Weekend / holiday,Autumn,24.3,0.0,0.0,Dry (< 1 mm),,15000,13825,28825
+2025-10-05,Sun,Weekend / holiday,Autumn,23.3,0.0,0.0,Dry (< 1 mm),,12418,10593,23011
+2025-10-06,Mon,Weekday,Autumn,21.8,6.2,0.0,Heavy rain (5 mm+),,13783,5606,19389
+2025-10-07,Tue,Weekday,Autumn,16.6,14.5,0.0,Heavy rain (5 mm+),,12296,4271,16567
+2025-10-08,Wed,Weekday,Autumn,14.2,0.1,0.0,Dry (< 1 mm),,16693,6750,23443
+2025-10-09,Thu,Weekday,Autumn,12.7,0.0,0.0,Dry (< 1 mm),,16962,8211,25173
+2025-10-10,Fri,Weekday,Autumn,14.0,0.0,0.0,Dry (< 1 mm),,14000,8937,22937
+2025-10-11,Sat,Weekend / holiday,Autumn,15.3,0.1,0.0,Dry (< 1 mm),,12620,12210,24830
+2025-10-12,Sun,Weekend / holiday,Autumn,14.3,0.0,0.0,Dry (< 1 mm),,13089,16408,29497
+2025-10-13,Mon,Weekend / holiday,Autumn,16.0,0.0,0.0,Dry (< 1 mm),Columbus Day / Indigenous Peoples' Day,13302,7468,20770
+2025-10-14,Tue,Weekday,Autumn,16.7,0.0,0.0,Dry (< 1 mm),,15889,6472,22361
+2025-10-15,Wed,Weekday,Autumn,14.3,4.2,0.0,Light rain (1-5 mm),,12772,4295,17067
+2025-10-16,Thu,Weekday,Autumn,15.2,0.0,0.0,Dry (< 1 mm),,16277,6764,23041
+2025-10-17,Fri,Weekday,Autumn,17.6,0.0,0.0,Dry (< 1 mm),,14825,8465,23290
+2025-10-18,Sat,Weekend / holiday,Autumn,19.1,11.6,0.0,Heavy rain (5 mm+),,11846,10012,21858
+2025-10-19,Sun,Weekend / holiday,Autumn,12.4,16.1,0.0,Heavy rain (5 mm+),,6714,3967,10681
+2025-10-20,Mon,Weekday,Autumn,11.4,0.2,0.0,Dry (< 1 mm),,12638,4671,17309
+2025-10-21,Tue,Weekday,Autumn,9.9,2.4,0.0,Light rain (1-5 mm),,11001,3333,14334
+2025-10-22,Wed,Weekday,Autumn,8.5,0.1,0.0,Dry (< 1 mm),,12602,3832,16434
+2025-10-23,Thu,Weekday,Autumn,7.2,0.0,0.0,Dry (< 1 mm),,13388,4423,17811
+2025-10-24,Fri,Weekday,Autumn,6.1,0.0,0.0,Dry (< 1 mm),,11458,4910,16368
+2025-10-25,Sat,Weekend / holiday,Autumn,8.0,0.0,0.0,Dry (< 1 mm),,9446,6374,15820
+2025-10-26,Sun,Weekend / holiday,Autumn,10.5,0.0,0.0,Dry (< 1 mm),,9244,5568,14812
+2025-10-27,Mon,Weekday,Autumn,10.2,0.0,0.0,Dry (< 1 mm),,11998,3654,15652
+2025-10-28,Tue,Weekday,Autumn,10.5,0.0,0.0,Dry (< 1 mm),,13646,4025,17671
+2025-10-29,Wed,Weekday,Autumn,10.4,0.0,0.0,Dry (< 1 mm),,13707,4198,17905
+2025-10-30,Thu,Weekday,Autumn,9.3,0.0,0.0,Dry (< 1 mm),,13585,4468,18053
+2025-10-31,Fri,Weekday,Autumn,7.7,0.8,0.0,Dry (< 1 mm),,12059,5540,17599
+2025-11-01,Sat,Weekend / holiday,Autumn,7.0,0.2,0.0,Dry (< 1 mm),,9348,7332,16680
+2025-11-02,Sun,Weekend / holiday,Autumn,7.8,1.8,0.0,Light rain (1-5 mm),,8169,5142,13311
+2025-11-03,Mon,Weekday,Autumn,9.3,0.8,0.0,Dry (< 1 mm),,11934,3861,15795
+2025-11-04,Tue,Weekday,Autumn,9.8,0.0,0.0,Dry (< 1 mm),,13856,4143,17999
+2025-11-05,Wed,Weekday,Autumn,12.0,0.0,0.0,Dry (< 1 mm),,14329,4197,18526
+2025-11-06,Thu,Weekday,Autumn,8.2,0.0,0.0,Dry (< 1 mm),,13517,4172,17689
+2025-11-07,Fri,Weekday,Autumn,12.1,5.4,0.0,Heavy rain (5 mm+),,11832,5201,17033
+2025-11-08,Sat,Weekend / holiday,Autumn,7.4,10.0,0.0,Heavy rain (5 mm+),,6282,3210,9492
+2025-11-09,Sun,Weekend / holiday,Autumn,1.1,11.2,3.36,Snow,,3837,1726,5563
+2025-11-10,Mon,Weekday,Autumn,-1.1,4.9,3.43,Snow,,4254,758,5012
+2025-11-11,Tue,Weekend / holiday,Autumn,-0.4,0.0,0.0,Dry (< 1 mm),Veterans Day,6991,1465,8456
+2025-11-12,Wed,Weekday,Autumn,6.1,0.0,0.0,Dry (< 1 mm),,11011,2699,13710
+2025-11-13,Thu,Weekday,Autumn,6.4,0.0,0.0,Dry (< 1 mm),,11641,3177,14818
+2025-11-14,Fri,Weekday,Autumn,11.0,0.0,0.0,Dry (< 1 mm),,12193,5102,17295
+2025-11-15,Sat,Weekend / holiday,Autumn,15.7,0.0,0.0,Dry (< 1 mm),,11238,7837,19075
+2025-11-16,Sun,Weekend / holiday,Autumn,6.1,0.0,0.0,Dry (< 1 mm),,6887,3285,10172
+2025-11-17,Mon,Weekday,Autumn,4.2,0.0,0.0,Dry (< 1 mm),,9655,2276,11931
+2025-11-18,Tue,Weekday,Autumn,5.3,12.3,2.24,Snow,,8794,2041,10835
+2025-11-19,Wed,Weekday,Autumn,6.3,0.1,0.0,Dry (< 1 mm),,11006,2775,13781
+2025-11-20,Thu,Weekday,Autumn,7.1,0.0,0.0,Dry (< 1 mm),,11548,3136,14684
+2025-11-21,Fri,Weekday,Autumn,6.9,0.4,0.0,Dry (< 1 mm),,10312,3729,14041
+2025-11-22,Sat,Weekend / holiday,Autumn,6.0,0.0,0.0,Dry (< 1 mm),,7940,4232,12172
+2025-11-23,Sun,Weekend / holiday,Autumn,6.9,0.0,0.0,Dry (< 1 mm),,7183,4348,11531
+2025-11-24,Mon,Weekday,Autumn,6.2,0.9,0.0,Dry (< 1 mm),,8567,2367,10934
+2025-11-25,Tue,Weekday,Autumn,9.4,6.3,0.0,Heavy rain (5 mm+),,8399,2497,10896
+2025-11-26,Wed,Weekday,Autumn,2.0,0.1,0.0,Dry (< 1 mm),,4454,1223,5677
+2025-11-27,Thu,Weekend / holiday,Autumn,-1.0,0.2,0.14,Dry (< 1 mm),Thanksgiving Day,1754,978,2732
+2025-11-28,Fri,Weekday,Autumn,-2.5,0.0,0.0,Dry (< 1 mm),,3061,1202,4263
+2025-11-29,Sat,Weekend / holiday,Autumn,-2.0,16.3,11.41,Snow,,695,294,989
+2025-11-30,Sun,Weekend / holiday,Autumn,-1.8,2.8,1.89,Snow,,1194,296,1490
+2025-12-01,Mon,Weekday,Winter,-5.1,3.3,2.31,Snow,,3489,581,4070
+2025-12-02,Tue,Weekday,Winter,-6.7,0.7,0.49,Dry (< 1 mm),,4106,659,4765
+2025-12-03,Wed,Weekday,Winter,-3.8,1.2,0.84,Light rain (1-5 mm),,3965,678,4643
+2025-12-04,Thu,Weekday,Winter,-10.1,0.0,0.0,Dry (< 1 mm),,3898,789,4687
+2025-12-05,Fri,Weekday,Winter,-8.3,0.0,0.0,Dry (< 1 mm),,4024,875,4899
+2025-12-06,Sat,Weekend / holiday,Winter,-1.8,0.0,0.0,Dry (< 1 mm),,3438,1090,4528
+2025-12-07,Sun,Weekend / holiday,Winter,-1.7,9.3,6.51,Snow,,1599,373,1972
+2025-12-08,Mon,Weekday,Winter,-6.2,0.0,0.0,Dry (< 1 mm),,3813,654,4467
+2025-12-09,Tue,Weekday,Winter,-1.7,3.3,0.42,Light rain (1-5 mm),,4968,858,5826
+2025-12-10,Wed,Weekday,Winter,0.3,3.2,0.84,Light rain (1-5 mm),,4856,882,5738
+2025-12-11,Thu,Weekday,Winter,-4.2,0.0,0.0,Dry (< 1 mm),,5563,1112,6675
+2025-12-12,Fri,Weekday,Winter,-3.3,0.0,0.0,Dry (< 1 mm),,4908,1171,6079
+2025-12-13,Sat,Weekend / holiday,Winter,-10.7,1.1,0.77,Light rain (1-5 mm),,2035,633,2668
+2025-12-14,Sun,Weekend / holiday,Winter,-16.2,0.0,0.0,Dry (< 1 mm),,1330,481,1811
+2025-12-15,Mon,Weekday,Winter,-11.8,0.0,0.0,Dry (< 1 mm),,3358,581,3939
+2025-12-16,Tue,Weekday,Winter,-3.8,0.0,0.0,Dry (< 1 mm),,5490,1075,6565
+2025-12-17,Wed,Weekday,Winter,2.1,0.6,0.0,Dry (< 1 mm),,6597,1359,7956
+2025-12-18,Thu,Weekday,Winter,5.0,6.9,0.0,Heavy rain (5 mm+),,5052,1099,6151
+2025-12-19,Fri,Weekday,Winter,-7.9,0.1,0.07,Dry (< 1 mm),,3565,896,4461
+2025-12-20,Sat,Weekend / holiday,Winter,0.9,0.0,0.0,Dry (< 1 mm),,3780,1676,5456
+2025-12-21,Sun,Weekend / holiday,Winter,-3.3,0.0,0.0,Dry (< 1 mm),,2573,825,3398
+2025-12-22,Mon,Weekday,Winter,2.6,0.1,0.0,Dry (< 1 mm),,4569,1082,5651
+2025-12-23,Tue,Weekday,Winter,5.4,0.0,0.0,Dry (< 1 mm),,5011,1642,6653
+2025-12-24,Wed,Weekday,Winter,3.8,0.3,0.0,Dry (< 1 mm),,2787,910,3697
+2025-12-25,Thu,Weekend / holiday,Winter,4.1,0.2,0.0,Dry (< 1 mm),Christmas Day,1224,635,1859
+2025-12-26,Fri,Weekday,Winter,5.9,2.1,0.0,Light rain (1-5 mm),,2651,1125,3776
+2025-12-27,Sat,Weekend / holiday,Winter,4.2,0.1,0.0,Dry (< 1 mm),,2696,1335,4031
+2025-12-28,Sun,Weekend / holiday,Winter,8.3,41.2,0.07,Heavy rain (5 mm+),,1372,500,1872
+2025-12-29,Mon,Weekday,Winter,-6.3,2.2,1.54,Snow,,1943,376,2319
+2025-12-30,Tue,Weekday,Winter,-8.2,2.4,1.68,Snow,,2403,521,2924
+2025-12-31,Wed,Weekday,Winter,-1.3,2.4,1.05,Snow,,2274,615,2889
+2026-01-01,Thu,Weekend / holiday,Winter,-9.0,0.4,0.28,Dry (< 1 mm),New Year's Day,1321,557,1878
+2026-01-02,Fri,Weekday,Winter,-7.2,0.0,0.0,Dry (< 1 mm),,2595,599,3194
+2026-01-03,Sat,Weekend / holiday,Winter,-5.8,0.0,0.0,Dry (< 1 mm),,2504,726,3230
+2026-01-04,Sun,Weekend / holiday,Winter,-3.0,0.0,0.0,Dry (< 1 mm),,2876,1021,3897
+2026-01-05,Mon,Weekday,Winter,2.1,0.0,0.0,Dry (< 1 mm),,5957,1099,7056
+2026-01-06,Tue,Weekday,Winter,4.2,1.3,0.0,Light rain (1-5 mm),,7565,1448,9013
+2026-01-07,Wed,Weekday,Winter,3.3,0.0,0.0,Dry (< 1 mm),,7900,1654,9554
+2026-01-08,Thu,Weekday,Winter,8.7,17.0,0.0,Heavy rain (5 mm+),,5582,1155,6737
+2026-01-09,Fri,Weekday,Winter,8.1,0.1,0.0,Dry (< 1 mm),,6784,1876,8660
+2026-01-10,Sat,Weekend / holiday,Winter,1.7,6.4,1.61,Snow,,3880,1584,5464
+2026-01-11,Sun,Weekend / holiday,Winter,-2.2,0.2,0.14,Dry (< 1 mm),,3348,1016,4364
+2026-01-12,Mon,Weekday,Winter,0.0,0.0,0.0,Dry (< 1 mm),,6452,1235,7687
+2026-01-13,Tue,Weekday,Winter,5.0,0.8,0.0,Dry (< 1 mm),,7926,1612,9538
+2026-01-14,Wed,Weekday,Winter,-2.1,4.4,2.87,Snow,,3276,608,3884
+2026-01-15,Thu,Weekday,Winter,-7.7,0.4,0.28,Dry (< 1 mm),,4365,848,5213
+2026-01-16,Fri,Weekday,Winter,-1.6,2.0,1.4,Snow,,3540,780,4320
+2026-01-17,Sat,Weekend / holiday,Winter,-9.1,0.1,0.07,Dry (< 1 mm),,2286,548,2834
+2026-01-18,Sun,Weekend / holiday,Winter,-10.1,1.0,0.7,Light rain (1-5 mm),,2030,719,2749
+2026-01-19,Mon,Weekend / holiday,Winter,-14.0,1.4,0.98,Light rain (1-5 mm),Martin Luther King Jr. Day,1346,211,1557
+2026-01-20,Tue,Weekday,Winter,-11.8,0.0,0.0,Dry (< 1 mm),,3507,564,4071
+2026-01-21,Wed,Weekday,Winter,-3.2,2.0,1.4,Snow,,5011,813,5824
+2026-01-22,Thu,Weekday,Winter,-7.4,0.1,0.07,Dry (< 1 mm),,4118,739,4857
+2026-01-23,Fri,Weekday,Winter,-20.0,0.0,0.0,Dry (< 1 mm),,654,102,756
+2026-01-24,Sat,Weekend / holiday,Winter,-18.1,2.3,1.61,Snow,,626,106,732
+2026-01-25,Sun,Weekend / holiday,Winter,-9.9,5.5,3.85,Snow,,364,65,429
+2026-01-26,Mon,Weekday,Winter,-16.0,0.0,0.0,Dry (< 1 mm),,1547,229,1776
+2026-01-27,Tue,Weekday,Winter,-11.8,0.0,0.0,Dry (< 1 mm),,2631,392,3023
+2026-01-28,Wed,Weekday,Winter,-13.9,0.0,0.0,Dry (< 1 mm),,2899,428,3327
+2026-01-29,Thu,Weekday,Winter,-13.7,0.0,0.0,Dry (< 1 mm),,3265,494,3759
+2026-01-30,Fri,Weekday,Winter,-10.6,2.5,1.75,Snow,,2037,340,2377
+2026-01-31,Sat,Weekend / holiday,Winter,-7.3,3.0,1.82,Snow,,1625,308,1933
+2026-02-01,Sun,Weekend / holiday,Winter,-7.4,0.0,0.0,Dry (< 1 mm),,1964,454,2418
+2026-02-02,Mon,Weekday,Winter,-4.3,0.3,0.21,Dry (< 1 mm),,4053,609,4662
+2026-02-03,Tue,Weekday,Winter,-5.3,0.0,0.0,Dry (< 1 mm),,5040,771,5811
+2026-02-04,Wed,Weekday,Winter,-5.2,0.0,0.0,Dry (< 1 mm),,5109,823,5932
+2026-02-05,Thu,Weekday,Winter,-5.9,0.6,0.42,Dry (< 1 mm),,4782,797,5579
+2026-02-06,Fri,Weekday,Winter,-1.0,3.4,2.24,Snow,,4088,775,4863
+2026-02-07,Sat,Weekend / holiday,Winter,-7.2,0.1,0.14,Dry (< 1 mm),,2720,674,3394
+2026-02-08,Sun,Weekend / holiday,Winter,-4.3,0.8,0.56,Dry (< 1 mm),,2415,543,2958
+2026-02-09,Mon,Weekday,Winter,-2.7,0.0,0.0,Dry (< 1 mm),,5018,751,5769
+2026-02-10,Tue,Weekday,Winter,3.8,0.0,0.0,Dry (< 1 mm),,7095,1273,8368
+2026-02-11,Wed,Weekday,Winter,0.6,0.0,0.0,Dry (< 1 mm),,6975,1249,8224
+2026-02-12,Thu,Weekday,Winter,-0.3,0.0,0.0,Dry (< 1 mm),,6626,1260,7886
+2026-02-13,Fri,Weekday,Winter,3.2,0.0,0.0,Dry (< 1 mm),,6840,2010,8850
+2026-02-14,Sat,Weekend / holiday,Winter,3.9,0.0,0.0,Dry (< 1 mm),,4892,2216,7108
+2026-02-15,Sun,Weekend / holiday,Winter,6.0,0.0,0.0,Dry (< 1 mm),,5986,3550,9536
+2026-02-16,Mon,Weekend / holiday,Winter,8.3,0.0,0.0,Dry (< 1 mm),Presidents' Day,7735,3032,10767
+2026-02-17,Tue,Weekday,Winter,7.9,4.2,0.0,Light rain (1-5 mm),,8087,1852,9939
+2026-02-18,Wed,Weekday,Winter,11.7,1.9,0.0,Light rain (1-5 mm),,9679,2580,12259
+2026-02-19,Thu,Weekday,Winter,7.6,0.2,0.0,Dry (< 1 mm),,8072,1876,9948
+2026-02-20,Fri,Weekday,Winter,1.4,3.9,0.21,Light rain (1-5 mm),,4930,1101,6031
+2026-02-21,Sat,Weekend / holiday,Winter,-2.2,0.5,0.42,Dry (< 1 mm),,3705,1152,4857
+2026-02-22,Sun,Weekend / holiday,Winter,-4.0,0.6,0.42,Dry (< 1 mm),,2475,647,3122
+2026-02-23,Mon,Weekday,Winter,-5.2,0.0,0.0,Dry (< 1 mm),,4769,779,5548
+2026-02-24,Tue,Weekday,Winter,-1.9,0.1,0.07,Dry (< 1 mm),,6154,1049,7203
+2026-02-25,Wed,Weekday,Winter,-0.3,0.0,0.0,Dry (< 1 mm),,7063,1348,8411
+2026-02-26,Thu,Weekday,Winter,-0.1,0.0,0.0,Dry (< 1 mm),,7319,1593,8912
+2026-02-27,Fri,Weekday,Winter,6.4,0.0,0.0,Dry (< 1 mm),,9230,3665,12895
+2026-02-28,Sat,Weekend / holiday,Winter,1.4,0.0,0.0,Dry (< 1 mm),,4385,1639,6024
+2026-03-01,Sun,Weekend / holiday,Spring,-2.4,0.0,0.0,Dry (< 1 mm),,3416,1094,4510
+2026-03-02,Mon,Weekday,Spring,-0.3,0.0,0.0,Dry (< 1 mm),,6600,1404,8004
+2026-03-03,Tue,Weekday,Spring,1.2,0.3,0.0,Dry (< 1 mm),,7492,1418,8910
+2026-03-04,Wed,Weekday,Spring,2.2,2.8,0.0,Light rain (1-5 mm),,6438,1273,7711
+2026-03-05,Thu,Weekday,Spring,5.2,1.0,0.0,Light rain (1-5 mm),,7197,1616,8813
+2026-03-06,Fri,Weekday,Spring,11.6,7.4,0.0,Heavy rain (5 mm+),,5822,1723,7545
+2026-03-07,Sat,Weekend / holiday,Spring,12.1,6.5,0.0,Heavy rain (5 mm+),,6180,2819,8999
+2026-03-08,Sun,Weekend / holiday,Spring,8.0,0.0,0.0,Dry (< 1 mm),,6826,4116,10942
+2026-03-09,Mon,Weekday,Spring,14.1,0.0,0.0,Dry (< 1 mm),,11175,4590,15765
+2026-03-10,Tue,Weekday,Spring,8.5,0.3,0.0,Dry (< 1 mm),,7153,1618,8771
+2026-03-11,Wed,Weekday,Spring,3.1,7.6,0.84,Heavy rain (5 mm+),,5331,1058,6389
+2026-03-12,Thu,Weekday,Spring,3.1,0.1,0.0,Dry (< 1 mm),,8343,2352,10695
+2026-03-13,Fri,Weekday,Spring,5.4,1.6,0.07,Light rain (1-5 mm),,6377,2335,8712
+2026-03-14,Sat,Weekend / holiday,Spring,0.9,0.6,0.49,Dry (< 1 mm),,5194,2813,8007
+2026-03-15,Sun,Weekend / holiday,Spring,7.4,41.6,0.0,Heavy rain (5 mm+),,3060,1496,4556
+2026-03-16,Mon,Weekday,Spring,-3.2,5.3,3.15,Snow,,3172,533,3705
+2026-03-17,Tue,Weekday,Spring,-6.9,0.0,0.0,Dry (< 1 mm),,5243,979,6222
+2026-03-18,Wed,Weekday,Spring,0.0,0.8,0.56,Dry (< 1 mm),,6568,1579,8147
+2026-03-19,Thu,Weekday,Spring,5.1,2.3,0.0,Light rain (1-5 mm),,8976,2758,11734
+2026-03-20,Fri,Weekday,Spring,10.1,0.0,0.0,Dry (< 1 mm),,9739,4363,14102
+2026-03-21,Sat,Weekend / holiday,Spring,12.0,0.0,0.0,Dry (< 1 mm),,10946,10055,21001
+2026-03-22,Sun,Weekend / holiday,Spring,6.6,1.8,0.0,Light rain (1-5 mm),,4238,2405,6643
+2026-03-23,Mon,Weekday,Spring,0.8,0.1,0.0,Dry (< 1 mm),,6557,1465,8022
+2026-03-24,Tue,Weekday,Spring,3.3,0.0,0.0,Dry (< 1 mm),,8438,1987,10425
+2026-03-25,Wed,Weekday,Spring,11.7,0.0,0.0,Dry (< 1 mm),,11371,3916,15287
+2026-03-26,Thu,Weekday,Spring,10.5,5.5,0.0,Heavy rain (5 mm+),,7673,2337,10010
+2026-03-27,Fri,Weekday,Spring,1.1,0.1,0.07,Dry (< 1 mm),,6803,2075,8878
+2026-03-28,Sat,Weekend / holiday,Spring,3.1,0.0,0.0,Dry (< 1 mm),,6982,4056,11038
+2026-03-29,Sun,Weekend / holiday,Spring,10.3,0.0,0.0,Dry (< 1 mm),,8131,5107,13238
+2026-03-30,Mon,Weekday,Spring,17.8,3.2,0.0,Light rain (1-5 mm),,13751,6934,20685
+2026-03-31,Tue,Weekday,Spring,14.9,5.9,0.0,Heavy rain (5 mm+),,8431,2528,10959
+2026-04-01,Wed,Weekday,Spring,3.6,0.5,0.0,Dry (< 1 mm),,8174,2017,10191
+2026-04-02,Thu,Weekday,Spring,11.5,26.1,0.0,Heavy rain (5 mm+),,6520,1869,8389
+2026-04-03,Fri,Weekday,Spring,9.0,2.4,0.0,Light rain (1-5 mm),,8254,3520,11774
+2026-04-04,Sat,Weekend / holiday,Spring,9.2,10.5,0.0,Heavy rain (5 mm+),,5208,2588,7796
+2026-04-05,Sun,Weekend / holiday,Spring,6.6,0.0,0.0,Dry (< 1 mm),,5436,3276,8712
+2026-04-06,Mon,Weekday,Spring,6.5,4.3,0.0,Light rain (1-5 mm),,9028,2464,11492
+2026-04-07,Tue,Weekday,Spring,0.7,0.0,0.0,Dry (< 1 mm),,8672,1997,10669
+2026-04-08,Wed,Weekday,Spring,9.9,0.1,0.0,Dry (< 1 mm),,12379,3912,16291
+2026-04-09,Thu,Weekday,Spring,15.2,3.8,0.0,Light rain (1-5 mm),,12977,4666,17643
+2026-04-10,Fri,Weekday,Spring,6.6,5.4,0.0,Heavy rain (5 mm+),,8796,3327,12123
+2026-04-11,Sat,Weekend / holiday,Spring,7.0,0.0,0.0,Dry (< 1 mm),,8592,5596,14188
+2026-04-12,Sun,Weekend / holiday,Spring,18.5,2.7,0.0,Light rain (1-5 mm),,9535,7151,16686
+2026-04-13,Mon,Weekday,Spring,19.8,2.2,0.0,Light rain (1-5 mm),,12473,4472,16945
+2026-04-14,Tue,Weekday,Spring,21.0,0.1,0.0,Dry (< 1 mm),,13153,5074,18227
+2026-04-15,Wed,Weekday,Spring,18.3,28.7,0.0,Heavy rain (5 mm+),,10948,3638,14586
+2026-04-16,Thu,Weekday,Spring,15.9,9.1,0.0,Heavy rain (5 mm+),,11843,3949,15792
+2026-04-17,Fri,Weekday,Spring,16.6,18.5,0.0,Heavy rain (5 mm+),,12595,6802,19397
+2026-04-18,Sat,Weekend / holiday,Spring,10.5,9.0,0.0,Heavy rain (5 mm+),,8564,5610,14174
+2026-04-19,Sun,Weekend / holiday,Spring,5.9,3.5,1.19,Snow,,6355,3455,9810
+2026-04-20,Mon,Weekday,Spring,7.2,0.0,0.0,Dry (< 1 mm),,10429,3480,13909
+2026-04-21,Tue,Weekday,Spring,15.2,1.3,0.0,Light rain (1-5 mm),,14307,5316,19623
+2026-04-22,Wed,Weekday,Spring,13.5,0.0,0.0,Dry (< 1 mm),,14554,5075,19629
+2026-04-23,Thu,Weekday,Spring,18.2,0.0,0.0,Dry (< 1 mm),,16483,8041,24524
+2026-04-24,Fri,Weekday,Spring,18.4,1.3,0.0,Light rain (1-5 mm),,13078,6766,19844
+2026-04-25,Sat,Weekend / holiday,Spring,8.1,0.0,0.0,Dry (< 1 mm),,8634,5431,14065
+2026-04-26,Sun,Weekend / holiday,Spring,10.1,0.0,0.0,Dry (< 1 mm),,7933,4807,12740
+2026-04-27,Mon,Weekday,Spring,14.8,26.3,0.0,Heavy rain (5 mm+),,7692,1863,9555
+2026-04-28,Tue,Weekday,Spring,13.8,0.5,0.0,Dry (< 1 mm),,13547,4386,17933
+2026-04-29,Wed,Weekday,Spring,9.4,3.5,0.0,Light rain (1-5 mm),,11627,3363,14990
+2026-04-30,Thu,Weekday,Spring,6.9,3.9,0.0,Light rain (1-5 mm),,10631,3097,13728
+2026-05-01,Fri,Weekday,Spring,5.9,2.1,0.0,Light rain (1-5 mm),,9550,3849,13399
+2026-05-02,Sat,Weekend / holiday,Spring,7.3,0.4,0.0,Dry (< 1 mm),,9609,6522,16131
+2026-05-03,Sun,Weekend / holiday,Spring,11.7,0.3,0.0,Dry (< 1 mm),,8506,5405,13911
+2026-05-04,Mon,Weekday,Spring,16.9,1.2,0.0,Light rain (1-5 mm),,13136,5880,19016
+2026-05-05,Tue,Weekday,Spring,12.4,1.3,0.0,Light rain (1-5 mm),,11541,3982,15523
+2026-05-06,Wed,Weekday,Spring,10.5,0.0,0.0,Dry (< 1 mm),,13670,4659,18329
+2026-05-07,Thu,Weekday,Spring,10.1,1.1,0.0,Light rain (1-5 mm),,12745,4441,17186
+2026-05-08,Fri,Weekday,Spring,12.7,0.0,0.0,Dry (< 1 mm),,13026,6897,19923
+2026-05-09,Sat,Weekend / holiday,Spring,16.1,0.3,0.0,Dry (< 1 mm),,12429,10993,23422
+2026-05-10,Sun,Weekend / holiday,Spring,12.0,0.0,0.0,Dry (< 1 mm),,8863,6250,15113
+2026-05-11,Mon,Weekday,Spring,9.2,0.0,0.0,Dry (< 1 mm),,11393,3671,15064
+2026-05-12,Tue,Weekday,Spring,15.2,1.5,0.0,Light rain (1-5 mm),,11725,3842,15567
+2026-05-13,Wed,Weekday,Spring,11.8,0.0,0.0,Dry (< 1 mm),,13569,4610,18179
+2026-05-14,Thu,Weekday,Spring,12.4,0.0,0.0,Dry (< 1 mm),,14724,6004,20728
+2026-05-15,Fri,Weekday,Spring,17.3,0.8,0.0,Dry (< 1 mm),,13874,8210,22084
+2026-05-16,Sat,Weekend / holiday,Spring,22.6,3.3,0.0,Light rain (1-5 mm),,13877,15116,28993
+2026-05-17,Sun,Weekend / holiday,Spring,24.8,0.2,0.0,Dry (< 1 mm),,12176,12440,24616
+2026-05-18,Mon,Weekday,Spring,23.7,3.6,0.0,Light rain (1-5 mm),,13262,6239,19501
+2026-05-19,Tue,Weekday,Spring,22.0,0.8,0.0,Dry (< 1 mm),,16233,7296,23529
+2026-05-20,Wed,Weekday,Spring,12.8,0.0,0.0,Dry (< 1 mm),,14757,6091,20848
+2026-05-21,Thu,Weekday,Spring,11.5,0.4,0.0,Dry (< 1 mm),,13593,5484,19077
+2026-05-22,Fri,Weekday,Spring,14.5,0.0,0.0,Dry (< 1 mm),,12383,6861,19244
+2026-05-23,Sat,Weekend / holiday,Spring,14.8,0.3,0.0,Dry (< 1 mm),,10486,10617,21103
+2026-05-24,Sun,Weekend / holiday,Spring,17.1,16.0,0.0,Heavy rain (5 mm+),,9528,10254,19782
+2026-05-25,Mon,Weekend / holiday,Spring,20.6,0.0,0.0,Dry (< 1 mm),Memorial Day,13066,15280,28346
+2026-05-26,Tue,Weekday,Spring,22.5,0.0,0.0,Dry (< 1 mm),,16281,7897,24178
+2026-05-27,Wed,Weekday,Spring,19.9,0.0,0.0,Dry (< 1 mm),,17386,8152,25538
+2026-05-28,Thu,Weekday,Spring,15.5,0.0,0.0,Dry (< 1 mm),,16158,7169,23327
+2026-05-29,Fri,Weekday,Spring,19.3,0.0,0.0,Dry (< 1 mm),,15830,9585,25415
+2026-05-30,Sat,Weekend / holiday,Spring,18.0,0.0,0.0,Dry (< 1 mm),,14266,12616,26882
+2026-05-31,Sun,Weekend / holiday,Spring,16.8,0.0,0.0,Dry (< 1 mm),,11814,9541,21355
+2026-06-01,Mon,Weekday,Summer,16.1,0.1,0.0,Dry (< 1 mm),,13557,5651,19208
+2026-06-02,Tue,Weekday,Summer,17.3,0.0,0.0,Dry (< 1 mm),,17004,7499,24503
+2026-06-03,Wed,Weekday,Summer,19.4,0.0,0.0,Dry (< 1 mm),,17798,8408,26206
+2026-06-04,Thu,Weekday,Summer,24.6,0.0,0.0,Dry (< 1 mm),,17895,9969,27864
+2026-06-05,Fri,Weekday,Summer,22.5,13.6,0.0,Heavy rain (5 mm+),,14143,8296,22439
+2026-06-06,Sat,Weekend / holiday,Summer,21.7,5.6,0.0,Heavy rain (5 mm+),,15813,17737,33550
+2026-06-07,Sun,Weekend / holiday,Summer,20.4,1.4,0.0,Light rain (1-5 mm),,12762,13329,26091
+2026-06-08,Mon,Weekday,Summer,22.3,20.8,0.0,Heavy rain (5 mm+),,12559,5549,18108
+2026-06-09,Tue,Weekday,Summer,24.8,6.9,0.0,Heavy rain (5 mm+),,16080,7272,23352
+2026-06-10,Wed,Weekday,Summer,24.3,12.9,0.0,Heavy rain (5 mm+),,13369,5773,19142
+2026-06-11,Thu,Weekday,Summer,23.1,18.1,0.0,Heavy rain (5 mm+),,12345,5137,17482
+2026-06-12,Fri,Weekday,Summer,21.6,0.0,0.0,Dry (< 1 mm),,18285,14334,32619
+2026-06-13,Sat,Weekend / holiday,Summer,22.9,3.2,0.0,Light rain (1-5 mm),,17037,20152,37189
+2026-06-14,Sun,Weekend / holiday,Summer,18.8,11.7,0.0,Heavy rain (5 mm+),,10942,9531,20473
+2026-06-15,Mon,Weekday,Summer,18.8,0.0,0.0,Dry (< 1 mm),,15791,8632,24423
+2026-06-16,Tue,Weekday,Summer,19.3,2.5,0.0,Light rain (1-5 mm),,16966,8052,25018
+2026-06-17,Wed,Weekday,Summer,17.3,15.7,0.0,Heavy rain (5 mm+),,10916,4509,15425
+2026-06-18,Thu,Weekday,Summer,19.3,0.4,0.0,Dry (< 1 mm),,17007,9498,26505
+2026-06-19,Fri,Weekend / holiday,Summer,20.1,0.1,0.0,Dry (< 1 mm),Juneteenth,16866,16878,33744
+2026-06-20,Sat,Weekend / holiday,Summer,20.9,0.3,0.0,Dry (< 1 mm),,15633,19321,34954
+2026-06-21,Sun,Weekend / holiday,Summer,18.7,29.6,0.0,Heavy rain (5 mm+),,5306,4799,10105
+2026-06-22,Mon,Weekday,Summer,17.1,3.2,0.0,Light rain (1-5 mm),,14922,7324,22246
+2026-06-23,Tue,Weekday,Summer,17.3,0.0,0.0,Dry (< 1 mm),,17177,8663,25840
+2026-06-24,Wed,Weekday,Summer,17.9,25.4,0.0,Heavy rain (5 mm+),,13035,5387,18422
+2026-06-25,Thu,Weekday,Summer,20.5,2.2,0.0,Light rain (1-5 mm),,17618,9536,27154
+2026-06-26,Fri,Weekday,Summer,17.3,1.6,0.0,Light rain (1-5 mm),,13208,7918,21126
+2026-06-27,Sat,Weekend / holiday,Summer,19.6,0.0,0.0,Dry (< 1 mm),,14870,15881,30751
+2026-06-28,Sun,Weekend / holiday,Summer,22.3,0.1,0.0,Dry (< 1 mm),,13031,13645,26676
+2026-06-29,Mon,Weekday,Summer,28.0,6.0,0.0,Heavy rain (5 mm+),,15363,9166,24529
+2026-06-30,Tue,Weekday,Summer,30.1,0.3,0.0,Dry (< 1 mm),,16803,9370,26173
+2026-07-01,Wed,Weekday,Summer,31.3,0.0,0.0,Dry (< 1 mm),,17328,10281,27609
+2026-07-02,Thu,Weekday,Summer,29.2,5.1,0.0,Heavy rain (5 mm+),,15172,9764,24936
+2026-07-03,Fri,Weekend / holiday,Summer,26.0,11.9,0.0,Heavy rain (5 mm+),Independence Day (observed),9791,8752,18543
+2026-07-04,Sat,Weekend / holiday,Summer,23.6,15.9,0.0,Heavy rain (5 mm+),Independence Day,8818,12136,20954
+2026-07-05,Sun,Weekend / holiday,Summer,21.2,1.6,0.0,Light rain (1-5 mm),,9807,8884,18691
+2026-07-06,Mon,Weekday,Summer,21.8,0.2,0.0,Dry (< 1 mm),,16768,9399,26167
+2026-07-07,Tue,Weekday,Summer,23.3,0.0,0.0,Dry (< 1 mm),,18362,8590,26952
+2026-07-08,Wed,Weekday,Summer,26.4,0.0,0.0,Dry (< 1 mm),,19025,10251,29276
+2026-07-09,Thu,Weekday,Summer,26.0,4.2,0.0,Light rain (1-5 mm),,17337,8290,25627
+2026-07-10,Fri,Weekday,Summer,23.1,0.3,0.0,Dry (< 1 mm),,17420,11934,29354
+2026-07-11,Sat,Weekend / holiday,Summer,22.8,0.0,0.0,Dry (< 1 mm),,17938,20268,38206
+2026-07-12,Sun,Weekend / holiday,Summer,24.4,0.0,0.0,Dry (< 1 mm),,15410,16353,31763
+2026-07-13,Mon,Weekday,Summer,26.6,0.0,0.0,Dry (< 1 mm),,16869,9124,25993
+2026-07-14,Tue,Weekday,Summer,28.7,0.0,0.0,Dry (< 1 mm),,18796,10011,28807
+2026-07-15,Wed,Weekday,Summer,28.8,0.0,0.0,Dry (< 1 mm),,18957,11048,30005
+2026-07-16,Thu,Weekday,Summer,26.0,0.0,0.0,Dry (< 1 mm),,13095,6477,19572
+2026-07-17,Fri,Weekday,Summer,26.7,19.1,0.0,Heavy rain (5 mm+),,13119,9131,22250
+2026-07-18,Sat,Weekend / holiday,Summer,26.1,8.3,0.0,Heavy rain (5 mm+),,15213,15875,31088
+2026-07-19,Sun,Weekend / holiday,Summer,22.2,0.0,0.0,Dry (< 1 mm),,13360,13319,26679
+2026-07-20,Mon,Weekday,Summer,23.4,0.2,0.0,Dry (< 1 mm),,15389,8035,23424
+2026-07-21,Tue,Weekday,Summer,25.0,6.0,0.0,Heavy rain (5 mm+),,18884,9441,28325
+2026-07-22,Wed,Weekday,Summer,19.3,1.4,0.0,Light rain (1-5 mm),,19555,10283,29838
+2026-07-23,Thu,Weekday,Summer,19.9,0.0,0.0,Dry (< 1 mm),,19189,10538,29727
+2026-07-24,Fri,Weekday,Summer,21.3,0.0,0.0,Dry (< 1 mm),,17816,13093,30909
+2026-07-25,Sat,Weekend / holiday,Summer,22.1,0.0,0.0,Dry (< 1 mm),,17345,20090,37435
+2026-07-26,Sun,Weekend / holiday,Summer,26.0,0.0,0.0,Dry (< 1 mm),,14948,16069,31017
+2026-07-27,Mon,Weekday,Summer,24.8,19.2,0.0,Heavy rain (5 mm+),,10893,4538,15431
+2026-07-28,Tue,Weekday,Summer,22.1,0.2,0.0,Dry (< 1 mm),,18578,8795,27373
+2026-07-29,Wed,Weekday,Summer,21.7,0.0,0.0,Dry (< 1 mm),,20259,10927,31186
+2026-07-30,Thu,Weekday,Summer,24.0,0.0,0.0,Dry (< 1 mm),,19804,12587,32391
+2026-07-31,Fri,Weekday,Summer,23.0,12.4,0.0,Heavy rain (5 mm+),,15111,11250,26361
+2026-08-01,Sat,Weekend / holiday,Summer,21.2,77.7,0.0,Heavy rain (5 mm+),,8904,8796,17700
+2026-08-02,Sun,Weekend / holiday,Summer,20.8,0.6,0.0,Dry (< 1 mm),,13909,13580,27489
+2026-08-03,Mon,Weekday,Summer,22.5,0.0,0.0,Dry (< 1 mm),,17479,10610,28089
+2026-08-04,Tue,Weekday,Summer,24.3,0.0,0.0,Dry (< 1 mm),,19928,10872,30800
+2026-08-05,Wed,Weekday,Summer,23.7,10.2,0.0,Heavy rain (5 mm+),,17083,7907,24990
+2026-08-06,Thu,Weekday,Summer,22.7,3.6,0.0,Light rain (1-5 mm),,18584,10178,28762
+2026-08-07,Fri,Weekday,Summer,24.4,0.7,0.0,Dry (< 1 mm),,17737,13176,30913
+2026-08-08,Sat,Weekend / holiday,Summer,24.0,0.1,0.0,Dry (< 1 mm),,18257,21085,39342
+2026-08-09,Sun,Weekend / holiday,Summer,22.1,19.4,0.0,Heavy rain (5 mm+),,10852,8864,19716
+2026-08-10,Mon,Weekday,Summer,23.1,18.8,0.0,Heavy rain (5 mm+),,15713,7467,23180
+2026-08-11,Tue,Weekday,Summer,23.4,17.6,0.0,Heavy rain (5 mm+),,16084,6836,22920
+2026-08-12,Wed,Weekday,Summer,23.8,4.1,0.0,Light rain (1-5 mm),,18334,8339,26673
+2026-08-13,Thu,Weekday,Summer,23.4,15.3,0.0,Heavy rain (5 mm+),,12468,5203,17671
+2026-08-14,Fri,Weekday,Summer,23.7,4.5,0.0,Light rain (1-5 mm),,17227,12366,29593
+2026-08-15,Sat,Weekend / holiday,Summer,24.2,16.2,0.0,Heavy rain (5 mm+),,12846,13038,25884
+2026-08-16,Sun,Weekend / holiday,Summer,25.0,9.0,0.0,Heavy rain (5 mm+),,14475,14619,29094
+2026-08-17,Mon,Weekday,Summer,22.4,1.4,0.0,Light rain (1-5 mm),,17120,9334,26454
+2026-08-18,Tue,Weekday,Summer,21.7,8.7,0.0,Heavy rain (5 mm+),,18683,8720,27403
+2026-08-19,Wed,Weekday,Summer,21.8,0.9,0.0,Dry (< 1 mm),,19857,10117,29974
+2026-08-20,Thu,Weekday,Summer,21.9,0.0,0.0,Dry (< 1 mm),,19860,10606,30466
+2026-08-21,Fri,Weekday,Summer,21.6,0.8,0.0,Dry (< 1 mm),,17347,11476,28823
+2026-08-22,Sat,Weekend / holiday,Summer,22.1,0.8,0.0,Dry (< 1 mm),,18146,18632,36778
+2026-08-23,Sun,Weekend / holiday,Summer,20.3,0.0,0.0,Dry (< 1 mm),,15261,14522,29783
+2026-08-24,Mon,Weekday,Summer,19.4,0.0,0.0,Dry (< 1 mm),,17402,8027,25429
+2026-08-25,Tue,Weekday,Summer,20.6,0.0,0.0,Dry (< 1 mm),,19673,9039,28712
+2026-08-26,Wed,Weekday,Summer,23.1,2.7,0.0,Light rain (1-5 mm),,19715,9394,29109
+2026-08-27,Thu,Weekday,Summer,22.2,0.6,0.0,Dry (< 1 mm),,20010,10534,30544
+2026-08-28,Fri,Weekday,Summer,22.6,0.4,0.0,Dry (< 1 mm),,18859,13617,32476
+2026-08-29,Sat,Weekend / holiday,Summer,22.4,0.2,0.0,Dry (< 1 mm),,16327,15500,31827
+2026-08-30,Sun,Weekend / holiday,Summer,23.0,9.5,0.0,Heavy rain (5 mm+),,10807,7992,18799
+2026-08-31,Mon,Weekday,Summer,25.4,10.1,0.0,Heavy rain (5 mm+),,11987,5050,17037
+2026-09-01,Tue,Weekday,Autumn,27.4,0.0,0.0,Dry (< 1 mm),,19099,8671,27770
+2026-09-02,Wed,Weekday,Autumn,28.8,0.2,0.0,Dry (< 1 mm),,19454,9590,29044
+2026-09-03,Thu,Weekday,Autumn,26.7,11.5,0.0,Heavy rain (5 mm+),,18933,11438,30371
+2026-09-04,Fri,Weekday,Autumn,26.0,8.2,0.0,Heavy rain (5 mm+),,16366,14789,31155
+2026-09-05,Sat,Weekend / holiday,Autumn,23.9,1.1,0.0,Light rain (1-5 mm),,14393,17947,32340
+2026-09-06,Sun,Weekend / holiday,Autumn,22.4,0.2,0.0,Dry (< 1 mm),,14062,19297,33359
+2026-09-07,Mon,Weekend / holiday,Autumn,22.3,0.0,0.0,Dry (< 1 mm),Labor Day,13278,13876,27154
+2026-09-08,Tue,Weekday,Autumn,22.7,0.1,0.0,Dry (< 1 mm),,17705,7858,25563
+2026-09-09,Wed,Weekday,Autumn,23.2,15.2,0.0,Heavy rain (5 mm+),,15798,7078,22876
+2026-09-10,Thu,Weekday,Autumn,21.6,0.0,0.0,Dry (< 1 mm),,18890,8411,27301
+2026-09-11,Fri,Weekday,Autumn,21.2,0.0,0.0,Dry (< 1 mm),,18514,11506,30020
+2026-09-12,Sat,Weekend / holiday,Autumn,23.8,0.0,0.0,Dry (< 1 mm),,17227,17072,34299
+2026-09-13,Sun,Weekend / holiday,Autumn,19.0,1.9,0.0,Light rain (1-5 mm),,12911,10187,23098
+2026-09-14,Mon,Weekday,Autumn,17.8,0.0,0.0,Dry (< 1 mm),,16564,7417,23981
+2026-09-15,Tue,Weekday,Autumn,22.3,6.3,0.0,Heavy rain (5 mm+),,17879,7361,25240
+2026-09-16,Wed,Weekday,Autumn,21.4,6.1,0.0,Heavy rain (5 mm+),,16277,7048,23325
+2026-09-17,Thu,Weekday,Autumn,21.3,36.5,0.0,Heavy rain (5 mm+),,13291,6386,19677
+2026-09-18,Fri,Weekday,Autumn,20.3,9.8,0.0,Heavy rain (5 mm+),,17016,10096,27112
+2026-09-19,Sat,Weekend / holiday,Autumn,19.7,26.9,0.0,Heavy rain (5 mm+),,9130,7005,16135
+2026-09-20,Sun,Weekend / holiday,Autumn,19.6,28.9,0.0,Heavy rain (5 mm+),,5267,3425,8692
+2026-09-21,Mon,Weekday,Autumn,16.8,4.0,0.0,Light rain (1-5 mm),,13223,5058,18281
+2026-09-22,Tue,Weekday,Autumn,15.3,0.9,0.0,Dry (< 1 mm),,17747,6688,24435
+2026-09-23,Wed,Weekday,Autumn,16.5,0.0,0.0,Dry (< 1 mm),,17956,7052,25008
+2026-09-24,Thu,Weekday,Autumn,17.2,0.0,0.0,Dry (< 1 mm),,18318,8141,26459
+2026-09-25,Fri,Weekday,Autumn,16.5,0.0,0.0,Dry (< 1 mm),,16018,8619,24637
+2026-09-26,Sat,Weekend / holiday,Autumn,15.9,0.0,0.0,Dry (< 1 mm),,15162,12896,28058
+2026-09-27,Sun,Weekend / holiday,Autumn,16.1,0.0,0.0,Dry (< 1 mm),,13214,10785,23999
+2026-09-28,Mon,Weekday,Autumn,16.9,0.0,0.0,Dry (< 1 mm),,17087,8472,25559
+2026-09-29,Tue,Weekday,Autumn,17.4,0.0,0.0,Dry (< 1 mm),,19039,7524,26563
+2026-09-30,Wed,Weekday,Autumn,17.8,28.6,0.0,Heavy rain (5 mm+),,7230,2494,9724

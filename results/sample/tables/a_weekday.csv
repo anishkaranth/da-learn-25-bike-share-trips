@@ -1,0 +1,15 @@
+weekday_num,day_name,rider_type,rides,n_days,rides_per_day,median_min
+0,Mon,casual,891,52,17.0,10.7
+0,Mon,member,2161,52,42.0,8.45
+1,Tue,casual,972,52,19.0,9.69
+1,Tue,member,2361,52,45.0,8.5
+2,Wed,casual,946,53,18.0,9.49
+2,Wed,member,2498,53,47.0,8.36
+3,Thu,casual,1014,52,20.0,10.46
+3,Thu,member,2405,52,46.0,8.67
+4,Fri,casual,1324,52,25.0,11.1
+4,Fri,member,2280,52,44.0,8.68
+5,Sat,casual,1773,52,34.0,12.45
+5,Sat,member,1964,52,38.0,9.77
+6,Sun,casual,1351,52,26.0,13.05
+6,Sun,member,1557,52,30.0,9.3

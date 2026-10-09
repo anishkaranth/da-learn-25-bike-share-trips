@@ -1,0 +1,20 @@
+check_name,affected_rows
+RI: valid rides lost in dimension joins,0
+"distances approximate (2-decimal dockless coordinates), kept + flagged",1957627
+"dockless e-bike starts (no station), kept",1289480
+"duplicate rows: same ride published in two monthly files (Apr/May 2026 boundary), dropped",35
+"implausible straight-line speed > 45 km/h, invalid",18
+"negative durations in the repeated 1 AM hour of 2 Nov 2025 (DST end), fixed +60 min",29
+"negative durations left after the DST fix, invalid",0
+raw station-name variants merged by standardisation,7
+ride_id repeated with different content (first file kept),0
+"rides at test / depot / warehouse stations, invalid",970
+"rides outside the service-area box, invalid",31
+"rides over 24 h (lost / not returned), invalid",5317
+"rides started before 1 Oct 2025 (spill-over in the Oct file), invalid",71
+"rides under 60 s (false starts / re-docks), invalid",158567
+"rides with no end location, invalid",5445
+"station ids with a leading space, trimmed",1218
+"station names fixed (trailing space, trailing *, double space)",110914
+stations seen with more than one station id,61
+zip quirk: 202601 zip contains a file named 202501-divvy-tripdata.csv (renamed on download),1

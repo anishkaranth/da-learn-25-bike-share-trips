@@ -1,0 +1,7 @@
+entity,column_name,null_pct,treatment
+raw rides,end_lat / end_lng,0.09,no end location = bike not returned / lost: invalid
+raw rides,end_station_name,21.96,"dockless e-bike ends: kept, end_station_key = 0"
+raw rides,ride_id / rideable_type / started_at / ended_at / member_casual,0.0,required: never empty
+raw rides,"start_lat (2-decimal, rounded)",20.89,dockless coordinates are rounded to ~1 km: distance flagged approximate
+raw rides,start_station_id,20.89,id only used as an attribute; stations are keyed by clean name
+raw rides,start_station_name,20.89,"e-bikes can start away from a dock: kept, start_station_key = 0 (dockless)"

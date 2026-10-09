@@ -1,0 +1,31 @@
+rider_type,rnk,station_name,zone,rides,all_starts,casual_share_pct,round_trip_pct
+casual,1,Navy Pier,1 Loop + near downtown (< 3 km),198,261,75.86,15.71
+casual,2,DuSable Lake Shore Dr & Monroe St,1 Loop + near downtown (< 3 km),102,143,71.33,19.58
+casual,3,Michigan Ave & Oak St,1 Loop + near downtown (< 3 km),85,131,64.89,10.69
+casual,4,DuSable Lake Shore Dr & North Blvd,2 Inner neighbourhoods (3-8 km),61,118,51.69,1.69
+casual,5,Theater on the Lake,2 Inner neighbourhoods (3-8 km),59,101,58.42,9.9
+casual,6,Millennium Park,1 Loop + near downtown (< 3 km),58,92,63.04,14.13
+casual,7,Shedd Aquarium,1 Loop + near downtown (< 3 km),58,69,84.06,14.49
+casual,8,Dusable Harbor,1 Loop + near downtown (< 3 km),46,67,68.66,7.46
+casual,9,Adler Planetarium,1 Loop + near downtown (< 3 km),44,60,73.33,10.0
+casual,10,Field Museum,1 Loop + near downtown (< 3 km),44,55,80.0,3.64
+casual,11,Clark St & Lincoln Ave,2 Inner neighbourhoods (3-8 km),42,108,38.89,0.0
+casual,12,Michigan Ave & Lake St,1 Loop + near downtown (< 3 km),42,80,52.5,6.25
+casual,13,Michigan Ave & 8th St,1 Loop + near downtown (< 3 km),34,51,66.67,15.69
+casual,14,Montrose Harbor,3 Outer neighbourhoods (8-15 km),34,65,52.31,12.31
+casual,15,Wabash Ave & Grand Ave,1 Loop + near downtown (< 3 km),34,79,43.04,3.8
+member,1,State St & Chicago Ave,1 Loop + near downtown (< 3 km),92,118,22.03,1.69
+member,2,Clinton St & Jackson Blvd,1 Loop + near downtown (< 3 km),86,102,15.69,0.98
+member,3,Canal St & Madison St,1 Loop + near downtown (< 3 km),85,107,20.56,1.87
+member,4,Kingsbury St & Kinzie St 2,1 Loop + near downtown (< 3 km),75,94,20.21,2.13
+member,5,Clark St & Elm St,1 Loop + near downtown (< 3 km),74,96,22.92,0.0
+member,6,Wells St & Elm St,1 Loop + near downtown (< 3 km),70,100,30.0,1.0
+member,7,University Ave & 57th St,3 Outer neighbourhoods (8-15 km),67,83,19.28,1.2
+member,8,Clark St & Lincoln Ave,2 Inner neighbourhoods (3-8 km),66,108,38.89,0.0
+member,9,Clinton St & Washington Blvd 2,1 Loop + near downtown (< 3 km),66,83,20.48,2.41
+member,10,Clinton St & Madison St,1 Loop + near downtown (< 3 km),65,90,27.78,2.22
+member,11,Green St & Madison St,1 Loop + near downtown (< 3 km),64,86,25.58,2.33
+member,12,Wells St & Hubbard St,1 Loop + near downtown (< 3 km),64,88,27.27,2.27
+member,13,Kingsbury St & Erie St,1 Loop + near downtown (< 3 km),63,83,24.1,1.2
+member,14,Navy Pier,1 Loop + near downtown (< 3 km),63,261,75.86,15.71
+member,15,Ravenswood Ave & Lawrence Ave,3 Outer neighbourhoods (8-15 km),61,80,23.75,0.0

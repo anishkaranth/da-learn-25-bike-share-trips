@@ -1,0 +1,97 @@
+day_type,hour,rider_type,rides,n_days,rides_per_day
+Weekday,0,casual,18877,250,75.5
+Weekday,0,member,16430,250,65.7
+Weekday,1,casual,11044,250,44.2
+Weekday,1,member,8441,250,33.8
+Weekday,2,casual,6505,250,26.0
+Weekday,2,member,4667,250,18.7
+Weekday,3,casual,4073,250,16.3
+Weekday,3,member,3732,250,14.9
+Weekday,4,casual,4434,250,17.7
+Weekday,4,member,6441,250,25.8
+Weekday,5,casual,10194,250,40.8
+Weekday,5,member,32881,250,131.5
+Weekday,6,casual,22988,250,92.0
+Weekday,6,member,98979,250,395.9
+Weekday,7,casual,41831,250,167.3
+Weekday,7,member,197988,250,792.0
+Weekday,8,casual,56300,250,225.2
+Weekday,8,member,247840,250,991.4
+Weekday,9,casual,41397,250,165.6
+Weekday,9,member,129428,250,517.7
+Weekday,10,casual,40121,250,160.5
+Weekday,10,member,90724,250,362.9
+Weekday,11,casual,51385,250,205.5
+Weekday,11,member,105297,250,421.2
+Weekday,12,casual,62212,250,248.8
+Weekday,12,member,125573,250,502.3
+Weekday,13,casual,66450,250,265.8
+Weekday,13,member,123924,250,495.7
+Weekday,14,casual,70489,250,282.0
+Weekday,14,member,126259,250,505.0
+Weekday,15,casual,84652,250,338.6
+Weekday,15,member,180616,250,722.5
+Weekday,16,casual,112346,250,449.4
+Weekday,16,member,289826,250,1159.3
+Weekday,17,casual,137522,250,550.1
+Weekday,17,member,346522,250,1386.1
+Weekday,18,casual,119541,250,478.2
+Weekday,18,member,262060,250,1048.2
+Weekday,19,casual,88992,250,356.0
+Weekday,19,member,177335,250,709.3
+Weekday,20,casual,66193,250,264.8
+Weekday,20,member,124378,250,497.5
+Weekday,21,casual,57720,250,230.9
+Weekday,21,member,96990,250,388.0
+Weekday,22,casual,47773,250,191.1
+Weekday,22,member,67564,250,270.3
+Weekday,23,casual,33253,250,133.0
+Weekday,23,member,39506,250,158.0
+Weekend / holiday,0,casual,27484,115,239.0
+Weekend / holiday,0,member,20589,115,179.0
+Weekend / holiday,1,casual,19284,115,167.7
+Weekend / holiday,1,member,14143,115,123.0
+Weekend / holiday,2,casual,12499,115,108.7
+Weekend / holiday,2,member,8529,115,74.2
+Weekend / holiday,3,casual,7125,115,62.0
+Weekend / holiday,3,member,4977,115,43.3
+Weekend / holiday,4,casual,4367,115,38.0
+Weekend / holiday,4,member,3302,115,28.7
+Weekend / holiday,5,casual,3948,115,34.3
+Weekend / holiday,5,member,5045,115,43.9
+Weekend / holiday,6,casual,6297,115,54.8
+Weekend / holiday,6,member,11242,115,97.8
+Weekend / holiday,7,casual,10297,115,89.5
+Weekend / holiday,7,member,19481,115,169.4
+Weekend / holiday,8,casual,18547,115,161.3
+Weekend / holiday,8,member,33747,115,293.5
+Weekend / holiday,9,casual,30563,115,265.8
+Weekend / holiday,9,member,48038,115,417.7
+Weekend / holiday,10,casual,45492,115,395.6
+Weekend / holiday,10,member,61276,115,532.8
+Weekend / holiday,11,casual,57606,115,500.9
+Weekend / holiday,11,member,70739,115,615.1
+Weekend / holiday,12,casual,68355,115,594.4
+Weekend / holiday,12,member,76943,115,669.1
+Weekend / holiday,13,casual,70298,115,611.3
+Weekend / holiday,13,member,76952,115,669.1
+Weekend / holiday,14,casual,70942,115,616.9
+Weekend / holiday,14,member,75333,115,655.1
+Weekend / holiday,15,casual,72567,115,631.0
+Weekend / holiday,15,member,77192,115,671.2
+Weekend / holiday,16,casual,70286,115,611.2
+Weekend / holiday,16,member,78672,115,684.1
+Weekend / holiday,17,casual,62081,115,539.8
+Weekend / holiday,17,member,74184,115,645.1
+Weekend / holiday,18,casual,52585,115,457.3
+Weekend / holiday,18,member,67735,115,589.0
+Weekend / holiday,19,casual,40840,115,355.1
+Weekend / holiday,19,member,51356,115,446.6
+Weekend / holiday,20,casual,30444,115,264.7
+Weekend / holiday,20,member,37410,115,325.3
+Weekend / holiday,21,casual,26176,115,227.6
+Weekend / holiday,21,member,30958,115,269.2
+Weekend / holiday,22,casual,25620,115,222.8
+Weekend / holiday,22,member,26139,115,227.3
+Weekend / holiday,23,casual,20229,115,175.9
+Weekend / holiday,23,member,18913,115,164.5

@@ -1,0 +1,29 @@
+check_name,failed_rows,status
+DST fix only touches 2 Nov 2025 01:xx rides and leaves no negative valid duration,0,PASS
+a_hourly rides sum back to fact_ride,0,PASS
+a_monthly totals = fact_ride and member + casual = rides,0,PASS
+agg_daily sums back to fact_ride (rides and minutes),0,PASS
+agg_station_month sums back to station-start rides,0,PASS
+"all 12 months present with >= 100,000 valid rides [full data only]",12,SKIP
+all timestamps parsed,0,PASS
+classic bikes always start at a station,0,PASS
+dim_date = 365 consecutive days with weather,0,PASS
+distance >= 0 and round trips have 0 km,0,PASS
+distinct rows = raw rows - exact cross-file duplicates,0,PASS
+every day of the window has rides [full data only],1,SKIP
+every invalid ride has exactly one reported reason,0,PASS
+every station has coordinates inside the service area,0,PASS
+fact keys exist in every dimension (RI),0,PASS
+fact_ride = valid rides in cln_trips,0,PASS
+invalid rides below 5% of all rides [full data only],1,SKIP
+member + casual ride shares = 100%,0,PASS
+no ride_id with conflicting content,0,PASS
+one row per ride_id in cln_trips,0,PASS
+ride_id = 16 upper-case hex characters,0,PASS
+"rideable_type in (classic_bike, electric_bike) and member_casual in (member, casual)",0,PASS
+"station names standardised (trimmed, no trailing *, no double spaces)",0,PASS
+station_key and station_name unique in dim_station,0,PASS
+valid + invalid = all distinct rides,0,PASS
+valid rides inside the service-area box,0,PASS
+valid rides start inside 2025-10-01 .. 2026-09-30,0,PASS
+valid rides: 60 s <= duration <= 24 h,0,PASS

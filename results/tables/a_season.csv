@@ -1,0 +1,5 @@
+season,n_days,avg_temp_c,member_rides_per_day,casual_rides_per_day,casual_share_pct
+Autumn,91,13.5,12451.0,6520.0,34.37
+Spring,92,10.9,10125.0,4866.0,32.46
+Summer,92,22.7,15819.0,10633.0,40.2
+Winter,90,-2.9,4182.0,1011.0,19.48

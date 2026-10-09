@@ -1,0 +1,334 @@
+rnk,station_name,zone,starts,casual_starts,casual_share_pct,round_trip_pct,casual_weekday_pct
+1,Shedd Aquarium,1 Loop + near downtown (< 3 km),19673,16057,81.62,8.49,53.85
+2,Field Museum,1 Loop + near downtown (< 3 km),12372,10024,81.02,7.15,55.34
+3,DuSable Lake Shore Dr & Monroe St,1 Loop + near downtown (< 3 km),36380,28567,78.52,15.7,49.39
+4,Navy Pier,1 Loop + near downtown (< 3 km),65421,49557,75.75,15.36,50.66
+5,Adler Planetarium,1 Loop + near downtown (< 3 km),13837,9992,72.21,11.93,54.16
+6,Dusable Harbor,1 Loop + near downtown (< 3 km),18977,13630,71.82,12.45,52.8
+7,McCormick Place,2 Inner neighbourhoods (3-8 km),6648,4747,71.4,8.18,58.56
+8,North Ave Beach,2 Inner neighbourhoods (3-8 km),7945,5296,66.66,6.09,55.63
+9,Millennium Park,1 Loop + near downtown (< 3 km),25269,16833,66.62,9.22,52.5
+10,Michigan Ave & 8th St,1 Loop + near downtown (< 3 km),15901,9852,61.96,8.89,54.52
+11,Fort Dearborn Dr & 31st St,2 Inner neighbourhoods (3-8 km),5675,3439,60.6,14.52,44.84
+12,Michigan Ave & Oak St,1 Loop + near downtown (< 3 km),34126,20660,60.54,11.33,51.65
+13,Griffin Museum of Science and Industry,3 Outer neighbourhoods (8-15 km),5541,3277,59.14,10.32,48.46
+14,Museum Campus Metra Station,1 Loop + near downtown (< 3 km),5287,3115,58.92,7.87,51.94
+15,Theater on the Lake,2 Inner neighbourhoods (3-8 km),26022,14755,56.7,6.36,46.88
+16,Montrose Harbor,3 Outer neighbourhoods (8-15 km),17759,9941,55.98,11.04,49.62
+17,DuSable Lake Shore Dr & North Blvd,2 Inner neighbourhoods (3-8 km),30977,16929,54.65,5.55,48.48
+18,Lakefront Trail & Wilson Ave,3 Outer neighbourhoods (8-15 km),6769,3697,54.62,13.53,46.31
+19,Michigan Ave & Jackson Blvd,1 Loop + near downtown (< 3 km),10018,5396,53.86,5.81,52.61
+20,Michigan Ave & Ida B Wells Dr,1 Loop + near downtown (< 3 km),6714,3598,53.59,5.51,57.31
+21,Wentworth Ave & Cermak Rd,2 Inner neighbourhoods (3-8 km),6360,3377,53.1,5.94,52.92
+22,Chicago Ave & Sheridan Rd,4 Edge + suburbs (15 km+),5526,2805,50.76,11.15,65.28
+23,Burnham Harbor,1 Loop + near downtown (< 3 km),8802,4430,50.33,7.78,47.56
+24,Lincoln Park Conservatory,2 Inner neighbourhoods (3-8 km),12769,6399,50.11,5.15,45.49
+25,Sheridan Rd & Noyes St (NU),4 Edge + suburbs (15 km+),7263,3574,49.21,9.49,71.68
+26,Inner Lake Shore Dr & Aldine Ave,2 Inner neighbourhoods (3-8 km),6744,3226,47.84,5.06,52.17
+27,Rush St & Illinois St,1 Loop + near downtown (< 3 km),7489,3512,46.9,4.63,54.16
+28,Michigan Ave & Pearson St,1 Loop + near downtown (< 3 km),7668,3590,46.82,3.65,59.61
+29,Sheffield Ave & Addison St,2 Inner neighbourhoods (3-8 km),12461,5601,44.95,2.42,59.15
+30,Sheffield Ave & Waveland Ave,2 Inner neighbourhoods (3-8 km),11364,5061,44.54,2.39,60.58
+31,Lakefront Trail & Bryn Mawr Ave,3 Outer neighbourhoods (8-15 km),10626,4707,44.3,7.32,51.92
+32,Clark St & Grace St,3 Outer neighbourhoods (8-15 km),9108,3995,43.86,2.01,57.25
+33,Indiana Ave & Roosevelt Rd,1 Loop + near downtown (< 3 km),18631,8007,42.98,6.42,51.48
+34,DuSable Lake Shore Dr & Belmont Ave,2 Inner neighbourhoods (3-8 km),13340,5621,42.14,4.86,49.94
+35,Michigan Ave & Lake St,1 Loop + near downtown (< 3 km),21062,8803,41.8,4.93,60.06
+36,Humboldt Blvd & Armitage Ave,2 Inner neighbourhoods (3-8 km),5075,2111,41.6,1.6,59.36
+37,Ashland Ave & Lake St,2 Inner neighbourhoods (3-8 km),5397,2227,41.26,1.95,69.65
+38,Clark St & Newport St,2 Inner neighbourhoods (3-8 km),11803,4860,41.18,1.48,56.15
+39,Field Blvd & South Water St,1 Loop + near downtown (< 3 km),13762,5645,41.02,5.42,58.55
+40,Michigan Ave & Washington St,1 Loop + near downtown (< 3 km),18947,7731,40.8,4.11,58.62
+41,DuSable Lake Shore Dr & Diversey Pkwy,2 Inner neighbourhoods (3-8 km),17943,7308,40.73,4.67,51.41
+42,New St & Illinois St,1 Loop + near downtown (< 3 km),22152,9022,40.73,4.7,56.74
+43,Calumet Ave & 18th St,1 Loop + near downtown (< 3 km),8523,3463,40.63,6.75,51.89
+44,Kedzie Ave & Milwaukee Ave,3 Outer neighbourhoods (8-15 km),10246,4117,40.18,2.4,56.64
+45,Clark St & Eddy St,2 Inner neighbourhoods (3-8 km),8871,3516,39.63,1.89,58.33
+46,Delano Ct & Roosevelt Rd,1 Loop + near downtown (< 3 km),7026,2784,39.62,3.89,57.22
+47,DuSable Lake Shore Dr & Wellington Ave,2 Inner neighbourhoods (3-8 km),13461,5333,39.62,4.66,47.57
+48,Shore Dr & 55th St,3 Outer neighbourhoods (8-15 km),11089,4377,39.47,9.17,54.56
+49,State St & Van Buren St,1 Loop + near downtown (< 3 km),6995,2749,39.3,2.17,60.39
+50,Benson Ave & Church St,4 Edge + suburbs (15 km+),6213,2424,39.01,5.1,68.03
+51,Clark St & Lincoln Ave,2 Inner neighbourhoods (3-8 km),23249,8917,38.35,2.87,52.46
+52,Halsted St & Belden St,2 Inner neighbourhoods (3-8 km),6255,2392,38.24,1.76,54.68
+53,Green St & Randolph St,1 Loop + near downtown (< 3 km),8319,3175,38.17,1.13,64.41
+54,Clark St & North Ave,2 Inner neighbourhoods (3-8 km),10093,3850,38.15,2.54,49.48
+55,Clinton St & Roosevelt Rd,1 Loop + near downtown (< 3 km),5864,2237,38.15,1.84,68.57
+56,Halsted St & Maxwell St,1 Loop + near downtown (< 3 km),7205,2749,38.15,3.22,69.59
+57,State St & Randolph St,1 Loop + near downtown (< 3 km),11535,4388,38.04,2.79,55.04
+58,Wabash Ave & Grand Ave,1 Loop + near downtown (< 3 km),20911,7945,37.99,3.76,57.61
+59,Clark St & Armitage Ave,2 Inner neighbourhoods (3-8 km),24079,9122,37.88,2.78,50.93
+60,Halsted St & Armitage Ave,2 Inner neighbourhoods (3-8 km),12094,4568,37.77,1.27,52.04
+61,St Clair St & Ohio St,1 Loop + near downtown (< 3 km),8728,3297,37.77,3.47,56.23
+62,Hudson Ave & Armitage Ave,2 Inner neighbourhoods (3-8 km),7873,2972,37.75,2.07,54.88
+63,State St & Harrison St,1 Loop + near downtown (< 3 km),7665,2889,37.69,3.03,58.95
+64,Racine Ave & Belmont Ave,2 Inner neighbourhoods (3-8 km),10737,4029,37.52,2.14,56.94
+65,Michigan Ave & 18th St,1 Loop + near downtown (< 3 km),8937,3336,37.33,3.94,54.44
+66,Wilton Ave & Addison St,2 Inner neighbourhoods (3-8 km),5864,2185,37.26,2.25,58.26
+67,Michigan Ave & Madison St,1 Loop + near downtown (< 3 km),5923,2206,37.24,2.43,60.65
+68,Canal St & Taylor St,1 Loop + near downtown (< 3 km),5504,2026,36.81,1.53,69.69
+69,Larrabee St & Webster Ave,2 Inner neighbourhoods (3-8 km),15845,5809,36.66,1.87,52.3
+70,Lakeview Ave & Fullerton Pkwy,2 Inner neighbourhoods (3-8 km),13585,4968,36.57,3.58,54.99
+71,Sheffield Ave & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),13951,5074,36.37,1.35,54.0
+72,Wells St & Ohio St,1 Loop + near downtown (< 3 km),6689,2433,36.37,2.05,56.88
+73,Southport Ave & Wellington Ave,2 Inner neighbourhoods (3-8 km),11700,4252,36.34,1.84,54.63
+74,LaSalle St & Illinois St,1 Loop + near downtown (< 3 km),21280,7716,36.26,2.23,59.54
+75,Wabash Ave & Washington St,1 Loop + near downtown (< 3 km),12902,4677,36.25,2.71,58.18
+76,Wabash Ave & Jackson Blvd,1 Loop + near downtown (< 3 km),6243,2259,36.18,2.87,62.51
+77,Lincoln Ave & Dickens Ave,2 Inner neighbourhoods (3-8 km),7334,2653,36.17,1.96,52.85
+78,Broadway & Oakdale Ave,2 Inner neighbourhoods (3-8 km),9456,3406,36.02,2.52,57.63
+79,Lincoln Ave & Montana St,2 Inner neighbourhoods (3-8 km),5972,2150,36.0,1.49,52.88
+80,Milwaukee Ave & Armitage Ave,2 Inner neighbourhoods (3-8 km),5958,2136,35.85,1.48,58.05
+81,St. Clair St & Erie St 1,1 Loop + near downtown (< 3 km),6685,2394,35.81,2.87,64.33
+82,Racine Ave & 18th St,2 Inner neighbourhoods (3-8 km),5259,1877,35.69,2.76,64.94
+83,Columbus Dr & Randolph St,1 Loop + near downtown (< 3 km),19902,7052,35.43,4.5,58.91
+84,Damen Ave & Wabansia Ave,2 Inner neighbourhoods (3-8 km),5219,1846,35.37,1.94,58.99
+85,Cityfront Plaza Dr & Pioneer Ct,1 Loop + near downtown (< 3 km),10722,3774,35.2,3.95,56.81
+86,Damen Ave & Wicker Park Ave,2 Inner neighbourhoods (3-8 km),6321,2224,35.18,2.23,54.68
+87,Southport Ave & Irving Park Rd,3 Outer neighbourhoods (8-15 km),6426,2258,35.14,2.18,62.62
+88,Damen Ave & Cortland St,2 Inner neighbourhoods (3-8 km),9847,3458,35.12,2.07,55.87
+89,Wells St & Evergreen Ave,1 Loop + near downtown (< 3 km),15972,5592,35.01,1.52,56.92
+90,Bissell St & Armitage Ave,2 Inner neighbourhoods (3-8 km),12857,4490,34.92,2.14,52.9
+91,Stockton Dr & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),11683,4064,34.79,3.77,52.61
+92,Halsted St & Roscoe St,2 Inner neighbourhoods (3-8 km),14363,4945,34.43,1.71,57.13
+93,Mies van der Rohe Way & Chestnut St,1 Loop + near downtown (< 3 km),14429,4963,34.4,3.62,62.3
+94,Green St & Lake St,1 Loop + near downtown (< 3 km),8113,2786,34.34,1.12,61.92
+95,Fairbanks Ct & Grand Ave,1 Loop + near downtown (< 3 km),13428,4594,34.21,3.02,55.94
+96,Green St & Chicago Ave,1 Loop + near downtown (< 3 km),6432,2200,34.2,1.69,69.18
+97,Clark St & Arlington Pl,2 Inner neighbourhoods (3-8 km),14761,5044,34.17,1.98,56.03
+98,Pine Grove Ave & Wellington Ave,2 Inner neighbourhoods (3-8 km),7299,2493,34.16,2.82,56.52
+99,Green St & Washington Blvd,1 Loop + near downtown (< 3 km),6134,2091,34.09,1.19,62.22
+100,LaSalle Dr & Huron St,1 Loop + near downtown (< 3 km),11595,3950,34.07,2.69,62.2
+101,Wabash Ave & 9th St,1 Loop + near downtown (< 3 km),11913,4057,34.06,4.13,58.27
+102,Dearborn St & Erie St,1 Loop + near downtown (< 3 km),20437,6929,33.9,1.81,60.2
+103,Halsted St & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),13489,4553,33.75,1.82,56.07
+104,Clark St & Wellington Ave,2 Inner neighbourhoods (3-8 km),12328,4156,33.71,1.16,59.46
+105,Damen Ave & Charleston St,2 Inner neighbourhoods (3-8 km),5784,1946,33.64,3.27,61.15
+106,Wabash Ave & Adams St,1 Loop + near downtown (< 3 km),7112,2391,33.62,2.21,59.47
+107,McClurg Ct & Ohio St,1 Loop + near downtown (< 3 km),23298,7823,33.58,4.94,55.09
+108,Clark St & Montrose Ave,3 Outer neighbourhoods (8-15 km),7265,2429,33.43,1.87,59.57
+109,Desplaines St & Randolph St,1 Loop + near downtown (< 3 km),7395,2466,33.35,2.12,65.29
+110,Morgan St & 18th St,2 Inner neighbourhoods (3-8 km),5008,1669,33.33,4.01,63.45
+111,California Ave & Milwaukee Ave,2 Inner neighbourhoods (3-8 km),11594,3863,33.32,1.87,60.45
+112,Damen Ave & Pierce Ave,2 Inner neighbourhoods (3-8 km),13019,4336,33.31,1.48,57.45
+113,Clark St & Leland Ave,3 Outer neighbourhoods (8-15 km),8903,2964,33.29,2.01,59.92
+114,Dearborn St & Division St,1 Loop + near downtown (< 3 km),15234,5065,33.25,2.11,54.59
+115,Damen Ave & Foster Ave,3 Outer neighbourhoods (8-15 km),5449,1810,33.22,2.15,63.26
+116,Sheffield Ave & Wellington Ave,2 Inner neighbourhoods (3-8 km),12496,4149,33.2,1.46,55.99
+117,Broadway & Roscoe Ave,2 Inner neighbourhoods (3-8 km),8950,2970,33.18,2.48,60.51
+118,Marine Dr & Ainslie St,3 Outer neighbourhoods (8-15 km),6839,2269,33.18,11.19,55.49
+119,Larrabee St & Armitage Ave,2 Inner neighbourhoods (3-8 km),6861,2274,33.14,2.49,54.75
+120,Cornell Ave & Hyde Park Blvd,3 Outer neighbourhoods (8-15 km),6208,2055,33.1,7.33,63.21
+121,Ravenswood Ave & Irving Park Rd,3 Outer neighbourhoods (8-15 km),5123,1695,33.09,1.39,61.71
+122,Western Ave & Walton St,2 Inner neighbourhoods (3-8 km),5132,1696,33.05,1.66,59.96
+123,State St & Kinzie St,1 Loop + near downtown (< 3 km),14234,4703,33.04,2.49,61.26
+124,Aberdeen St & Randolph St,1 Loop + near downtown (< 3 km),9676,3194,33.01,1.71,63.87
+125,Western Ave & Winnebago Ave,2 Inner neighbourhoods (3-8 km),6040,1985,32.86,4.42,60.05
+126,Wabash Ave & Roosevelt Rd,1 Loop + near downtown (< 3 km),18291,6000,32.8,2.99,57.5
+127,Wells St & Polk St,1 Loop + near downtown (< 3 km),11773,3859,32.78,2.53,65.54
+128,Racine Ave & Fullerton Ave,2 Inner neighbourhoods (3-8 km),8209,2689,32.76,2.22,61.06
+129,Wilton Ave & Belmont Ave,2 Inner neighbourhoods (3-8 km),18055,5915,32.76,1.41,58.83
+130,Wells St & Concord Ln,2 Inner neighbourhoods (3-8 km),28283,9234,32.65,1.39,55.65
+131,Milwaukee Ave & Grand Ave,1 Loop + near downtown (< 3 km),13795,4501,32.63,1.59,64.36
+132,Racine Ave & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),6281,2048,32.61,2.61,58.3
+133,Dearborn St & Van Buren St,1 Loop + near downtown (< 3 km),6783,2206,32.52,2.55,61.24
+134,Halsted St & Dickens Ave,2 Inner neighbourhoods (3-8 km),8483,2755,32.48,1.7,51.72
+135,Southport Ave & Roscoe St,2 Inner neighbourhoods (3-8 km),14292,4638,32.45,1.67,54.23
+136,Dayton St & North Ave,2 Inner neighbourhoods (3-8 km),11655,3780,32.43,1.38,60.66
+137,Clark St & Winnemac Ave,3 Outer neighbourhoods (8-15 km),14331,4631,32.31,2.14,57.83
+138,Lincoln Ave & Diversey Pkwy,2 Inner neighbourhoods (3-8 km),9952,3211,32.26,1.32,56.62
+139,Southport Ave & Belmont Ave,2 Inner neighbourhoods (3-8 km),10070,3241,32.18,2.37,60.35
+140,Morgan St & Lake St,1 Loop + near downtown (< 3 km),11707,3766,32.17,1.08,64.23
+141,Noble St & Ohio St,2 Inner neighbourhoods (3-8 km),6082,1956,32.16,2.33,62.68
+142,Sheridan Rd & Argyle St,3 Outer neighbourhoods (8-15 km),7619,2424,31.82,5.2,58.0
+143,Paulina Ave & North Ave,2 Inner neighbourhoods (3-8 km),6594,2096,31.79,2.14,60.11
+144,Broadway & Thorndale Ave,3 Outer neighbourhoods (8-15 km),6951,2204,31.71,3.65,61.75
+145,Broadway & Barry Ave,2 Inner neighbourhoods (3-8 km),16428,5206,31.69,2.48,56.82
+146,Southport Ave & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),9034,2858,31.64,1.95,56.82
+147,Wells St & Randolph St,1 Loop + near downtown (< 3 km),11423,3611,31.61,1.58,69.43
+148,Broadway & Argyle St,3 Outer neighbourhoods (8-15 km),6928,2186,31.55,2.93,59.79
+149,Clark St & Berwyn Ave,3 Outer neighbourhoods (8-15 km),12236,3861,31.55,3.15,57.47
+150,Greenview Ave & Fullerton Ave,2 Inner neighbourhoods (3-8 km),6757,2129,31.51,2.04,59.18
+151,Mies van der Rohe Way & Chicago Ave,1 Loop + near downtown (< 3 km),11984,3772,31.48,2.31,65.08
+152,Ashland Ave & Blackhawk St,2 Inner neighbourhoods (3-8 km),6941,2184,31.47,1.87,56.04
+153,Carpenter St & Huron St,1 Loop + near downtown (< 3 km),8950,2810,31.4,2.49,63.77
+154,Sedgwick St & North Ave,2 Inner neighbourhoods (3-8 km),13014,4082,31.37,1.71,59.53
+155,Larrabee St & Division St,1 Loop + near downtown (< 3 km),10835,3398,31.36,2.0,63.51
+156,Hampden Ct & Diversey Pkwy,2 Inner neighbourhoods (3-8 km),11941,3737,31.3,2.04,56.36
+157,Woodlawn Ave & 55th St,3 Outer neighbourhoods (8-15 km),8975,2799,31.19,3.43,67.67
+158,Wolcott (Ravenswood) Ave & Montrose Ave,3 Outer neighbourhoods (8-15 km),5769,1799,31.18,2.84,60.48
+159,Sheffield Ave & Webster Ave,2 Inner neighbourhoods (3-8 km),11814,3682,31.17,2.13,56.52
+160,Damen Ave & Division St,2 Inner neighbourhoods (3-8 km),9109,2838,31.16,1.54,56.98
+161,Peoria St & Kinzie St,1 Loop + near downtown (< 3 km),8173,2544,31.13,1.48,67.06
+162,Clark St & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),15301,4754,31.07,1.84,54.21
+163,Clark St & Elm St,1 Loop + near downtown (< 3 km),22735,7059,31.05,1.72,60.79
+164,Dearborn St & Adams St 1,1 Loop + near downtown (< 3 km),6079,1886,31.02,1.71,65.32
+165,Sheridan Rd & Irving Park Rd,3 Outer neighbourhoods (8-15 km),13957,4327,31.0,1.84,60.9
+166,Elizabeth St & Randolph St,1 Loop + near downtown (< 3 km),9712,3008,30.97,2.12,66.42
+167,Lincoln Ave & Sunnyside Ave,3 Outer neighbourhoods (8-15 km),6184,1910,30.89,1.94,59.16
+168,Elston Ave & Cortland St,2 Inner neighbourhoods (3-8 km),10998,3395,30.87,0.69,67.86
+169,Wells St & Hubbard St,1 Loop + near downtown (< 3 km),25700,7928,30.85,1.54,68.91
+170,Peoria St & Jackson Blvd,1 Loop + near downtown (< 3 km),13069,4022,30.78,2.19,69.92
+171,Rush St & Cedar St,1 Loop + near downtown (< 3 km),11692,3595,30.75,2.32,56.52
+172,Wood St & Beach Ave,2 Inner neighbourhoods (3-8 km),10732,3300,30.75,1.84,58.0
+173,Clark St & Schiller St,1 Loop + near downtown (< 3 km),15364,4723,30.74,2.8,56.66
+174,Ritchie Ct & Banks St,1 Loop + near downtown (< 3 km),10962,3369,30.73,3.52,56.54
+175,Damen Ave & Thomas St (Augusta Blvd),2 Inner neighbourhoods (3-8 km),7419,2274,30.65,2.17,58.49
+176,Broadway & Wilson Ave,3 Outer neighbourhoods (8-15 km),8325,2550,30.63,1.93,64.04
+177,Sheffield Ave & Fullerton Ave,2 Inner neighbourhoods (3-8 km),15912,4873,30.62,1.33,62.38
+178,Wabash Ave & 16th St,1 Loop + near downtown (< 3 km),8615,2636,30.6,3.35,54.17
+179,Clarendon Ave & Junior Ter,3 Outer neighbourhoods (8-15 km),11859,3628,30.59,3.59,56.64
+180,Harper Ave & 55th St,3 Outer neighbourhoods (8-15 km),7833,2396,30.59,2.91,63.4
+181,Sedgwick St & Webster Ave,2 Inner neighbourhoods (3-8 km),12406,3792,30.57,2.33,57.54
+182,900 W Harrison St,1 Loop + near downtown (< 3 km),8480,2590,30.54,2.96,74.56
+183,Broadway & Sheridan Rd,3 Outer neighbourhoods (8-15 km),13295,4057,30.52,2.24,57.88
+184,Stetson Ave & South Water St,1 Loop + near downtown (< 3 km),8660,2640,30.48,4.23,56.7
+185,Michigan Ave & 14th St,1 Loop + near downtown (< 3 km),10975,3341,30.44,4.05,57.47
+186,Financial Pl & Ida B Wells Dr,1 Loop + near downtown (< 3 km),9774,2974,30.43,1.84,67.32
+187,Ashland Ave & Wrightwood Ave,2 Inner neighbourhoods (3-8 km),5348,1627,30.42,1.83,58.33
+188,Clark St & Ida B Wells Dr,1 Loop + near downtown (< 3 km),8786,2672,30.41,1.96,63.7
+189,Honore St & Division St,2 Inner neighbourhoods (3-8 km),9297,2827,30.41,2.6,55.01
+190,Broadway & Belmont Ave,2 Inner neighbourhoods (3-8 km),11670,3543,30.36,1.65,58.37
+191,Lincoln Ave & Fullerton Ave,2 Inner neighbourhoods (3-8 km),16138,4898,30.35,1.83,53.8
+192,Sheridan Rd & Berwyn Ave,3 Outer neighbourhoods (8-15 km),5414,1641,30.31,6.21,53.63
+193,Halsted St & Clybourn Ave,2 Inner neighbourhoods (3-8 km),18968,5748,30.3,0.93,63.34
+194,Orleans St & Chestnut St (NEXT Apts),1 Loop + near downtown (< 3 km),7155,2165,30.26,2.12,63.42
+195,Clarendon Ave & Leland Ave,3 Outer neighbourhoods (8-15 km),6756,2042,30.22,4.19,55.34
+196,Broadway & Granville Ave,3 Outer neighbourhoods (8-15 km),7166,2165,30.21,4.28,58.11
+197,Sangamon St & Washington Blvd,1 Loop + near downtown (< 3 km),7223,2180,30.18,1.4,65.05
+198,Damen Ave & Chicago Ave,2 Inner neighbourhoods (3-8 km),10939,3300,30.17,1.71,59.36
+199,Jefferson St & Monroe St,1 Loop + near downtown (< 3 km),6843,2062,30.13,1.75,72.31
+200,Wells St & Madison St,1 Loop + near downtown (< 3 km),5671,1708,30.12,1.5,71.78
+201,Sheridan Rd & Buena Ave,3 Outer neighbourhoods (8-15 km),9692,2911,30.04,2.64,59.74
+202,Sheridan Rd & Montrose Ave,3 Outer neighbourhoods (8-15 km),11276,3376,29.94,2.25,60.81
+203,Larrabee St & North Ave,2 Inner neighbourhoods (3-8 km),6448,1927,29.89,2.33,60.09
+204,Clark St & Chicago Ave,1 Loop + near downtown (< 3 km),11114,3321,29.88,1.45,61.94
+205,Halsted St & Fulton St,1 Loop + near downtown (< 3 km),5875,1754,29.86,0.97,67.22
+206,Aberdeen St & Carroll Ave,1 Loop + near downtown (< 3 km),9001,2686,29.84,1.7,72.78
+207,Sheridan Rd & Lawrence Ave,3 Outer neighbourhoods (8-15 km),5102,1521,29.81,3.0,59.17
+208,Southport Ave & Waveland Ave,2 Inner neighbourhoods (3-8 km),16074,4790,29.8,1.41,55.66
+209,Halsted St & Willow St,2 Inner neighbourhoods (3-8 km),9050,2696,29.79,1.82,60.72
+210,Dearborn Pkwy & Delaware Pl,1 Loop + near downtown (< 3 km),20933,6234,29.78,1.7,61.0
+211,Rush St & Superior St,1 Loop + near downtown (< 3 km),12800,3807,29.74,2.15,62.07
+212,Racine Ave & Broadway,3 Outer neighbourhoods (8-15 km),6778,2015,29.73,3.19,59.26
+213,Dearborn St & Maple St,1 Loop + near downtown (< 3 km),14315,4254,29.72,1.84,63.26
+214,Blue Island Ave & 18th St,2 Inner neighbourhoods (3-8 km),5366,1593,29.69,2.22,62.21
+215,Wilton Ave & Diversey Pkwy,2 Inner neighbourhoods (3-8 km),17042,5050,29.63,1.4,59.88
+216,Wells St & Huron St,1 Loop + near downtown (< 3 km),24607,7287,29.61,1.52,66.41
+217,Wells St & Elm St,1 Loop + near downtown (< 3 km),27242,8063,29.6,1.44,58.65
+218,Clark St & Drummond Pl,2 Inner neighbourhoods (3-8 km),13829,4086,29.55,1.66,56.31
+219,Ogden Ave & Chicago Ave,1 Loop + near downtown (< 3 km),9596,2831,29.5,1.6,64.01
+220,Clifton Ave & Armitage Ave,2 Inner neighbourhoods (3-8 km),9574,2823,29.49,1.68,54.91
+221,Milwaukee Ave & The 606,2 Inner neighbourhoods (3-8 km),10923,3219,29.47,3.25,57.25
+222,Leavitt St & North Ave,2 Inner neighbourhoods (3-8 km),7090,2088,29.45,2.65,60.73
+223,Wells St & Institute Pl,1 Loop + near downtown (< 3 km),8325,2451,29.44,1.62,65.36
+224,Kimbark Ave & 53rd St,3 Outer neighbourhoods (8-15 km),11170,3274,29.31,2.21,66.49
+225,Sangamon St & Lake St,1 Loop + near downtown (< 3 km),10716,3141,29.31,0.88,69.95
+226,Ogden Ave & Race Ave,1 Loop + near downtown (< 3 km),6242,1828,29.29,2.13,60.72
+227,May St & Hubbard St,1 Loop + near downtown (< 3 km),6488,1899,29.27,3.28,67.04
+228,Damen Ave & Leland Ave,3 Outer neighbourhoods (8-15 km),7129,2086,29.26,1.85,62.22
+229,Ashland Ave & Wellington Ave,2 Inner neighbourhoods (3-8 km),6155,1789,29.07,1.58,58.02
+230,St. Clair St & Erie St 2,1 Loop + near downtown (< 3 km),10110,2938,29.06,2.3,56.81
+231,Franklin St & Jackson Blvd,1 Loop + near downtown (< 3 km),15330,4452,29.04,2.52,63.45
+232,Milwaukee Ave & Wabansia Ave,2 Inner neighbourhoods (3-8 km),5356,1554,29.01,2.97,57.46
+233,Paulina St & Division St,2 Inner neighbourhoods (3-8 km),14768,4282,29.0,1.57,60.3
+234,Federal St & Polk St,1 Loop + near downtown (< 3 km),16674,4834,28.99,3.43,59.0
+235,Leavitt St & Armitage Ave,2 Inner neighbourhoods (3-8 km),5458,1581,28.97,2.67,57.5
+236,Riverside Plaza & Adams St,1 Loop + near downtown (< 3 km),8158,2363,28.97,0.97,74.57
+237,Fulton Market,1 Loop + near downtown (< 3 km),13410,3882,28.95,1.16,67.36
+238,Orleans St & Merchandise Mart Plaza,1 Loop + near downtown (< 3 km),17607,5063,28.76,1.75,70.95
+239,Rush St & Hubbard St,1 Loop + near downtown (< 3 km),8603,2471,28.72,2.42,63.46
+240,Throop St & Taylor St,1 Loop + near downtown (< 3 km),5296,1518,28.66,2.93,66.14
+241,Wells St & Walton St,1 Loop + near downtown (< 3 km),14052,4016,28.58,1.79,62.8
+242,Franklin St & Chicago Ave,1 Loop + near downtown (< 3 km),12575,3583,28.49,1.3,69.27
+243,Desplaines St & Kinzie St,1 Loop + near downtown (< 3 km),21920,6231,28.43,1.36,64.0
+244,Eckhart Park,2 Inner neighbourhoods (3-8 km),7504,2128,28.36,2.96,63.77
+245,Broadway & Cornelia Ave,2 Inner neighbourhoods (3-8 km),17797,5046,28.35,2.43,57.81
+246,Franklin St & Illinois St,1 Loop + near downtown (< 3 km),9057,2564,28.31,1.39,65.29
+247,Clark St & Lake St,1 Loop + near downtown (< 3 km),16769,4739,28.26,1.75,59.42
+248,Pine Grove Ave & Irving Park Rd,3 Outer neighbourhoods (8-15 km),14299,4025,28.15,3.48,57.29
+249,Elizabeth St & Fulton St,1 Loop + near downtown (< 3 km),7818,2158,27.6,1.88,73.68
+250,Southport Ave & Clybourn Ave,2 Inner neighbourhoods (3-8 km),6357,1742,27.4,1.37,65.04
+251,Noble St & Milwaukee Ave,2 Inner neighbourhoods (3-8 km),8145,2230,27.38,1.85,60.27
+252,Carpenter St & Fulton St,1 Loop + near downtown (< 3 km),5732,1569,27.37,1.19,67.24
+253,Western Ave & Leland Ave,3 Outer neighbourhoods (8-15 km),6154,1684,27.36,1.53,59.8
+254,Clark St & Bryn Mawr Ave,3 Outer neighbourhoods (8-15 km),7452,2030,27.24,1.95,57.59
+255,Wacker Dr & Randolph St,1 Loop + near downtown (< 3 km),7284,1983,27.22,1.28,75.14
+256,State St & Pearson St,1 Loop + near downtown (< 3 km),7281,1979,27.18,2.21,64.12
+257,Campbell Ave & North Ave,2 Inner neighbourhoods (3-8 km),5060,1375,27.17,2.51,58.33
+258,Woodlawn Ave & 58th St,3 Outer neighbourhoods (8-15 km),8424,2280,27.07,2.07,68.68
+259,Broadway & Waveland Ave,2 Inner neighbourhoods (3-8 km),19419,5241,26.99,1.45,61.8
+260,Pine Grove Ave & Waveland Ave,2 Inner neighbourhoods (3-8 km),17796,4800,26.97,3.42,55.35
+261,Aberdeen St & Jackson Blvd,1 Loop + near downtown (< 3 km),13079,3516,26.88,1.67,67.12
+262,Ellis Ave & 60th St,3 Outer neighbourhoods (8-15 km),15935,4258,26.72,2.66,68.13
+263,Ashland Ave & Chicago Ave,2 Inner neighbourhoods (3-8 km),6763,1799,26.6,1.76,59.76
+264,Broadway & Berwyn Ave,3 Outer neighbourhoods (8-15 km),7187,1896,26.38,2.82,62.24
+265,Daley Center Plaza,1 Loop + near downtown (< 3 km),19271,5060,26.26,1.29,70.83
+266,Orleans St & Elm St,1 Loop + near downtown (< 3 km),6187,1623,26.23,1.49,64.51
+267,State St & Chicago Ave,1 Loop + near downtown (< 3 km),30029,7870,26.21,1.89,63.39
+268,Lake Park Ave & 53rd St,3 Outer neighbourhoods (8-15 km),5271,1381,26.2,4.14,56.92
+269,Clarendon Ave & Gordon Ter,3 Outer neighbourhoods (8-15 km),13360,3499,26.19,5.76,58.79
+270,Leavitt St & Chicago Ave,2 Inner neighbourhoods (3-8 km),5233,1364,26.07,2.33,61.51
+271,Franklin St & Lake St,1 Loop + near downtown (< 3 km),11811,3075,26.04,1.3,70.99
+272,McClurg Ct & Erie St,1 Loop + near downtown (< 3 km),8424,2193,26.03,2.93,64.02
+273,Fairbanks St & Superior St,1 Loop + near downtown (< 3 km),6210,1616,26.02,2.88,57.24
+274,Green St & Madison St,1 Loop + near downtown (< 3 km),16831,4356,25.88,1.41,62.35
+275,Racine Ave & Congress Pkwy,1 Loop + near downtown (< 3 km),5833,1509,25.87,1.46,73.29
+276,Kingsbury St & Kinzie St 1,1 Loop + near downtown (< 3 km),19449,5022,25.82,0.78,71.17
+277,Sheffield Ave & Willow St,2 Inner neighbourhoods (3-8 km),8404,2170,25.82,1.36,58.89
+278,Blackstone Ave & 59th St,3 Outer neighbourhoods (8-15 km),9367,2414,25.77,3.91,67.73
+279,Clinton St & Madison St,1 Loop + near downtown (< 3 km),24957,6428,25.76,1.24,71.55
+280,Ada St & Washington Blvd,1 Loop + near downtown (< 3 km),6675,1712,25.65,1.5,66.53
+281,Orleans St & Hubbard St,1 Loop + near downtown (< 3 km),10227,2618,25.6,1.34,66.96
+282,Clybourn Ave & Division St,1 Loop + near downtown (< 3 km),6262,1602,25.58,2.49,65.67
+283,Franklin St & Adams St,1 Loop + near downtown (< 3 km),8134,2079,25.56,1.64,63.59
+284,Ellis Ave & 55th St,3 Outer neighbourhoods (8-15 km),17437,4438,25.45,1.92,71.86
+285,Halsted St & Roosevelt Rd,1 Loop + near downtown (< 3 km),5678,1441,25.38,2.55,73.84
+286,Clinton St & Tilden St,1 Loop + near downtown (< 3 km),7006,1772,25.29,1.81,69.24
+287,Ravenswood Ave & Lawrence Ave,3 Outer neighbourhoods (8-15 km),18955,4777,25.2,1.11,69.6
+288,Desplaines St & Jackson Blvd,1 Loop + near downtown (< 3 km),12192,3045,24.98,1.38,64.73
+289,Lincoln Ave & Melrose St,2 Inner neighbourhoods (3-8 km),9745,2433,24.97,1.07,57.79
+290,Artesian Ave & Hubbard St,2 Inner neighbourhoods (3-8 km),5307,1323,24.93,1.32,78.61
+291,Dearborn St & Madison St,1 Loop + near downtown (< 3 km),7233,1795,24.82,1.29,63.9
+292,Broadway & Sunnyside Ave,3 Outer neighbourhoods (8-15 km),7409,1835,24.77,1.05,60.49
+293,Sangamon St & Adams St,1 Loop + near downtown (< 3 km),5624,1393,24.77,1.53,61.23
+294,University Ave & 59th St,3 Outer neighbourhoods (8-15 km),6279,1536,24.46,2.15,75.39
+295,Canal St & Lake St,1 Loop + near downtown (< 3 km),8146,1992,24.45,0.91,76.05
+296,Ashland Ave & Augusta Blvd,2 Inner neighbourhoods (3-8 km),7336,1790,24.4,2.32,63.85
+297,Ellis Ave & 53rd St,3 Outer neighbourhoods (8-15 km),6564,1594,24.28,3.24,68.44
+298,Lincoln Ave & Roscoe St,2 Inner neighbourhoods (3-8 km),8677,2106,24.27,2.24,57.36
+299,Larrabee St & Oak St,1 Loop + near downtown (< 3 km),6575,1584,24.09,1.51,70.27
+300,Burling St & Diversey Pkwy,2 Inner neighbourhoods (3-8 km),10830,2597,23.98,2.18,55.72
+301,University Ave & 57th St,3 Outer neighbourhoods (8-15 km),21232,5088,23.96,2.77,72.64
+302,Larrabee St & Menomonee St,2 Inner neighbourhoods (3-8 km),5595,1333,23.82,3.4,57.24
+303,Franklin St & Washington St,1 Loop + near downtown (< 3 km),7778,1848,23.76,1.31,74.08
+304,Aberdeen St & Monroe St,1 Loop + near downtown (< 3 km),7734,1822,23.56,1.62,64.49
+305,Sheffield Ave & Kingsbury St,2 Inner neighbourhoods (3-8 km),12773,3005,23.53,0.97,60.27
+306,Wood St & Chicago Ave,2 Inner neighbourhoods (3-8 km),7367,1732,23.51,2.5,60.22
+307,May St & Taylor St,1 Loop + near downtown (< 3 km),9662,2233,23.11,2.98,69.23
+308,Wood St & Augusta Blvd,2 Inner neighbourhoods (3-8 km),6489,1494,23.02,1.63,60.37
+309,Clinton St & Lake St,1 Loop + near downtown (< 3 km),16938,3884,22.93,1.59,72.73
+310,Kingsbury St & Erie St,1 Loop + near downtown (< 3 km),20069,4578,22.81,1.74,68.98
+311,Sedgwick St & Huron St,1 Loop + near downtown (< 3 km),12822,2878,22.45,1.26,68.87
+312,Canal St & Adams St,1 Loop + near downtown (< 3 km),17418,3825,21.96,0.97,72.26
+313,Canal St & Madison St,1 Loop + near downtown (< 3 km),29050,6353,21.87,0.93,73.51
+314,Kingsbury St & Kinzie St 2,1 Loop + near downtown (< 3 km),23169,5033,21.72,0.78,66.68
+315,Halsted St & Polk St,1 Loop + near downtown (< 3 km),9509,2033,21.38,2.1,77.62
+316,Kingsbury St & Kinzie St,1 Loop + near downtown (< 3 km),7756,1618,20.86,1.22,67.06
+317,Hermitage Ave & Polk St,2 Inner neighbourhoods (3-8 km),5104,1062,20.81,2.51,76.65
+318,Clinton St & Jackson Blvd,1 Loop + near downtown (< 3 km),25018,5144,20.56,0.76,73.27
+319,Paulina St & Flournoy St,2 Inner neighbourhoods (3-8 km),7464,1527,20.46,1.54,79.9
+320,Loomis St & Lexington St,1 Loop + near downtown (< 3 km),14183,2880,20.31,5.09,69.17
+321,Canal St & Monroe St,1 Loop + near downtown (< 3 km),9740,1945,19.97,1.21,75.22
+322,LaSalle St & Jackson Blvd,1 Loop + near downtown (< 3 km),12756,2544,19.94,1.4,75.94
+323,Wacker Dr & Washington St,1 Loop + near downtown (< 3 km),7898,1569,19.87,0.92,79.54
+324,Ellis Ave & 58th St,3 Outer neighbourhoods (8-15 km),7899,1569,19.86,2.13,81.26
+325,Clinton St & Washington Blvd 2,1 Loop + near downtown (< 3 km),21386,4079,19.07,0.84,81.78
+326,Larrabee St & Kingsbury St 1,1 Loop + near downtown (< 3 km),14942,2836,18.98,0.63,82.93
+327,Canal St & Jackson Blvd,1 Loop + near downtown (< 3 km),14173,2670,18.84,0.52,78.46
+328,Franklin St & Monroe St,1 Loop + near downtown (< 3 km),12736,2298,18.04,0.9,80.03
+329,Clinton St & Washington Blvd,1 Loop + near downtown (< 3 km),16691,2950,17.67,0.86,73.49
+330,Wolcott Ave & Polk St,2 Inner neighbourhoods (3-8 km),7775,1361,17.5,1.59,78.69
+331,Larrabee St & Kingsbury St 2,1 Loop + near downtown (< 3 km),11621,1961,16.87,0.5,72.67
+332,Morgan St & Polk St,1 Loop + near downtown (< 3 km),11946,1961,16.42,3.63,77.31
+333,Wood St & Taylor St (Temp),2 Inner neighbourhoods (3-8 km),5357,784,14.64,2.15,84.82

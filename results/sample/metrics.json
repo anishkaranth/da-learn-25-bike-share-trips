@@ -1,0 +1,248 @@
+{
+ "project": "da-learn-25-bike-share-trips",
+ "dataset": "Divvy (Chicago bike share) trip data, Oct 2025 - Sep 2026, the data behind the Kaggle 'Cyclistic bike-share' Google Data Analytics capstone datasets; Divvy Data License Agreement (Lyft Bikes and Scooters, LLC / City of Chicago). 12 monthly CSVs from https://divvy-tripdata.s3.amazonaws.com (6,171,785 rows x 13 columns, 1,233,745,894 B unzipped, 236,705,265 B zipped) + Open-Meteo daily Chicago weather (CC BY 4.0) + US federal holidays",
+ "source_mode": "sample",
+ "kpis": {
+  "raw_rows": 25287,
+  "distinct_rides": 25252,
+  "duplicate_rows_removed": 35,
+  "valid_rides": 23497,
+  "invalid_rides": 1755,
+  "valid_pct": 93.05,
+  "first_date": "2025-10-01",
+  "last_date": "2026-09-30",
+  "days": 365,
+  "avg_rides_per_day": 64.0,
+  "busiest_date": "2026-08-22",
+  "busiest_date_rides": 155,
+  "quietest_date": "2026-01-25",
+  "quietest_date_rides": 0,
+  "member_rides": 15226,
+  "casual_rides": 8271,
+  "member_share_pct": 64.8,
+  "casual_share_pct": 35.2,
+  "casual_ride_minutes_share_pct": 43.88,
+  "member_median_min": 8.75,
+  "casual_median_min": 11.17,
+  "member_mean_min": 12.31,
+  "casual_mean_min": 17.72,
+  "member_median_km": 1.644,
+  "casual_median_km": 1.799,
+  "member_median_kmh": 12.1,
+  "casual_median_kmh": 10.48,
+  "member_ebike_pct": 68.9,
+  "casual_ebike_pct": 74.74,
+  "ebike_pct": 70.96,
+  "member_round_trip_pct": 1.55,
+  "casual_round_trip_pct": 4.88,
+  "member_weekend_pct": 25.4,
+  "casual_weekend_pct": 40.9,
+  "member_over_45_min_pct": 1.59,
+  "casual_over_45_min_pct": 6.24,
+  "member_commute_hours_pct": 37.25,
+  "casual_commute_hours_pct": 23.54,
+  "dockless_start_pct": 20.32,
+  "stations_with_starts": 1015,
+  "docking_stations": 1011,
+  "public_racks": 155,
+  "summer_member_per_day": 62.0,
+  "winter_member_per_day": 16.0,
+  "summer_casual_per_day": 41.0,
+  "winter_casual_per_day": 4.0,
+  "member_summer_winter_ratio": 3.88,
+  "casual_summer_winter_ratio": 10.25,
+  "member_corr_temp": 0.843,
+  "casual_corr_temp": 0.771,
+  "member_rides_per_deg_c": 1.7,
+  "casual_rides_per_deg_c": 1.3,
+  "casual_commute_like_rides": 1560,
+  "casual_commute_like_pct": 18.86
+ },
+ "analysis_tables": [
+  "tables/a_kpi_headline.csv",
+  "tables/a_rider_profile.csv",
+  "tables/a_monthly.csv",
+  "tables/a_season.csv",
+  "tables/a_weekday.csv",
+  "tables/a_hourly.csv",
+  "tables/a_heatmap.csv",
+  "tables/a_duration_bands.csv",
+  "tables/a_bike_mix.csv",
+  "tables/a_top_stations.csv",
+  "tables/a_casual_hotspots.csv",
+  "tables/a_station_map.csv",
+  "tables/a_zone.csv",
+  "tables/a_top_routes.csv",
+  "tables/a_daily.csv",
+  "tables/a_weather_fit.csv",
+  "tables/a_temp_bands.csv",
+  "tables/a_rain_effect.csv",
+  "tables/a_day_kind.csv",
+  "tables/a_conversion.csv"
+ ],
+ "data_quality": {
+  "row_counts": [
+   {
+    "entity": "raw trip rows (12 monthly files)",
+    "raw_rows": 25287,
+    "distinct_rows": 25252,
+    "clean_rows": 23497,
+    "grain": "ride (clean = valid rides in fact_ride)"
+   },
+   {
+    "entity": "rides after dedupe (one row per ride_id)",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 25252,
+    "grain": "ride"
+   },
+   {
+    "entity": "invalid rides (flagged, kept in cln_trips, not in fact_ride)",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 1755,
+    "grain": "ride"
+   },
+   {
+    "entity": "fact_ride",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 23497,
+    "grain": "valid ride"
+   },
+   {
+    "entity": "agg_daily",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 1391,
+    "grain": "date x rider type x bike type"
+   },
+   {
+    "entity": "agg_station_month",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 8248,
+    "grain": "start station x month x rider type"
+   },
+   {
+    "entity": "dim_station (incl. key 0 = dockless)",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 1177,
+    "grain": "standardised station name"
+   },
+   {
+    "entity": "dim_date",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 365,
+    "grain": "day (with weather + holiday)"
+   },
+   {
+    "entity": "dim_hour / dim_rider_type / dim_bike_type",
+    "raw_rows": null,
+    "distinct_rows": null,
+    "clean_rows": 28,
+    "grain": "24 + 2 + 2"
+   }
+  ],
+  "null_rates": [
+   {
+    "entity": "raw rides",
+    "column_name": "start_station_name",
+    "null_pct": 20.77,
+    "treatment": "e-bikes can start away from a dock: kept, start_station_key = 0 (dockless)"
+   },
+   {
+    "entity": "raw rides",
+    "column_name": "end_station_name",
+    "null_pct": 21.9,
+    "treatment": "dockless e-bike ends: kept, end_station_key = 0"
+   },
+   {
+    "entity": "raw rides",
+    "column_name": "start_station_id",
+    "null_pct": 20.77,
+    "treatment": "id only used as an attribute; stations are keyed by clean name"
+   },
+   {
+    "entity": "raw rides",
+    "column_name": "end_lat / end_lng",
+    "null_pct": 0.34,
+    "treatment": "no end location = bike not returned / lost: invalid"
+   },
+   {
+    "entity": "raw rides",
+    "column_name": "start_lat (2-decimal, rounded)",
+    "null_pct": 20.77,
+    "treatment": "dockless coordinates are rounded to ~1 km: distance flagged approximate"
+   },
+   {
+    "entity": "raw rides",
+    "column_name": "ride_id / rideable_type / started_at / ended_at / member_casual",
+    "null_pct": 0.0,
+    "treatment": "required: never empty"
+   }
+  ],
+  "issues": {
+   "duplicate rows: same ride published in two monthly files (Apr/May 2026 boundary), dropped": 35,
+   "ride_id repeated with different content (first file kept)": 0,
+   "rides under 60 s (false starts / re-docks), invalid": 638,
+   "rides over 24 h (lost / not returned), invalid": 79,
+   "rides with no end location, invalid": 80,
+   "rides at test / depot / warehouse stations, invalid": 970,
+   "rides started before 1 Oct 2025 (spill-over in the Oct file), invalid": 71,
+   "rides outside the service-area box, invalid": 31,
+   "implausible straight-line speed > 45 km/h, invalid": 15,
+   "negative durations left after the DST fix, invalid": 0,
+   "negative durations in the repeated 1 AM hour of 2 Nov 2025 (DST end), fixed +60 min": 29,
+   "station names fixed (trailing space, trailing *, double space)": 470,
+   "station ids with a leading space, trimmed": 7,
+   "raw station-name variants merged by standardisation": 7,
+   "stations seen with more than one station id": 19,
+   "dockless e-bike starts (no station), kept": 5246,
+   "distances approximate (2-decimal dockless coordinates), kept + flagged": 7710,
+   "zip quirk: 202601 zip contains a file named 202501-divvy-tripdata.csv (renamed on download)": 1,
+   "RI: valid rides lost in dimension joins": 0
+  },
+  "assertions": {
+   "distinct rows = raw rows - exact cross-file duplicates": "PASS",
+   "one row per ride_id in cln_trips": "PASS",
+   "no ride_id with conflicting content": "PASS",
+   "valid + invalid = all distinct rides": "PASS",
+   "every invalid ride has exactly one reported reason": "PASS",
+   "ride_id = 16 upper-case hex characters": "PASS",
+   "all timestamps parsed": "PASS",
+   "rideable_type in (classic_bike, electric_bike) and member_casual in (member, casual)": "PASS",
+   "valid rides: 60 s <= duration <= 24 h": "PASS",
+   "valid rides start inside 2025-10-01 .. 2026-09-30": "PASS",
+   "DST fix only touches 2 Nov 2025 01:xx rides and leaves no negative valid duration": "PASS",
+   "valid rides inside the service-area box": "PASS",
+   "classic bikes always start at a station": "PASS",
+   "distance >= 0 and round trips have 0 km": "PASS",
+   "station names standardised (trimmed, no trailing *, no double spaces)": "PASS",
+   "station_key and station_name unique in dim_station": "PASS",
+   "every station has coordinates inside the service area": "PASS",
+   "fact keys exist in every dimension (RI)": "PASS",
+   "fact_ride = valid rides in cln_trips": "PASS",
+   "agg_daily sums back to fact_ride (rides and minutes)": "PASS",
+   "agg_station_month sums back to station-start rides": "PASS",
+   "a_monthly totals = fact_ride and member + casual = rides": "PASS",
+   "a_hourly rides sum back to fact_ride": "PASS",
+   "member + casual ride shares = 100%": "PASS",
+   "dim_date = 365 consecutive days with weather": "PASS",
+   "every day of the window has rides [full data only]": "SKIP",
+   "all 12 months present with >= 100,000 valid rides [full data only]": "SKIP",
+   "invalid rides below 5% of all rides [full data only]": "SKIP"
+  }
+ },
+ "engine": {"duckdb": "1.5.6", "python": "3.13.5"},
+ "sql_timings_s": {
+  "00_duckdb_compat.sql": 0.003,
+  "01_staging.sql": 0.135,
+  "02_cleaning.sql": 0.269,
+  "03_model.sql": 0.056,
+  "04_analysis.sql": 0.117,
+  "05_quality_checks.sql": 0.068
+ }
+}

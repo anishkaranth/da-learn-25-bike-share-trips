@@ -1,0 +1,59 @@
+// measures.dax  DAX measures for the da-learn-25 bike-share model (tables as in model.md)
+// KPIs come from the complete aggregates (agg_daily, agg_station_month); fact_ride_sample is a 1/256 ride-level sample for distributions only.
+
+// ---- volumes (agg_daily, complete) ----
+Rides = SUM ( agg_daily[rides] )
+Member Rides = CALCULATE ( [Rides], dim_rider_type[rider_type] = "member" )
+Casual Rides = CALCULATE ( [Rides], dim_rider_type[rider_type] = "casual" )
+Ride Minutes = SUM ( agg_daily[ride_minutes] )
+Ride Hours = DIVIDE ( [Ride Minutes], 60 )
+Round Trips = SUM ( agg_daily[round_trips] )
+Dockless Starts = SUM ( agg_daily[dockless_starts] )
+E-bike Rides = CALCULATE ( [Rides], dim_bike_type[bike_type] = "electric_bike" )
+
+// ---- ratios (ratio of sums, valid for any slicer combination) ----
+Casual Share % = DIVIDE ( [Casual Rides], [Rides] )
+Casual Share of Minutes % = DIVIDE ( CALCULATE ( [Ride Minutes], dim_rider_type[rider_type] = "casual" ), [Ride Minutes] )
+Mean Ride Min = DIVIDE ( [Ride Minutes], [Rides] )
+E-bike Share % = DIVIDE ( [E-bike Rides], [Rides] )
+Round Trip % = DIVIDE ( [Round Trips], [Rides] )
+Dockless Start % = DIVIDE ( [Dockless Starts], [Rides] )
+Weekend Share % = DIVIDE ( CALCULATE ( [Rides], dim_date[day_type] = "Weekend / holiday" ), [Rides] )
+
+// ---- per-day measures (divide by calendar days in context) ----
+Days = COUNTROWS ( dim_date )
+Rides per Day = DIVIDE ( [Rides], [Days] )
+Member Rides per Day = DIVIDE ( [Member Rides], [Days] )
+Casual Rides per Day = DIVIDE ( [Casual Rides], [Days] )
+Summer / Winter Ratio =
+    DIVIDE (
+        CALCULATE ( [Rides per Day], dim_date[season] = "Summer" ),
+        CALCULATE ( [Rides per Day], dim_date[season] = "Winter" )
+    )
+
+// ---- weather ----
+Avg Temp C = AVERAGE ( dim_date[temp_mean_c] )
+Rides per +1 C (fit) =
+    VAR t = ADDCOLUMNS ( VALUES ( dim_date[date_key] ), "x", CALCULATE ( AVERAGE ( dim_date[temp_mean_c] ) ), "y", [Rides] )
+    VAR mx = AVERAGEX ( t, [x] )
+    VAR my = AVERAGEX ( t, [y] )
+    RETURN DIVIDE ( SUMX ( t, ( [x] - mx ) * ( [y] - my ) ), SUMX ( t, ( [x] - mx ) ^ 2 ) )
+
+// ---- stations (agg_station_month, complete for station starts) ----
+Station Starts = SUM ( agg_station_month[rides] )
+Station Casual Share % = DIVIDE ( CALCULATE ( [Station Starts], dim_rider_type[rider_type] = "casual" ), [Station Starts] )
+Station Round Trip % = DIVIDE ( SUM ( agg_station_month[round_trips] ), [Station Starts] )
+
+// ---- ride-level distributions (fact_ride_sample, 1/256 sample: shapes, not totals) ----
+Sample Rides = COUNTROWS ( fact_ride_sample )
+Median Ride Min (sample) = MEDIAN ( fact_ride_sample[duration_min] )
+P90 Ride Min (sample) = PERCENTILE.INC ( fact_ride_sample[duration_min], 0.9 )
+Median Km Station-to-station (sample) =
+    CALCULATE ( MEDIAN ( fact_ride_sample[distance_km] ), fact_ride_sample[is_round_trip] = 0, fact_ride_sample[distance_is_approx] = 0 )
+Over 45 Min % (sample) = DIVIDE ( CALCULATE ( [Sample Rides], fact_ride_sample[duration_min] > 45 ), [Sample Rides] )
+Commute-like Casual % (sample) =
+    DIVIDE (
+        CALCULATE ( [Sample Rides], dim_rider_type[rider_type] = "casual", dim_date[day_type] = "Weekday",
+                    fact_ride_sample[start_hour] IN { 7, 8, 9, 16, 17, 18 }, fact_ride_sample[duration_min] < 20, fact_ride_sample[is_round_trip] = 0 ),
+        CALCULATE ( [Sample Rides], dim_rider_type[rider_type] = "casual" )
+    )

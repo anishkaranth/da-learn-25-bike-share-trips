@@ -1,0 +1,751 @@
+station_name,station_type,zone,lat,lng,starts,casual_share_pct
+2112 W Peterson Ave,Dock,3 Outer neighbourhoods (8-15 km),41.991178,-87.683593,824,30.34
+63rd St Beach,Dock,3 Outer neighbourhoods (8-15 km),41.780911,-87.576324,1261,67.09
+900 W Harrison St,Dock,1 Loop + near downtown (< 3 km),41.874754,-87.649807,8480,30.54
+Aberdeen St & Carroll Ave,Dock,1 Loop + near downtown (< 3 km),41.88819,-87.65459,9001,29.84
+Aberdeen St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.877726,-87.654787,13079,26.88
+Aberdeen St & Monroe St,Dock,1 Loop + near downtown (< 3 km),41.88014,-87.6547,7734,23.56
+Aberdeen St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.884114,-87.654264,9676,33.01
+Ada St & Washington Blvd,Dock,1 Loop + near downtown (< 3 km),41.88283,-87.661206,6675,25.65
+Addison/Racine Corral,Dock,2 Inner neighbourhoods (3-8 km),41.947068,-87.659354,1700,55.41
+Addison/Sheffield SE Corral,Dock,2 Inner neighbourhoods (3-8 km),41.947028,-87.654252,1017,52.02
+Addison/Sheffield SW Corral,Dock,2 Inner neighbourhoods (3-8 km),41.946954,-87.654412,1856,56.14
+Addison/Wilton Corral,Dock,2 Inner neighbourhoods (3-8 km),41.947383,-87.653172,810,54.32
+Adler Planetarium,Dock,1 Loop + near downtown (< 3 km),41.866095,-87.607267,13837,72.21
+Albany Ave & Belmont Ave,Dock,3 Outer neighbourhoods (8-15 km),41.93966,-87.70526,1102,32.03
+Albany Ave & Bloomingdale Ave,Dock,2 Inner neighbourhoods (3-8 km),41.914027,-87.705126,3901,33.02
+Albany Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961041,-87.705866,2447,33.92
+Archer Ave & Wentworth Ave,Dock,2 Inner neighbourhoods (3-8 km),41.854687,-87.630853,2697,45.64
+Artesian Ave & Hubbard St,Dock,2 Inner neighbourhoods (3-8 km),41.8895,-87.688257,5307,24.93
+Ashland Ave & 13th St,Dock,2 Inner neighbourhoods (3-8 km),41.865234,-87.666507,3775,28.58
+Ashland Ave & Augusta Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.89962,-87.66841,7336,24.4
+Ashland Ave & Belle Plaine Ave,Dock,3 Outer neighbourhoods (8-15 km),41.95605,-87.66883,3013,38.3
+Ashland Ave & Blackhawk St,Dock,2 Inner neighbourhoods (3-8 km),41.907066,-87.667252,6941,31.47
+Ashland Ave & Chicago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.895954,-87.667728,6763,26.6
+Ashland Ave & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.903553,-87.670429,1121,30.06
+Ashland Ave & Grace St,Dock,3 Outer neighbourhoods (8-15 km),41.95068,-87.6687,4924,38.28
+Ashland Ave & Grand Ave,Dock,2 Inner neighbourhoods (3-8 km),41.891072,-87.666611,4591,31.95
+Ashland Ave & Lake St,Dock,2 Inner neighbourhoods (3-8 km),41.88592,-87.66717,5397,41.26
+Ashland Ave & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.936083,-87.669807,6155,29.07
+Ashland Ave & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92883,-87.668507,5348,30.42
+Avers Ave & Belmont Ave,Dock,3 Outer neighbourhoods (8-15 km),41.939408,-87.723574,3315,36.08
+Avondale Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.953393,-87.732002,2541,31.33
+Benson Ave & Church St,Dock,4 Edge + suburbs (15 km+),42.048214,-87.683485,6213,39.01
+Bernard St & Elston Ave,Dock,3 Outer neighbourhoods (8-15 km),41.949923,-87.713949,1013,29.81
+Bissell St & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.918296,-87.652183,12857,34.92
+Blackstone Ave & 53rd St,Dock,3 Outer neighbourhoods (8-15 km),41.79962,-87.59013,4100,32.15
+Blackstone Ave & 59th St,Dock,3 Outer neighbourhoods (8-15 km),41.787877,-87.590461,9367,25.77
+Blackstone Ave & Hyde Park Blvd,Dock,3 Outer neighbourhoods (8-15 km),41.802562,-87.590368,3913,34.58
+Blue Island Ave & 18th St,Dock,2 Inner neighbourhoods (3-8 km),41.857556,-87.661535,5366,29.69
+Bosworth Ave & Howard St,Dock,4 Edge + suburbs (15 km+),42.019537,-87.669563,895,23.8
+Broadway & Argyle St,Dock,3 Outer neighbourhoods (8-15 km),41.97423,-87.659774,6928,31.55
+Broadway & Barry Ave,Dock,2 Inner neighbourhoods (3-8 km),41.937582,-87.644098,16428,31.69
+Broadway & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.940106,-87.645451,11670,30.36
+Broadway & Berwyn Ave,Dock,3 Outer neighbourhoods (8-15 km),41.978361,-87.659789,7187,26.38
+Broadway & Cornelia Ave,Dock,2 Inner neighbourhoods (3-8 km),41.945529,-87.646439,17797,28.35
+Broadway & Cuyler Ave,Dock,3 Outer neighbourhoods (8-15 km),41.955417,-87.6515,3436,31.14
+Broadway & Granville Ave,Dock,3 Outer neighbourhoods (8-15 km),41.99478,-87.660285,7166,30.21
+Broadway & Oakdale Ave,Dock,2 Inner neighbourhoods (3-8 km),41.93558,-87.64405,9456,36.02
+Broadway & Ridge Ave,Dock,3 Outer neighbourhoods (8-15 km),41.984045,-87.660274,4057,30.76
+Broadway & Roscoe Ave,Dock,2 Inner neighbourhoods (3-8 km),41.9436,-87.64532,8950,33.18
+Broadway & Sheridan Rd,Dock,3 Outer neighbourhoods (8-15 km),41.952833,-87.649993,13295,30.52
+Broadway & Sunnyside Ave,Dock,3 Outer neighbourhoods (8-15 km),41.963419,-87.656069,7409,24.77
+Broadway & Thorndale Ave,Dock,3 Outer neighbourhoods (8-15 km),41.989743,-87.660141,6951,31.71
+Broadway & Waveland Ave,Dock,2 Inner neighbourhoods (3-8 km),41.949074,-87.648636,19419,26.99
+Broadway & Wilson Ave,Dock,3 Outer neighbourhoods (8-15 km),41.965221,-87.658139,8325,30.63
+Buckingham Fountain,Dock,1 Loop + near downtown (< 3 km),41.86959,-87.623961,1408,54.62
+Budlong Woods Library,Dock,3 Outer neighbourhoods (8-15 km),41.983665,-87.696423,797,32.5
+Burling St & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.93314,-87.64776,10830,23.98
+Burnham Harbor,Dock,1 Loop + near downtown (< 3 km),41.857412,-87.613792,8802,50.33
+California Ave & 21st St,Dock,2 Inner neighbourhoods (3-8 km),41.853796,-87.695823,894,31.88
+California Ave & Altgeld St,Dock,2 Inner neighbourhoods (3-8 km),41.92669,-87.697668,3029,31.83
+California Ave & Byron St,Dock,3 Outer neighbourhoods (8-15 km),41.952162,-87.698051,2582,28.74
+California Ave & Cortez St,Dock,2 Inner neighbourhoods (3-8 km),41.900363,-87.696704,4825,35.15
+California Ave & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.903029,-87.697474,3800,38.13
+California Ave & Fletcher St,Dock,3 Outer neighbourhoods (8-15 km),41.938429,-87.698008,3237,42.45
+California Ave & Francis Pl,Dock,2 Inner neighbourhoods (3-8 km),41.918491,-87.697423,4615,37.23
+California Ave & Granville Ave,Dock,3 Outer neighbourhoods (8-15 km),41.99418,-87.69956,1131,19.98
+California Ave & Lake St,Dock,2 Inner neighbourhoods (3-8 km),41.884454,-87.696298,889,50.84
+California Ave & Milwaukee Ave,Dock,2 Inner neighbourhoods (3-8 km),41.922695,-87.697153,11594,33.32
+California Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961068,-87.695439,2950,33.36
+California Ave & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.910044,-87.697167,3860,40.0
+California Ave & Winona St,Dock,3 Outer neighbourhoods (8-15 km),41.97471,-87.69786,674,25.67
+Calumet Ave & 18th St,Dock,1 Loop + near downtown (< 3 km),41.857618,-87.619411,8523,40.63
+Calumet Ave & 21st St,Dock,2 Inner neighbourhoods (3-8 km),41.854184,-87.619154,4824,47.57
+Calumet Ave & 33rd St,Dock,2 Inner neighbourhoods (3-8 km),41.83472,-87.61797,3489,22.73
+Calumet Ave & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.831379,-87.618034,1031,43.06
+Calumet Ave & 51st St,Dock,3 Outer neighbourhoods (8-15 km),41.802295,-87.618054,598,42.81
+Campbell Ave & Augusta Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.899578,-87.689497,3583,31.51
+Campbell Ave & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.924632,-87.689307,2002,41.96
+Campbell Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.95362,-87.69079,906,34.0
+Campbell Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961524,-87.691177,3702,20.34
+Campbell Ave & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.910535,-87.689556,5060,27.17
+Canal St & Adams St,Dock,1 Loop + near downtown (< 3 km),41.879255,-87.639904,17418,21.96
+Canal St & Harrison St,Dock,1 Loop + near downtown (< 3 km),41.874255,-87.639573,3544,28.81
+Canal St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.878125,-87.639968,14173,18.84
+Canal St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.88597,-87.63999,8146,24.45
+Canal St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.882409,-87.639767,29050,21.87
+Canal St & Monroe St,Dock,1 Loop + near downtown (< 3 km),41.882906,-87.639741,9740,19.97
+Canal St & Taylor St,Dock,1 Loop + near downtown (< 3 km),41.870257,-87.639474,5504,36.81
+Cannon Dr & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.926756,-87.634429,4659,57.03
+Carpenter St & Fulton St,Dock,1 Loop + near downtown (< 3 km),41.88668,-87.65315,5732,27.37
+Carpenter St & Huron St,Dock,1 Loop + near downtown (< 3 km),41.894556,-87.653449,8950,31.4
+Carpenter St & Lake St Public Rack,Public rack,1 Loop + near downtown (< 3 km),41.885586,-87.653189,1020,30.49
+Central Park Ave & Bloomingdale Ave,Dock,3 Outer neighbourhoods (8-15 km),41.914166,-87.716755,2462,30.95
+Central Park Ave & Elbridge Ave,Dock,3 Outer neighbourhoods (8-15 km),41.935337,-87.716889,3253,40.24
+Central Park Ave & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.909657,-87.716632,1039,44.56
+Central Park Ave & Ogden Ave,Dock,2 Inner neighbourhoods (3-8 km),41.854064,-87.715117,683,64.13
+Central St & Girard Ave,Dock,4 Edge + suburbs (15 km+),42.064313,-87.686152,1073,45.57
+Central St Metra,Dock,4 Edge + suburbs (15 km+),42.063598,-87.69873,1186,51.01
+Cherry Ave & Blackhawk St,Dock,2 Inner neighbourhoods (3-8 km),41.907221,-87.655618,2129,22.73
+Chicago Ave & Grove St,Dock,4 Edge + suburbs (15 km+),42.045223,-87.679958,844,48.22
+Chicago Ave & Sheridan Rd,Dock,4 Edge + suburbs (15 km+),42.050491,-87.677821,5526,50.76
+Chicago Ave & Washington St,Dock,4 Edge + suburbs (15 km+),42.032562,-87.679101,2862,38.36
+Christiana Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.968354,-87.711831,1945,33.01
+Cityfront Plaza Dr & Pioneer Ct,Dock,1 Loop + near downtown (< 3 km),41.890573,-87.622072,10722,35.2
+Claremont Ave & Hirsch St,Dock,2 Inner neighbourhoods (3-8 km),41.907781,-87.685854,2467,29.39
+Clarendon Ave & Gordon Ter,Dock,3 Outer neighbourhoods (8-15 km),41.957867,-87.649505,13360,26.19
+Clarendon Ave & Junior Ter,Dock,3 Outer neighbourhoods (8-15 km),41.961004,-87.649603,11859,30.59
+Clarendon Ave & Leland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.967968,-87.650001,6756,30.22
+Clark St & 9th St (AMLI),Dock,1 Loop + near downtown (< 3 km),41.870816,-87.631246,4318,40.48
+Clark St & Arlington Pl,Dock,2 Inner neighbourhoods (3-8 km),41.92694,-87.64148,14761,34.17
+Clark St & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.918306,-87.636282,24079,37.88
+Clark St & Berwyn Ave,Dock,3 Outer neighbourhoods (8-15 km),41.978017,-87.668019,12236,31.55
+Clark St & Bryn Mawr Ave,Dock,3 Outer neighbourhoods (8-15 km),41.983593,-87.669154,7452,27.24
+Clark St & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.89675,-87.63089,11114,29.88
+Clark St & Columbia Ave,Dock,3 Outer neighbourhoods (8-15 km),42.004451,-87.672402,2306,31.66
+Clark St & Drummond Pl,Dock,2 Inner neighbourhoods (3-8 km),41.931248,-87.644336,13829,29.55
+Clark St & Eddy St,Dock,2 Inner neighbourhoods (3-8 km),41.94628,-87.65627,8871,39.63
+Clark St & Elm St,Dock,1 Loop + near downtown (< 3 km),41.90297,-87.6313,22735,31.05
+Clark St & Elmdale Ave,Dock,3 Outer neighbourhoods (8-15 km),41.99086,-87.669724,2624,33.92
+Clark St & Fletcher St,Dock,2 Inner neighbourhoods (3-8 km),41.93894,-87.65031,4451,32.24
+Clark St & Grace St,Dock,3 Outer neighbourhoods (8-15 km),41.95078,-87.659172,9108,43.86
+Clark St & Ida B Wells Dr,Dock,1 Loop + near downtown (< 3 km),41.875933,-87.630585,8786,30.41
+Clark St & Jarvis Ave,Dock,4 Edge + suburbs (15 km+),42.015963,-87.675005,1511,26.87
+Clark St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.886021,-87.630876,16769,28.26
+Clark St & Leland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.967088,-87.667291,8903,33.29
+Clark St & Lincoln Ave,Dock,2 Inner neighbourhoods (3-8 km),41.915689,-87.6346,23249,38.35
+Clark St & Lunt Ave,Dock,3 Outer neighbourhoods (8-15 km),42.009011,-87.674112,4134,30.55
+Clark St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.88218,-87.63098,798,31.7
+Clark St & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961588,-87.666036,7265,33.43
+Clark St & Newport St,Dock,2 Inner neighbourhoods (3-8 km),41.94454,-87.654678,11803,41.18
+Clark St & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.911974,-87.631942,10093,38.15
+Clark St & Schiller St,Dock,1 Loop + near downtown (< 3 km),41.907993,-87.631501,15364,30.74
+Clark St & Schreiber Ave,Dock,3 Outer neighbourhoods (8-15 km),41.999245,-87.671249,2737,35.73
+Clark St & Touhy Ave,Dock,4 Edge + suburbs (15 km+),42.01256,-87.674367,865,31.68
+Clark St & Washington St,Dock,1 Loop + near downtown (< 3 km),41.88301,-87.631,2216,33.17
+Clark St & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.936497,-87.647539,12328,33.71
+Clark St & Winnemac Ave,Dock,3 Outer neighbourhoods (8-15 km),41.973348,-87.667855,14331,32.31
+Clark St & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.929546,-87.643118,15301,31.07
+Clark/Newport Corral,Dock,2 Inner neighbourhoods (3-8 km),41.944941,-87.654611,1811,54.33
+Clark/Racine Corral,Dock,3 Outer neighbourhoods (8-15 km),41.950436,-87.659321,1816,57.76
+Clifton Ave & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.918216,-87.656936,9574,29.49
+Clinton St & 18th St,Dock,1 Loop + near downtown (< 3 km),41.85795,-87.640826,3080,32.56
+Clinton St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.878317,-87.640981,25018,20.56
+Clinton St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.885637,-87.641823,16938,22.93
+Clinton St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.88166,-87.64115,24957,25.76
+Clinton St & Polk St,Dock,1 Loop + near downtown (< 3 km),41.871467,-87.640949,1108,45.13
+Clinton St & Roosevelt Rd,Dock,1 Loop + near downtown (< 3 km),41.867118,-87.641088,5864,38.15
+Clinton St & Tilden St,Dock,1 Loop + near downtown (< 3 km),41.875885,-87.640795,7006,25.29
+Clinton St & Washington Blvd,Dock,1 Loop + near downtown (< 3 km),41.88281,-87.6412,16691,17.67
+Clinton St & Washington Blvd 2,Dock,1 Loop + near downtown (< 3 km),41.88338,-87.64117,21386,19.07
+Clybourn Ave & Division St,Dock,1 Loop + near downtown (< 3 km),41.904613,-87.640552,6262,25.58
+Columbus Dr & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.884728,-87.619521,19902,35.43
+Conservatory Dr & Lake St,Dock,2 Inner neighbourhoods (3-8 km),41.885502,-87.716866,655,51.15
+Cornell Ave & Hyde Park Blvd,Dock,3 Outer neighbourhoods (8-15 km),41.802406,-87.586924,6208,33.1
+Cottage Grove Ave & 43rd St,Dock,2 Inner neighbourhoods (3-8 km),41.816499,-87.606582,727,39.2
+Cottage Grove Ave & 49th St,Dock,3 Outer neighbourhoods (8-15 km),41.806273,-87.606643,670,29.4
+Cottage Grove Ave & 51st St,Dock,3 Outer neighbourhoods (8-15 km),41.803038,-87.606615,893,38.86
+Cottage Grove Ave & 63rd St,Dock,3 Outer neighbourhoods (8-15 km),41.780531,-87.60597,1106,42.86
+Cottage Grove Ave & Oakwood Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.822985,-87.6071,1019,49.36
+Daley Center Plaza,Dock,1 Loop + near downtown (< 3 km),41.884241,-87.629634,19271,26.26
+Damen Ave & Charleston St,Dock,2 Inner neighbourhoods (3-8 km),41.920082,-87.677855,5784,33.64
+Damen Ave & Chicago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.895687,-87.677135,10939,30.17
+Damen Ave & Chicago Ave Public Rack,Public rack,2 Inner neighbourhoods (3-8 km),41.895809,-87.678519,807,25.9
+Damen Ave & Clybourn Ave,Dock,2 Inner neighbourhoods (3-8 km),41.93221,-87.67859,4130,29.73
+Damen Ave & Cortland St,Dock,2 Inner neighbourhoods (3-8 km),41.915983,-87.677335,9847,35.12
+Damen Ave & Cullerton St,Dock,2 Inner neighbourhoods (3-8 km),41.854967,-87.6757,3057,32.42
+Damen Ave & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.903266,-87.678435,9109,31.16
+Damen Ave & Evergreen Ave,Dock,2 Inner neighbourhoods (3-8 km),41.90605,-87.67758,2841,34.42
+Damen Ave & Foster Ave,Dock,3 Outer neighbourhoods (8-15 km),41.975811,-87.67951,5449,33.22
+Damen Ave & Grand Ave,Dock,2 Inner neighbourhoods (3-8 km),41.892394,-87.676885,606,33.66
+Damen Ave & Lake St,Dock,2 Inner neighbourhoods (3-8 km),41.884966,-87.676835,4476,38.14
+Damen Ave & Leland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.967081,-87.679076,7129,29.26
+Damen Ave & Madison St,Dock,2 Inner neighbourhoods (3-8 km),41.88137,-87.67493,2596,45.45
+Damen Ave & Melrose Ave,Dock,2 Inner neighbourhoods (3-8 km),41.9406,-87.6785,3985,32.92
+Damen Ave & Ohio St,Dock,2 Inner neighbourhoods (3-8 km),41.892394,-87.676885,4866,33.89
+Damen Ave & Pierce Ave,Dock,2 Inner neighbourhoods (3-8 km),41.909358,-87.677759,13019,33.31
+Damen Ave & St Paul Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91301,-87.67778,4738,30.52
+Damen Ave & Sunnyside Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96325,-87.679258,4263,25.24
+Damen Ave & Thomas St (Augusta Blvd),Dock,2 Inner neighbourhoods (3-8 km),41.901315,-87.677409,7419,30.65
+Damen Ave & Wabansia Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91225,-87.67722,5219,35.37
+Damen Ave & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.93588,-87.67842,4814,33.44
+Damen Ave & Wicker Park Ave,Dock,2 Inner neighbourhoods (3-8 km),41.908815,-87.677194,6321,35.18
+Dayton St & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.910578,-87.649422,11655,32.43
+Dearborn Pkwy & Delaware Pl,Dock,1 Loop + near downtown (< 3 km),41.898969,-87.629912,20933,29.78
+Dearborn St & Adams St,Dock,1 Loop + near downtown (< 3 km),41.879356,-87.629791,3208,24.5
+Dearborn St & Adams St 1,Dock,1 Loop + near downtown (< 3 km),41.879356,-87.629791,6079,31.02
+Dearborn St & Adams St 2,Dock,1 Loop + near downtown (< 3 km),41.87963,-87.62937,4666,31.29
+Dearborn St & Division St,Dock,1 Loop + near downtown (< 3 km),41.9043,-87.62991,15234,33.25
+Dearborn St & Erie St,Dock,1 Loop + near downtown (< 3 km),41.894,-87.62922,20437,33.9
+Dearborn St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.88206,-87.62964,7233,24.82
+Dearborn St & Maple St,Dock,1 Loop + near downtown (< 3 km),41.90192,-87.63026,14315,29.72
+Dearborn St & Monroe St,Dock,1 Loop + near downtown (< 3 km),41.88132,-87.629521,2307,26.27
+Dearborn St & Van Buren St,Dock,1 Loop + near downtown (< 3 km),41.876268,-87.629155,6783,32.52
+Dearborn St & Washington St,Dock,1 Loop + near downtown (< 3 km),41.88299,-87.6293,4380,29.63
+Delano Ct & Roosevelt Rd,Dock,1 Loop + near downtown (< 3 km),41.867491,-87.63219,7026,39.62
+Desplaines St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.878119,-87.643948,12192,24.98
+Desplaines St & Kinzie St,Dock,1 Loop + near downtown (< 3 km),41.888716,-87.644448,21920,28.43
+Desplaines St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.883703,-87.644238,7395,33.35
+Dodge Ave & Church St,Dock,4 Edge + suburbs (15 km+),42.048308,-87.698224,915,47.54
+Dodge Ave & Main St,Dock,4 Edge + suburbs (15 km+),42.034632,-87.699188,555,36.4
+Dorchester Ave & 49th St,Dock,3 Outer neighbourhoods (8-15 km),41.805772,-87.592464,1111,28.44
+Dorchester Ave & 53rd St,Dock,3 Outer neighbourhoods (8-15 km),41.79943,-87.59227,4667,30.15
+Dorchester Ave & 63rd St,Dock,3 Outer neighbourhoods (8-15 km),41.780406,-87.591416,699,56.37
+Drake Ave & Addison St,Dock,3 Outer neighbourhoods (8-15 km),41.947326,-87.717582,1762,31.27
+Drake Ave & Armitage Ave,Dock,3 Outer neighbourhoods (8-15 km),41.91749,-87.71524,1321,38.08
+Drake Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961154,-87.716569,1338,30.27
+Drexel Ave & 60th St,Dock,3 Outer neighbourhoods (8-15 km),41.785861,-87.604553,4475,28.36
+DuSable Lake Shore Dr & Balbo Dr,Dock,1 Loop + near downtown (< 3 km),41.87318,-87.61685,4358,75.33
+DuSable Lake Shore Dr & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.940775,-87.639192,13340,42.14
+DuSable Lake Shore Dr & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.932588,-87.636427,17943,40.73
+DuSable Lake Shore Dr & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.87831,-87.61695,3701,78.52
+DuSable Lake Shore Dr & Monroe St,Dock,1 Loop + near downtown (< 3 km),41.880958,-87.616743,36380,78.52
+DuSable Lake Shore Dr & North Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.911722,-87.626804,30977,54.65
+DuSable Lake Shore Dr & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.936688,-87.636829,13461,39.62
+DuSable Museum,Dock,3 Outer neighbourhoods (8-15 km),41.791568,-87.607852,696,35.63
+Dusable Harbor,Dock,1 Loop + near downtown (< 3 km),41.886976,-87.612813,18977,71.82
+Eastlake Ter & Howard St,Dock,4 Edge + suburbs (15 km+),42.019203,-87.664303,1329,29.57
+Eckhart Park,Dock,2 Inner neighbourhoods (3-8 km),41.896373,-87.660984,7504,28.36
+Eddy/Seminary Corral,Dock,2 Inner neighbourhoods (3-8 km),41.946128,-87.656672,2851,56.3
+Elizabeth St & Fulton St,Dock,1 Loop + near downtown (< 3 km),41.88672,-87.65957,7818,27.6
+Elizabeth St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.884336,-87.658902,9712,30.97
+Ellis Ave & 53rd St,Dock,3 Outer neighbourhoods (8-15 km),41.799336,-87.600958,6564,24.28
+Ellis Ave & 55th St,Dock,3 Outer neighbourhoods (8-15 km),41.794301,-87.60145,17437,25.45
+Ellis Ave & 58th St,Dock,3 Outer neighbourhoods (8-15 km),41.788746,-87.601334,7899,19.86
+Ellis Ave & 60th St,Dock,3 Outer neighbourhoods (8-15 km),41.785097,-87.601073,15935,26.72
+Elmwood Ave & Austin St,Dock,4 Edge + suburbs (15 km+),42.025784,-87.684107,918,39.22
+Elston Ave & Cortland St,Dock,2 Inner neighbourhoods (3-8 km),41.916433,-87.666746,10998,30.87
+Elston Ave & George St,Dock,2 Inner neighbourhoods (3-8 km),41.934003,-87.690823,1922,36.84
+Elston Ave & Henderson St,Dock,3 Outer neighbourhoods (8-15 km),41.94154,-87.70086,1014,36.49
+Elston Ave & Wabansia Ave,Dock,2 Inner neighbourhoods (3-8 km),41.912919,-87.664169,2676,36.36
+Emerald Ave & 28th St,Dock,2 Inner neighbourhoods (3-8 km),41.84358,-87.645368,1542,22.83
+Emerald Ave & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.838198,-87.645143,3749,26.54
+Evanston Civic Center,Dock,4 Edge + suburbs (15 km+),42.057044,-87.686554,1432,49.72
+Fairbanks Ct & Grand Ave,Dock,1 Loop + near downtown (< 3 km),41.891847,-87.62058,13428,34.21
+Fairbanks St & Superior St,Dock,1 Loop + near downtown (< 3 km),41.895748,-87.620104,6210,26.02
+Federal St & Polk St,Dock,1 Loop + near downtown (< 3 km),41.872078,-87.629544,16674,28.99
+Field Blvd & South Water St,Dock,1 Loop + near downtown (< 3 km),41.886349,-87.617517,13762,41.02
+Field Museum,Dock,1 Loop + near downtown (< 3 km),41.865312,-87.617867,12372,81.02
+Financial Pl & Ida B Wells Dr,Dock,1 Loop + near downtown (< 3 km),41.875024,-87.633094,9774,30.43
+Fort Dearborn Dr & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.838676,-87.608832,5675,60.6
+Francisco Ave & Bloomingdale Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91396,-87.6994,1860,43.17
+Francisco Ave & Chicago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.895745,-87.698653,2819,35.12
+Francisco Ave & Foster Ave,Dock,3 Outer neighbourhoods (8-15 km),41.975633,-87.701419,2457,22.14
+Francisco Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96106,-87.70095,1617,30.67
+Franklin St & Adams St,Dock,1 Loop + near downtown (< 3 km),41.879434,-87.635504,8134,25.56
+Franklin St & Adams St Corral,Dock,1 Loop + near downtown (< 3 km),41.87942,-87.63558,546,15.02
+Franklin St & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.89679,-87.63564,12575,28.49
+Franklin St & Illinois St,Dock,1 Loop + near downtown (< 3 km),41.891023,-87.63548,9057,28.31
+Franklin St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.877708,-87.635321,15330,29.04
+Franklin St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.885837,-87.6355,11811,26.04
+Franklin St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.88139,-87.63542,2835,26.0
+Franklin St & Monroe St,Dock,1 Loop + near downtown (< 3 km),41.880317,-87.635185,12736,18.04
+Franklin St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.88439,-87.63517,2069,31.75
+Franklin St & Washington St,Dock,1 Loop + near downtown (< 3 km),41.88318,-87.63511,7778,23.76
+Fulton Market,Dock,1 Loop + near downtown (< 3 km),41.886871,-87.648089,13410,28.95
+Glenwood Ave & Devon Ave,Dock,3 Outer neighbourhoods (8-15 km),41.99791,-87.66545,1272,44.97
+Glenwood Ave & Morse Ave,Dock,3 Outer neighbourhoods (8-15 km),42.007972,-87.665502,4655,23.05
+Glenwood Ave & Touhy Ave,Dock,3 Outer neighbourhoods (8-15 km),42.012701,-87.666058,1623,38.39
+Grace/Sheffield Corral,Dock,3 Outer neighbourhoods (8-15 km),41.951159,-87.654612,997,38.72
+Granville Ave & Clark St,Dock,3 Outer neighbourhoods (8-15 km),41.9944,-87.66983,2205,34.6
+Green St & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.893392,-87.650737,6432,34.2
+Green St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.88558,-87.64841,8113,34.34
+Green St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.881859,-87.649264,16831,25.88
+Green St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.883602,-87.648627,8319,38.17
+Green St & Washington Blvd,Dock,1 Loop + near downtown (< 3 km),41.883181,-87.648725,6134,34.09
+Greenview Ave & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.93259,-87.665936,1256,32.64
+Greenview Ave & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92533,-87.6658,6757,31.51
+Greenview Ave & Jarvis Ave,Dock,4 Edge + suburbs (15 km+),42.015962,-87.66857,3159,30.64
+Greenwood Ave & 47th St,Dock,3 Outer neighbourhoods (8-15 km),41.809835,-87.599383,1785,22.07
+Griffin Museum of Science and Industry,Dock,3 Outer neighbourhoods (8-15 km),41.791728,-87.583945,5541,59.14
+Halsted St & 18th St,Dock,2 Inner neighbourhoods (3-8 km),41.857506,-87.645991,4274,33.29
+Halsted St & 21st St,Dock,2 Inner neighbourhoods (3-8 km),41.85378,-87.646603,2435,39.59
+Halsted St & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.830661,-87.647172,3039,32.25
+Halsted St & 37th St,Dock,2 Inner neighbourhoods (3-8 km),41.827059,-87.64572,855,29.36
+Halsted St & Archer Ave,Dock,2 Inner neighbourhoods (3-8 km),41.847203,-87.646795,2728,45.45
+Halsted St & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91823,-87.64879,12094,37.77
+Halsted St & Belden St,Dock,2 Inner neighbourhoods (3-8 km),41.92365,-87.64894,6255,38.24
+Halsted St & Clybourn Ave,Dock,2 Inner neighbourhoods (3-8 km),41.909668,-87.648128,18968,30.3
+Halsted St & Court Pl,Dock,1 Loop + near downtown (< 3 km),41.8837,-87.64722,2662,40.27
+Halsted St & Dickens Ave,Dock,2 Inner neighbourhoods (3-8 km),41.919936,-87.64883,8483,32.48
+Halsted St & Fulton St,Dock,1 Loop + near downtown (< 3 km),41.88672,-87.64729,5875,29.86
+Halsted St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.88576,-87.64711,4653,35.57
+Halsted St & Maxwell St,Dock,1 Loop + near downtown (< 3 km),41.864883,-87.647071,7205,38.15
+Halsted St & Melrose St,Dock,2 Inner neighbourhoods (3-8 km),41.94112,-87.64907,4188,24.31
+Halsted St & Polk St,Dock,1 Loop + near downtown (< 3 km),41.87184,-87.64664,9509,21.38
+Halsted St & Roosevelt Rd,Dock,1 Loop + near downtown (< 3 km),41.867324,-87.648625,5678,25.38
+Halsted St & Roscoe St,Dock,2 Inner neighbourhoods (3-8 km),41.94367,-87.64895,14363,34.43
+Halsted St & Willow St,Dock,2 Inner neighbourhoods (3-8 km),41.913865,-87.648755,9050,29.79
+Halsted St & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.929143,-87.649077,13489,33.75
+Hampden Ct & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.93247,-87.64242,11941,31.3
+Harper Ave & 55th St,Dock,3 Outer neighbourhoods (8-15 km),41.7953,-87.58833,7833,30.59
+Harper Ave & 59th St,Dock,3 Outer neighbourhoods (8-15 km),41.787943,-87.588315,2731,28.01
+Hermitage Ave & Polk St,Dock,2 Inner neighbourhoods (3-8 km),41.871514,-87.669886,5104,20.81
+Honore St & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.903119,-87.673935,9297,30.41
+Hoyne Ave & Balmoral Ave,Dock,3 Outer neighbourhoods (8-15 km),41.979851,-87.681932,2211,33.11
+Hudson Ave & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91818,-87.64,7873,37.75
+Humboldt Blvd & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.917513,-87.701809,5075,41.6
+Indiana Ave & 26th St,Dock,2 Inner neighbourhoods (3-8 km),41.845687,-87.622481,3053,37.54
+Indiana Ave & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.838842,-87.621857,1380,47.54
+Indiana Ave & Roosevelt Rd,Dock,1 Loop + near downtown (< 3 km),41.867888,-87.623041,18631,42.98
+Inner Lake Shore Dr & Aldine Ave,Dock,2 Inner neighbourhoods (3-8 km),41.94232,-87.63989,6744,47.84
+Jefferson St & Monroe St,Dock,1 Loop + near downtown (< 3 km),41.88033,-87.642746,6843,30.13
+Jeffery Blvd & 67th St,Dock,3 Outer neighbourhoods (8-15 km),41.773518,-87.577143,594,51.01
+Karlov Ave & Armitage Ave,Dock,3 Outer neighbourhoods (8-15 km),41.91748,-87.728952,929,23.25
+Karlov Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.967947,-87.730409,517,27.47
+Kedzie Ave & 21st St,Dock,2 Inner neighbourhoods (3-8 km),41.853534,-87.705073,567,41.8
+Kedzie Ave & 48th Pl,Dock,3 Outer neighbourhoods (8-15 km),41.804758,-87.704219,726,60.33
+Kedzie Ave & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91759,-87.70685,3914,35.0
+Kedzie Ave & Bryn Mawr Ave,Dock,3 Outer neighbourhoods (8-15 km),41.98223,-87.708887,792,25.13
+Kedzie Ave & Chicago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.895465,-87.706128,765,30.07
+Kedzie Ave & Foster Ave,Dock,3 Outer neighbourhoods (8-15 km),41.975672,-87.709261,1102,33.76
+Kedzie Ave & George St,Dock,3 Outer neighbourhoods (8-15 km),41.933886,-87.707262,1977,37.53
+Kedzie Ave & Lake St,Dock,2 Inner neighbourhoods (3-8 km),41.884603,-87.706304,586,48.98
+Kedzie Ave & Leland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.966686,-87.708052,2103,34.9
+Kedzie Ave & Milwaukee Ave,Dock,3 Outer neighbourhoods (8-15 km),41.929714,-87.707988,10246,40.18
+Kedzie Ave & Palmer Ct,Dock,2 Inner neighbourhoods (3-8 km),41.921525,-87.707322,3950,30.66
+Kenmore Ave & Catalpa Ave,Dock,3 Outer neighbourhoods (8-15 km),41.98203,-87.65653,1283,29.31
+Kenneth Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.967821,-87.73998,558,26.7
+Kenwood Ave & 57th St,Dock,3 Outer neighbourhoods (8-15 km),41.79154,-87.59295,3317,26.14
+Keystone Ave & Fullerton Ave,Dock,3 Outer neighbourhoods (8-15 km),41.92459,-87.72785,1293,32.48
+Keystone Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961108,-87.72897,992,24.8
+Kilbourn Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.953733,-87.740569,633,27.01
+Kilbourn Ave & Milwaukee Ave,Dock,3 Outer neighbourhoods (8-15 km),41.948924,-87.740035,816,49.26
+Kildare Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96108,-87.73569,606,38.78
+Kimball Ave & Belmont Ave,Dock,3 Outer neighbourhoods (8-15 km),41.939394,-87.712068,4192,34.76
+Kimball Ave & Wrightwood Ave,Dock,3 Outer neighbourhoods (8-15 km),41.92837,-87.71244,1802,40.23
+Kimbark Ave & 53rd St,Dock,3 Outer neighbourhoods (8-15 km),41.799455,-87.594778,11170,29.31
+Kingsbury St & Erie St,Dock,1 Loop + near downtown (< 3 km),41.893914,-87.641736,20069,22.81
+Kingsbury St & Kinzie St,Dock,1 Loop + near downtown (< 3 km),41.889177,-87.638506,7756,20.86
+Kingsbury St & Kinzie St 1,Dock,1 Loop + near downtown (< 3 km),41.88907,-87.63835,19449,25.82
+Kingsbury St & Kinzie St 2,Dock,1 Loop + near downtown (< 3 km),41.889188,-87.638387,23169,21.72
+Knox Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.960631,-87.745359,889,42.74
+Kosciuszko Park,Dock,3 Outer neighbourhoods (8-15 km),41.930585,-87.723777,2245,39.47
+Kostner Ave & Wrightwood Ave,Dock,3 Outer neighbourhoods (8-15 km),41.927957,-87.735952,615,26.02
+LaSalle Dr & Huron St,Dock,1 Loop + near downtown (< 3 km),41.894877,-87.632326,11595,34.07
+LaSalle St & Adams St,Dock,1 Loop + near downtown (< 3 km),41.879344,-87.631985,4320,35.49
+LaSalle St & Calhoun Pl,Dock,1 Loop + near downtown (< 3 km),41.882664,-87.63253,4666,22.59
+LaSalle St & Illinois St,Dock,1 Loop + near downtown (< 3 km),41.890762,-87.631697,21280,36.26
+LaSalle St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.878166,-87.631929,12756,19.94
+LaSalle St & Washington St,Dock,1 Loop + near downtown (< 3 km),41.883235,-87.632112,2867,23.3
+Laflin St & Cullerton St,Dock,2 Inner neighbourhoods (3-8 km),41.854915,-87.66356,2696,38.5
+Laflin St & Taylor St,Dock,2 Inner neighbourhoods (3-8 km),41.86912,-87.66416,1155,24.16
+Lake Park Ave & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.831274,-87.608799,2219,51.83
+Lake Park Ave & 47th St,Dock,3 Outer neighbourhoods (8-15 km),41.809443,-87.591875,1846,43.77
+Lake Park Ave & 53rd St,Dock,3 Outer neighbourhoods (8-15 km),41.799494,-87.58645,5271,26.2
+Lake Park Ave & 56th St,Dock,3 Outer neighbourhoods (8-15 km),41.79161,-87.58748,4146,27.45
+Lake/Green Corral,Dock,1 Loop + near downtown (< 3 km),41.88547,-87.648564,1372,35.64
+Lakefront Trail & Bryn Mawr Ave,Dock,3 Outer neighbourhoods (8-15 km),41.984044,-87.652281,10626,44.3
+Lakefront Trail & Wilson Ave,Dock,3 Outer neighbourhoods (8-15 km),41.966856,-87.643093,6769,54.62
+Lakeview Ave & Fullerton Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.925858,-87.638973,13585,36.57
+Lakewood Ave & Addison St,Dock,2 Inner neighbourhoods (3-8 km),41.9472,-87.66085,2953,49.48
+Lamon Ave & Belmont Ave,Dock,3 Outer neighbourhoods (8-15 km),41.93897,-87.74927,510,21.57
+Larrabee St & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.918084,-87.643749,6861,33.14
+Larrabee St & Clybourn Ave,Dock,2 Inner neighbourhoods (3-8 km),41.9066,-87.64322,3774,28.17
+Larrabee St & Division St,Dock,1 Loop + near downtown (< 3 km),41.903486,-87.643353,10835,31.36
+Larrabee St & Kingsbury St,Dock,1 Loop + near downtown (< 3 km),41.897764,-87.642884,2978,22.13
+Larrabee St & Kingsbury St 1,Dock,1 Loop + near downtown (< 3 km),41.897764,-87.642884,14942,18.98
+Larrabee St & Kingsbury St 2,Dock,1 Loop + near downtown (< 3 km),41.89758,-87.6429,11621,16.87
+Larrabee St & Menomonee St,Dock,2 Inner neighbourhoods (3-8 km),41.91468,-87.64332,5595,23.82
+Larrabee St & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91021,-87.6435,6448,29.89
+Larrabee St & Oak St,Dock,1 Loop + near downtown (< 3 km),41.900381,-87.642002,6575,24.09
+Larrabee St & Webster Ave,Dock,2 Inner neighbourhoods (3-8 km),41.921822,-87.64414,15845,36.66
+Leavitt St & Addison St,Dock,3 Outer neighbourhoods (8-15 km),41.946655,-87.683359,3047,43.72
+Leavitt St & Archer Ave,Dock,2 Inner neighbourhoods (3-8 km),41.828792,-87.680604,1038,42.87
+Leavitt St & Argyle,Dock,3 Outer neighbourhoods (8-15 km),41.97246,-87.68413,548,35.04
+Leavitt St & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.917805,-87.682437,5458,28.97
+Leavitt St & Augusta Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.89962,-87.68194,3635,28.03
+Leavitt St & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.939354,-87.683282,4368,36.52
+Leavitt St & Chicago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.895501,-87.682017,5233,26.07
+Leavitt St & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.902997,-87.683825,3940,34.06
+Leavitt St & Hirsch St,Dock,2 Inner neighbourhoods (3-8 km),41.90689,-87.68233,2397,36.55
+Leavitt St & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.968885,-87.684001,2686,29.86
+Leavitt St & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91016,-87.68232,7090,29.45
+Lincoln Ave & Addison St,Dock,3 Outer neighbourhoods (8-15 km),41.946176,-87.673308,3743,33.24
+Lincoln Ave & Balmoral Ave,Dock,3 Outer neighbourhoods (8-15 km),41.979461,-87.693013,1336,31.21
+Lincoln Ave & Belle Plaine Ave,Dock,3 Outer neighbourhoods (8-15 km),41.956004,-87.680161,4801,32.08
+Lincoln Ave & Byron St,Dock,3 Outer neighbourhoods (8-15 km),41.952372,-87.677296,4688,31.91
+Lincoln Ave & Dickens Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92012,-87.6416,7334,36.17
+Lincoln Ave & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.932225,-87.658617,9952,32.26
+Lincoln Ave & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.924161,-87.64638,16138,30.35
+Lincoln Ave & Melrose St,Dock,2 Inner neighbourhoods (3-8 km),41.9406,-87.669435,9745,24.97
+Lincoln Ave & Montana St,Dock,2 Inner neighbourhoods (3-8 km),41.92657,-87.6506,5972,36.0
+Lincoln Ave & Peterson Ave,Dock,3 Outer neighbourhoods (8-15 km),41.990267,-87.70857,661,33.13
+Lincoln Ave & Roscoe St,Dock,2 Inner neighbourhoods (3-8 km),41.94335,-87.670668,8677,24.27
+Lincoln Ave & Sunnyside Ave,Dock,3 Outer neighbourhoods (8-15 km),41.963004,-87.684781,6184,30.89
+Lincoln Ave & Waveland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.948797,-87.675278,3898,26.78
+Lincoln Ave & Winona St,Dock,3 Outer neighbourhoods (8-15 km),41.974911,-87.692503,2431,29.86
+Lincoln Park Conservatory,Dock,2 Inner neighbourhoods (3-8 km),41.923931,-87.635825,12769,50.11
+Lincoln Park Zoo,Dock,2 Inner neighbourhoods (3-8 km),41.92242,-87.63195,1796,77.84
+Lock St & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.837962,-87.659049,1011,34.42
+Lockwood Ave & Wrightwood Ave,Dock,3 Outer neighbourhoods (8-15 km),41.927766,-87.758544,663,23.08
+Logan Blvd & Elston Ave,Dock,2 Inner neighbourhoods (3-8 km),41.929465,-87.684158,3960,29.92
+Loomis St & Archer Ave,Dock,2 Inner neighbourhoods (3-8 km),41.841633,-87.657435,1082,35.21
+Loomis St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.877945,-87.662007,4562,24.51
+Loomis St & Lexington St,Dock,1 Loop + near downtown (< 3 km),41.872229,-87.661364,14183,20.31
+MLK Jr Dr & 29th St,Dock,2 Inner neighbourhoods (3-8 km),41.842052,-87.617,4190,38.35
+MLK Jr Dr & 47th St,Dock,3 Outer neighbourhoods (8-15 km),41.809851,-87.616279,757,32.5
+MLK Jr Dr & Pershing Rd,Dock,2 Inner neighbourhoods (3-8 km),41.8246,-87.61678,1220,31.48
+Malcolm X College,Dock,2 Inner neighbourhoods (3-8 km),41.877618,-87.673895,2178,28.33
+Malden St & Wilson Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96526,-87.66275,4853,28.83
+Manor Ave & Leland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.965875,-87.700825,1677,28.32
+Marine Dr & Ainslie St,Dock,3 Outer neighbourhoods (8-15 km),41.9716,-87.650154,6839,33.18
+Marshfield Ave & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.93204,-87.6697,1928,30.76
+Marshfield Ave & Wabansia Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91218,-87.66888,2251,33.67
+May St & Cullerton St,Dock,2 Inner neighbourhoods (3-8 km),41.855136,-87.654127,3052,21.72
+May St & Hubbard St,Dock,1 Loop + near downtown (< 3 km),41.89008,-87.65597,6488,29.27
+May St & Taylor St,Dock,1 Loop + near downtown (< 3 km),41.86938,-87.6555,9662,23.11
+McClurg Ct & Erie St,Dock,1 Loop + near downtown (< 3 km),41.894503,-87.617854,8424,26.03
+McClurg Ct & Ohio St,Dock,1 Loop + near downtown (< 3 km),41.892592,-87.617289,23298,33.58
+McCormick Blvd & Devon Ave,Dock,3 Outer neighbourhoods (8-15 km),41.9972,-87.71105,1119,33.15
+McCormick Place,Dock,2 Inner neighbourhoods (3-8 km),41.851375,-87.618835,6648,71.4
+Michigan Ave & 11th St,Dock,1 Loop + near downtown (< 3 km),41.86959,-87.623961,2999,40.88
+Michigan Ave & 14th St,Dock,1 Loop + near downtown (< 3 km),41.864059,-87.623727,10975,30.44
+Michigan Ave & 18th St,Dock,1 Loop + near downtown (< 3 km),41.857926,-87.624336,8937,37.33
+Michigan Ave & 8th St,Dock,1 Loop + near downtown (< 3 km),41.872773,-87.623981,15901,61.96
+Michigan Ave & 9th St,Dock,1 Loop + near downtown (< 3 km),41.87094,-87.62439,3742,47.22
+Michigan Ave & Ida B Wells Dr,Dock,1 Loop + near downtown (< 3 km),41.876203,-87.624464,6714,53.59
+Michigan Ave & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.878556,-87.624146,10018,53.86
+Michigan Ave & Lake St,Dock,1 Loop + near downtown (< 3 km),41.886022,-87.624398,21062,41.8
+Michigan Ave & Madison St,Dock,1 Loop + near downtown (< 3 km),41.882134,-87.625125,5923,37.24
+Michigan Ave & Oak St,Dock,1 Loop + near downtown (< 3 km),41.90096,-87.623777,34126,60.54
+Michigan Ave & Pearson St,Dock,1 Loop + near downtown (< 3 km),41.89766,-87.62351,7668,46.82
+Michigan Ave & Washington St,Dock,1 Loop + near downtown (< 3 km),41.883984,-87.624684,18947,40.8
+Midway Orange Line,Dock,3 Outer neighbourhoods (8-15 km),41.78692,-87.73892,600,62.0
+Mies van der Rohe Way & Chestnut St,Dock,1 Loop + near downtown (< 3 km),41.898587,-87.621915,14429,34.4
+Mies van der Rohe Way & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.896945,-87.621758,11984,31.48
+Millennium Park,Dock,1 Loop + near downtown (< 3 km),41.881032,-87.624084,25269,66.62
+Milwaukee Ave & Ainslie St,Dock,3 Outer neighbourhoods (8-15 km),41.96861,-87.76108,1723,32.04
+Milwaukee Ave & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91771,-87.68864,5958,35.85
+Milwaukee Ave & Cuyler Ave,Dock,3 Outer neighbourhoods (8-15 km),41.954468,-87.749594,563,39.25
+Milwaukee Ave & Diversey Ave,Dock,3 Outer neighbourhoods (8-15 km),41.93266,-87.71222,1003,42.37
+Milwaukee Ave & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92469,-87.7006,4994,39.27
+Milwaukee Ave & Grand Ave,Dock,1 Loop + near downtown (< 3 km),41.891578,-87.648384,13795,32.63
+Milwaukee Ave & Rockwell St,Dock,2 Inner neighbourhoods (3-8 km),41.92033,-87.69309,4033,38.68
+Milwaukee Ave & The 606,Dock,2 Inner neighbourhoods (3-8 km),41.913754,-87.682666,10923,29.47
+Milwaukee Ave & Wabansia Ave,Dock,2 Inner neighbourhoods (3-8 km),41.912616,-87.681469,5356,29.01
+Milwaukee Ave & Wolfram St,Dock,3 Outer neighbourhoods (8-15 km),41.93301,-87.71428,1363,37.12
+Monticello Ave & Diversey Ave,Dock,3 Outer neighbourhoods (8-15 km),41.93172,-87.71846,1090,33.76
+Monticello Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.954005,-87.719128,2179,27.49
+Monticello Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.9682,-87.71953,1129,24.8
+Montrose Harbor,Dock,3 Outer neighbourhoods (8-15 km),41.963982,-87.638181,17759,55.98
+Morgan Ave & 14th Pl,Dock,1 Loop + near downtown (< 3 km),41.862378,-87.651062,4440,27.25
+Morgan St & 18th St,Dock,2 Inner neighbourhoods (3-8 km),41.858086,-87.651073,5008,33.33
+Morgan St & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.8378,-87.65114,3314,31.08
+Morgan St & Hubbard St,Dock,1 Loop + near downtown (< 3 km),41.89012,-87.65251,1036,30.41
+Morgan St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.885492,-87.652289,11707,32.17
+Morgan St & Polk St,Dock,1 Loop + near downtown (< 3 km),41.871737,-87.65103,11946,16.42
+Museum Campus Metra Station,Dock,1 Loop + near downtown (< 3 km),41.86935,-87.62178,5287,58.92
+N Carpenter St & W Lake St,Dock,1 Loop + near downtown (< 3 km),41.885586,-87.653189,814,20.02
+N Shore Channel Trail & Argyle St,Dock,3 Outer neighbourhoods (8-15 km),41.97222,-87.70282,1063,31.7
+Navy Pier,Dock,1 Loop + near downtown (< 3 km),41.892278,-87.612043,65421,75.75
+Navy Pier Public Rack - East,Public rack,1 Loop + near downtown (< 3 km),41.89093,-87.609674,2495,84.13
+Navy Pier Public Rack - West,Public rack,1 Loop + near downtown (< 3 km),41.890974,-87.611482,2195,87.52
+New St & Illinois St,Dock,1 Loop + near downtown (< 3 km),41.890847,-87.618617,22152,40.73
+Noble St & Milwaukee Ave,Dock,2 Inner neighbourhoods (3-8 km),41.9007,-87.662607,8145,27.38
+Noble St & Ohio St,Dock,2 Inner neighbourhoods (3-8 km),41.89242,-87.66206,6082,32.16
+Noble St & Potomac Ave,Dock,2 Inner neighbourhoods (3-8 km),41.905533,-87.662715,3799,29.03
+Normal Ave & Archer Ave,Dock,2 Inner neighbourhoods (3-8 km),41.849527,-87.640591,964,37.24
+North Ave Beach,Dock,2 Inner neighbourhoods (3-8 km),41.91399,-87.62527,7945,66.66
+North Ave Beach Overflow Corral,Dock,2 Inner neighbourhoods (3-8 km),41.913932,-87.625253,2782,65.17
+North Ave Beach Pedestrian Bridge,Dock,2 Inner neighbourhoods (3-8 km),41.915633,-87.628214,3284,64.22
+North Avenue Beach,Dock,2 Inner neighbourhoods (3-8 km),41.91399,-87.62527,2269,72.98
+North Avenue Beach Pedestrian Bridge,Dock,2 Inner neighbourhoods (3-8 km),41.915633,-87.628214,725,64.14
+North Boundary Park,Dock,4 Edge + suburbs (15 km+),42.01303,-87.70891,587,34.41
+North Branch St & Haines St,Dock,1 Loop + near downtown (< 3 km),41.90056,-87.65079,1099,30.57
+Oak St Beach Public Rack - North,Public rack,1 Loop + near downtown (< 3 km),41.902778,-87.62358,1066,63.79
+Oak St Beach Public Rack - South,Public rack,1 Loop + near downtown (< 3 km),41.901855,-87.622247,992,76.01
+Oakley Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.954341,-87.68608,2166,22.11
+Oakley Ave & Lyndale St,Dock,2 Inner neighbourhoods (3-8 km),41.92261,-87.68513,3570,33.42
+Oakley Ave & Touhy Ave,Dock,4 Edge + suburbs (15 km+),42.012342,-87.688243,597,37.19
+Obama Presidential Center,Dock,3 Outer neighbourhoods (8-15 km),41.786419,-87.586462,1807,74.76
+Ogden Ave & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.896362,-87.654061,9596,29.5
+Ogden Ave & Congress Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.87501,-87.67328,2686,24.87
+Ogden Ave & Race Ave,Dock,1 Loop + near downtown (< 3 km),41.891795,-87.658751,6242,29.29
+Ogden Ave & Roosevelt Rd,Dock,2 Inner neighbourhoods (3-8 km),41.866501,-87.684697,1913,14.53
+Orleans St & Chestnut St (NEXT Apts),Dock,1 Loop + near downtown (< 3 km),41.898203,-87.637536,7155,30.26
+Orleans St & Elm St,Dock,1 Loop + near downtown (< 3 km),41.902924,-87.637715,6187,26.23
+Orleans St & Hubbard St,Dock,1 Loop + near downtown (< 3 km),41.890028,-87.636618,10227,25.6
+Orleans St & Merchandise Mart Plaza,Dock,1 Loop + near downtown (< 3 km),41.888243,-87.63639,17607,28.76
+Parnell Ave & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.837911,-87.640279,976,40.47
+Paulina Ave & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.909855,-87.66993,6594,31.79
+Paulina St & 18th St,Dock,2 Inner neighbourhoods (3-8 km),41.857901,-87.668745,4360,31.17
+Paulina St & Adams St,Dock,2 Inner neighbourhoods (3-8 km),41.87862,-87.66913,2525,39.41
+Paulina St & Cortland St,Dock,2 Inner neighbourhoods (3-8 km),41.91626,-87.67019,4626,33.64
+Paulina St & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.903553,-87.670429,14768,29.0
+Paulina St & Flournoy St,Dock,2 Inner neighbourhoods (3-8 km),41.873061,-87.669135,7464,20.46
+Paulina St & Howard St,Dock,4 Edge + suburbs (15 km+),42.019159,-87.673573,2479,46.23
+Paulina St & Lincoln Ave Public Rack,Public rack,2 Inner neighbourhoods (3-8 km),41.943838,-87.671469,1796,36.02
+Paulina St & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961507,-87.671387,4649,26.74
+Peoria St & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.877642,-87.649618,13069,30.78
+Peoria St & Kinzie St,Dock,1 Loop + near downtown (< 3 km),41.88896,-87.64973,8173,31.13
+Peterson/Ridge Metra,Dock,3 Outer neighbourhoods (8-15 km),41.9918,-87.67489,4170,30.24
+Pine Grove Ave & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.94002,-87.64166,2549,39.62
+Pine Grove Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.954365,-87.647929,14299,28.15
+Pine Grove Ave & Waveland Ave,Dock,2 Inner neighbourhoods (3-8 km),41.949473,-87.646453,17796,26.97
+Pine Grove Ave & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.93651,-87.64119,7299,34.16
+Prairie Ave & 43rd St,Dock,2 Inner neighbourhoods (3-8 km),41.816659,-87.619412,693,50.94
+Prairie Ave & Garfield Blvd,Dock,3 Outer neighbourhoods (8-15 km),41.794853,-87.618691,1421,41.8
+Princeton Ave & 47th St,Dock,3 Outer neighbourhoods (8-15 km),41.809318,-87.633449,537,46.93
+Public Rack - Carpenter St & Madison St,Public rack,1 Loop + near downtown (< 3 km),41.881606,-87.653511,563,33.39
+Public Rack - Clark St & Diversey Pkwy (North 1),Public rack,2 Inner neighbourhoods (3-8 km),41.93319,-87.645299,629,38.47
+Public Rack - Clark St & Diversey Pkwy (North 2),Public rack,2 Inner neighbourhoods (3-8 km),41.933331,-87.645421,977,27.84
+Public Rack - Clark St & Diversey Pkwy (South),Public rack,2 Inner neighbourhoods (3-8 km),41.932566,-87.644781,697,38.74
+Public Rack - Clybourn Ave & Webster Ave,Public rack,2 Inner neighbourhoods (3-8 km),41.921553,-87.664497,1117,50.13
+Public Rack - Dearborn St & Kinzie St 1,Public rack,1 Loop + near downtown (< 3 km),41.889078,-87.629485,1516,43.87
+Public Rack - Desplaines St & Fulton St,Public rack,1 Loop + near downtown (< 3 km),41.886892,-87.643417,617,24.47
+Public Rack - DuSable Lake Shore Dr & Ontario St,Public rack,1 Loop + near downtown (< 3 km),41.894347,-87.615691,592,39.36
+Public Rack - Halsted St & Fullerton Ave,Public rack,2 Inner neighbourhoods (3-8 km),41.925545,-87.64781,645,43.26
+Public Rack - Hyde Park Blvd & 55th St,Public rack,3 Outer neighbourhoods (8-15 km),41.795,-87.584113,570,29.47
+Public Rack - Kingsbury Ave & Blackhawk St,Public rack,2 Inner neighbourhoods (3-8 km),41.90822,-87.651666,1428,31.79
+Public Rack - Kingsbury Ave & Eastman St,Public rack,2 Inner neighbourhoods (3-8 km),41.906879,-87.650881,866,26.91
+Public Rack - Lincoln Ave & Fullteron Ave (Northwest),Public rack,2 Inner neighbourhoods (3-8 km),41.925827,-87.649435,810,44.69
+Public Rack - Michigan Ave & Delaware Pl,Public rack,1 Loop + near downtown (< 3 km),41.899153,-87.623776,1087,47.75
+Public Rack - Michigan Ave & Wacker Dr (North),Public rack,1 Loop + near downtown (< 3 km),41.889357,-87.62398,809,62.67
+Public Rack - Michigan Ave & Wacker Dr (South),Public rack,1 Loop + near downtown (< 3 km),41.888131,-87.624172,1080,53.89
+Public Rack - Orleans St & Grand Ave,Public rack,1 Loop + near downtown (< 3 km),41.891643,-87.636797,807,26.52
+Public Rack - Racine Ave & Nelson St,Public rack,2 Inner neighbourhoods (3-8 km),41.93726,-87.658981,1529,47.42
+Public Rack - Rush St & Oak St,Public rack,1 Loop + near downtown (< 3 km),41.900692,-87.627684,2011,38.04
+Public Rack - Rush St & Ohio St,Public rack,1 Loop + near downtown (< 3 km),41.892592,-87.62586,563,53.46
+Public Rack - Rush St & Ontario St,Public rack,1 Loop + near downtown (< 3 km),41.893109,-87.625353,811,49.82
+Public Rack - Sangamon St & Fulton St,Public rack,1 Loop + near downtown (< 3 km),41.886928,-87.651101,721,32.87
+Public Rack - Southport Ave & Fullteron Ave,Public rack,2 Inner neighbourhoods (3-8 km),41.925097,-87.663235,734,39.78
+Public Rack - Trader Joe's Clybourn Ave,Public rack,2 Inner neighbourhoods (3-8 km),41.914679,-87.654916,635,20.79
+Public Rack - Wacker Dr & Adams St,Public rack,1 Loop + near downtown (< 3 km),41.879416,-87.637193,598,24.92
+Public Rack - Washtenaw Ave & Superior St,Public rack,2 Inner neighbourhoods (3-8 km),41.894738,-87.695204,816,33.58
+Public Rack - Webster Ave & Halsted St,Public rack,2 Inner neighbourhoods (3-8 km),41.921889,-87.648472,1007,42.11
+Public Rack - Wells St & Lake St,Public rack,1 Loop + near downtown (< 3 km),41.885668,-87.633756,579,36.1
+Public Rack - Wells St & North Ave,Public rack,2 Inner neighbourhoods (3-8 km),41.910956,-87.634616,1320,44.17
+Public Rack - Wells St & Schiller St,Public rack,1 Loop + near downtown (< 3 km),41.907553,-87.634513,770,37.53
+Public Rack - Wells St & Scott St,Public rack,1 Loop + near downtown (< 3 km),41.904782,-87.634585,2100,35.48
+Public Rack - Wells St & Wacker Dr,Public rack,1 Loop + near downtown (< 3 km),41.886633,-87.63406,635,36.22
+Pulaski Rd & 51st St,Dock,3 Outer neighbourhoods (8-15 km),41.800434,-87.72475,674,60.24
+Pulaski Rd & Eddy St,Dock,3 Outer neighbourhoods (8-15 km),41.946264,-87.731023,812,42.73
+Racine Ave & 13th St,Dock,2 Inner neighbourhoods (3-8 km),41.865054,-87.656959,1302,28.26
+Racine Ave & 15th St,Dock,2 Inner neighbourhoods (3-8 km),41.861267,-87.656625,2872,35.03
+Racine Ave & 18th St,Dock,2 Inner neighbourhoods (3-8 km),41.8584,-87.656423,5259,35.69
+Racine Ave & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.830689,-87.656211,893,41.88
+Racine Ave & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.939743,-87.658865,10737,37.52
+Racine Ave & Broadway,Dock,3 Outer neighbourhoods (8-15 km),41.968235,-87.659655,6778,29.73
+Racine Ave & Congress Pkwy,Dock,1 Loop + near downtown (< 3 km),41.87464,-87.65703,5833,25.87
+Racine Ave & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.925566,-87.658416,8209,32.76
+Racine Ave & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.884081,-87.656921,4313,31.69
+Racine Ave & Washington Blvd,Dock,1 Loop + near downtown (< 3 km),41.883073,-87.656952,4834,26.04
+Racine Ave & Webster Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92161,-87.65803,4547,38.46
+Racine Ave & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.928887,-87.658971,6281,32.61
+Racine/Eddy Corral,Dock,2 Inner neighbourhoods (3-8 km),41.94634,-87.659102,1552,53.41
+Ravenswood Ave & Berteau Ave,Dock,3 Outer neighbourhoods (8-15 km),41.957921,-87.673567,4708,25.53
+Ravenswood Ave & Grace St,Dock,3 Outer neighbourhoods (8-15 km),41.95051,-87.67407,1525,31.8
+Ravenswood Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.95469,-87.67393,5123,33.09
+Ravenswood Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.968445,-87.674226,18955,25.2
+Rhodes Ave & 32nd St,Dock,2 Inner neighbourhoods (3-8 km),41.836208,-87.613533,2975,22.76
+Richmond St & Diversey Ave,Dock,3 Outer neighbourhoods (8-15 km),41.931902,-87.701195,2800,40.61
+Ridge Blvd & Howard St,Dock,4 Edge + suburbs (15 km+),42.019276,-87.68452,802,34.91
+Ridge Blvd & Touhy Ave,Dock,4 Edge + suburbs (15 km+),42.012132,-87.682913,845,35.5
+Riley O'Neil Memorial Station at City Hall,Dock,1 Loop + near downtown (< 3 km),41.883235,-87.632112,2402,32.89
+Ritchie Ct & Banks St,Dock,1 Loop + near downtown (< 3 km),41.906866,-87.626217,10962,30.73
+Riverside Plaza & Adams St,Dock,1 Loop + near downtown (< 3 km),41.87926,-87.63879,8158,28.97
+Rockwell Ave & Logan Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.92811,-87.69268,2069,35.67
+Rockwell St & Archer Ave,Dock,3 Outer neighbourhoods (8-15 km),41.82272,-87.68982,579,45.94
+Rockwell St & Cermak Rd,Dock,2 Inner neighbourhoods (3-8 km),41.851644,-87.690621,692,34.68
+Rockwell St & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.90275,-87.69202,2868,41.04
+Rockwell St & Eastwood Ave,Dock,3 Outer neighbourhoods (8-15 km),41.9659,-87.693638,3198,26.11
+Rockwell St & Fletcher St,Dock,3 Outer neighbourhoods (8-15 km),41.93885,-87.69299,2111,38.13
+Rockwell/Irving Park Hub,Dock,3 Outer neighbourhoods (8-15 km),41.954212,-87.69317,540,30.37
+Rush St & Cedar St,Dock,1 Loop + near downtown (< 3 km),41.902309,-87.627691,11692,30.75
+Rush St & Hubbard St,Dock,1 Loop + near downtown (< 3 km),41.890173,-87.626185,8603,28.72
+Rush St & Illinois St,Dock,1 Loop + near downtown (< 3 km),41.89087,-87.62584,7489,46.9
+Rush St & Superior St,Dock,1 Loop + near downtown (< 3 km),41.895765,-87.625908,12800,29.74
+Sacramento Ave & Linden Pl,Dock,2 Inner neighbourhoods (3-8 km),41.92575,-87.70258,3713,40.96
+Sacramento Ave & Lyndale St,Dock,2 Inner neighbourhoods (3-8 km),41.92235,-87.70241,1981,32.1
+Sacramento Blvd & Addison St,Dock,3 Outer neighbourhoods (8-15 km),41.94609,-87.70298,974,35.42
+Sangamon St & Adams St,Dock,1 Loop + near downtown (< 3 km),41.87909,-87.65128,5624,24.77
+Sangamon St & Lake St,Dock,1 Loop + near downtown (< 3 km),41.885779,-87.651025,10716,29.31
+Sangamon St & Washington Blvd,Dock,1 Loop + near downtown (< 3 km),41.883165,-87.6511,7223,30.18
+Sawyer Ave & Fullerton Ave,Dock,3 Outer neighbourhoods (8-15 km),41.92448,-87.7092,1754,34.55
+Sawyer Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.9536,-87.70931,1535,29.97
+Sedgwick St & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.89677,-87.6386,4406,29.14
+Sedgwick St & Huron St,Dock,1 Loop + near downtown (< 3 km),41.894666,-87.638437,12822,22.45
+Sedgwick St & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.910983,-87.638525,13014,31.37
+Sedgwick St & Schiller St,Dock,1 Loop + near downtown (< 3 km),41.907626,-87.638566,4967,31.31
+Sedgwick St & Webster Ave,Dock,2 Inner neighbourhoods (3-8 km),41.922167,-87.638888,12406,30.57
+Seeley Ave & Roscoe St,Dock,3 Outer neighbourhoods (8-15 km),41.943403,-87.679618,4966,33.33
+Seminary Ave & Belden Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92339,-87.65599,2870,33.97
+Shedd Aquarium,Dock,1 Loop + near downtown (< 3 km),41.867226,-87.615355,19673,81.62
+Sheffield Ave & Addison St,Dock,2 Inner neighbourhoods (3-8 km),41.947017,-87.654418,12461,44.95
+Sheffield Ave & Armitage Ave Public Rack,Public rack,2 Inner neighbourhoods (3-8 km),41.917805,-87.653449,3753,39.22
+Sheffield Ave & Fletcher St,Dock,2 Inner neighbourhoods (3-8 km),41.93901,-87.65321,3977,32.66
+Sheffield Ave & Fullerton Ave,Dock,2 Inner neighbourhoods (3-8 km),41.925616,-87.653657,15912,30.62
+Sheffield Ave & Kingsbury St,Dock,2 Inner neighbourhoods (3-8 km),41.910522,-87.653106,12773,23.53
+Sheffield Ave & School St,Dock,2 Inner neighbourhoods (3-8 km),41.94236,-87.65427,3909,44.51
+Sheffield Ave & Waveland Ave,Dock,2 Inner neighbourhoods (3-8 km),41.949399,-87.654529,11364,44.54
+Sheffield Ave & Webster Ave,Dock,2 Inner neighbourhoods (3-8 km),41.92154,-87.653818,11814,31.17
+Sheffield Ave & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.936253,-87.652662,12496,33.2
+Sheffield Ave & Willow St,Dock,2 Inner neighbourhoods (3-8 km),41.913688,-87.652855,8404,25.82
+Sheffield Ave & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.928712,-87.653833,13951,36.37
+Sheffield/Cornelia Corral,Dock,2 Inner neighbourhoods (3-8 km),41.945288,-87.654223,1243,47.95
+Sheffield/Newport Corral,Dock,2 Inner neighbourhoods (3-8 km),41.944613,-87.654202,3006,51.66
+Sheridan Rd & Argyle St,Dock,3 Outer neighbourhoods (8-15 km),41.973287,-87.65476,7619,31.82
+Sheridan Rd & Arthur Ave,Dock,3 Outer neighbourhoods (8-15 km),42.00046,-87.66058,767,46.54
+Sheridan Rd & Berwyn Ave,Dock,3 Outer neighbourhoods (8-15 km),41.97828,-87.65529,5414,30.31
+Sheridan Rd & Buena Ave,Dock,3 Outer neighbourhoods (8-15 km),41.95848,-87.65507,9692,30.04
+Sheridan Rd & Columbia Ave,Dock,3 Outer neighbourhoods (8-15 km),42.004583,-87.661406,3475,25.78
+Sheridan Rd & Greenleaf Ave,Dock,3 Outer neighbourhoods (8-15 km),42.010587,-87.662412,2300,28.17
+Sheridan Rd & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.954245,-87.654406,13957,31.0
+Sheridan Rd & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.969517,-87.654691,5102,29.81
+Sheridan Rd & Loyola Ave,Dock,3 Outer neighbourhoods (8-15 km),42.001044,-87.661198,2928,30.64
+Sheridan Rd & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96167,-87.65464,11276,29.94
+Sheridan Rd & Noyes St (NU),Dock,4 Edge + suburbs (15 km+),42.058239,-87.677432,7263,49.21
+Shields Ave & 28th Pl,Dock,2 Inner neighbourhoods (3-8 km),41.842733,-87.635491,1420,34.01
+Shields Ave & 31st St,Dock,2 Inner neighbourhoods (3-8 km),41.838464,-87.635406,2722,28.69
+Shore Dr & 53rd St,Dock,3 Outer neighbourhoods (8-15 km),41.79945,-87.58237,2152,39.92
+Shore Dr & 55th St,Dock,3 Outer neighbourhoods (8-15 km),41.795212,-87.580715,11089,39.47
+Smith Park,Dock,2 Inner neighbourhoods (3-8 km),41.892048,-87.689397,1848,32.79
+South Shore Dr & 67th St,Dock,3 Outer neighbourhoods (8-15 km),41.773643,-87.567514,787,60.86
+South Shore Dr & 71st St,Dock,3 Outer neighbourhoods (8-15 km),41.766409,-87.565688,1098,41.53
+Southport Ave & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.939478,-87.663748,10070,32.18
+Southport Ave & Clark St,Dock,3 Outer neighbourhoods (8-15 km),41.957081,-87.664199,3827,35.48
+Southport Ave & Clybourn Ave,Dock,2 Inner neighbourhoods (3-8 km),41.920745,-87.663691,6357,27.4
+Southport Ave & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.93266,-87.66347,4790,37.31
+Southport Ave & Grace St,Dock,3 Outer neighbourhoods (8-15 km),41.95155,-87.66404,3898,31.66
+Southport Ave & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.954177,-87.664358,6426,35.14
+Southport Ave & Newport Ave Public Rack,Public rack,2 Inner neighbourhoods (3-8 km),41.944019,-87.663975,2660,36.95
+Southport Ave & Roscoe St,Dock,2 Inner neighbourhoods (3-8 km),41.943739,-87.66402,14292,32.45
+Southport Ave & Waveland Ave,Dock,2 Inner neighbourhoods (3-8 km),41.948226,-87.664071,16074,29.8
+Southport Ave & Wellington Ave,Dock,2 Inner neighbourhoods (3-8 km),41.935775,-87.6636,11700,36.34
+Southport Ave & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.928773,-87.663913,9034,31.64
+Spaulding Ave & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.917108,-87.710221,4481,37.58
+Spaulding Ave & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.902707,-87.70922,2186,39.43
+Spaulding Ave & Milwaukee Ave,Dock,3 Outer neighbourhoods (8-15 km),41.93089,-87.71072,3631,33.13
+St Clair St & Ohio St,Dock,1 Loop + near downtown (< 3 km),41.89238,-87.62264,8728,37.77
+St Louis Ave & Armitage Ave,Dock,3 Outer neighbourhoods (8-15 km),41.91717,-87.71358,652,46.01
+St Louis Ave & Foster Ave,Dock,3 Outer neighbourhoods (8-15 km),41.975984,-87.715984,871,12.51
+St. Clair St & Erie St,Dock,1 Loop + near downtown (< 3 km),41.894345,-87.622798,2858,29.74
+St. Clair St & Erie St 1,Dock,1 Loop + near downtown (< 3 km),41.8944,-87.62286,6685,35.81
+St. Clair St & Erie St 2,Dock,1 Loop + near downtown (< 3 km),41.89445,-87.62268,10110,29.06
+St. Louis Ave & Balmoral Ave,Dock,3 Outer neighbourhoods (8-15 km),41.980394,-87.716115,1468,13.35
+St. Louis Ave & Fullerton Ave,Dock,3 Outer neighbourhoods (8-15 km),41.924816,-87.714495,1989,30.07
+State St & 19th St,Dock,1 Loop + near downtown (< 3 km),41.856594,-87.627542,2598,35.84
+State St & 29th St,Dock,2 Inner neighbourhoods (3-8 km),41.8417,-87.62693,547,44.79
+State St & 33rd St,Dock,2 Inner neighbourhoods (3-8 km),41.834734,-87.625813,3920,24.16
+State St & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.831036,-87.626798,2442,37.71
+State St & Chicago Ave,Dock,1 Loop + near downtown (< 3 km),41.896617,-87.628579,30029,26.21
+State St & Harrison St,Dock,1 Loop + near downtown (< 3 km),41.874053,-87.627716,7665,37.69
+State St & Kinzie St,Dock,1 Loop + near downtown (< 3 km),41.889375,-87.627077,14234,33.04
+State St & Pearson St,Dock,1 Loop + near downtown (< 3 km),41.897448,-87.628722,7281,27.18
+State St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.884621,-87.627834,11535,38.04
+State St & Van Buren St,Dock,1 Loop + near downtown (< 3 km),41.877181,-87.627844,6995,39.3
+Stave St & Armitage Ave,Dock,2 Inner neighbourhoods (3-8 km),41.917741,-87.691392,3578,31.67
+Stetson Ave & South Water St,Dock,1 Loop + near downtown (< 3 km),41.886835,-87.62232,8660,30.48
+Stockton Dr & Wrightwood Ave,Dock,2 Inner neighbourhoods (3-8 km),41.93132,-87.638742,11683,34.79
+Stony Island Ave & 57th St,Dock,3 Outer neighbourhoods (8-15 km),41.79161,-87.58748,1527,36.28
+Stony Island Ave & 63rd St,Dock,3 Outer neighbourhoods (8-15 km),41.780506,-87.586853,821,56.03
+Talman Ave & Addison St,Dock,3 Outer neighbourhoods (8-15 km),41.946636,-87.694615,3193,31.66
+The Salt Shed,Dock,2 Inner neighbourhoods (3-8 km),41.90689,-87.65978,4577,45.14
+Theater on the Lake,Dock,2 Inner neighbourhoods (3-8 km),41.926277,-87.630834,26022,56.7
+Theater on the Lake Overflow Corral,Dock,2 Inner neighbourhoods (3-8 km),41.92621,-87.63109,905,71.93
+Throop St & Taylor St,Dock,1 Loop + near downtown (< 3 km),41.868968,-87.659141,5296,28.66
+Troy St & Elston Ave,Dock,3 Outer neighbourhoods (8-15 km),41.945244,-87.70665,2322,26.49
+Troy St & Grace St,Dock,3 Outer neighbourhoods (8-15 km),41.95024,-87.70627,842,30.29
+Troy St & North Ave,Dock,2 Inner neighbourhoods (3-8 km),41.909769,-87.70528,2291,46.62
+University Ave & 57th St,Dock,3 Outer neighbourhoods (8-15 km),41.791478,-87.599861,21232,23.96
+University Ave & 59th St,Dock,3 Outer neighbourhoods (8-15 km),41.787878,-87.598906,6279,24.46
+University Ave & 65th St,Dock,3 Outer neighbourhoods (8-15 km),41.77694,-87.59842,846,53.19
+University Library (NU),Dock,4 Edge + suburbs (15 km+),42.052939,-87.673447,2432,42.15
+Valli Produce - Evanston Plaza,Dock,4 Edge + suburbs (15 km+),42.039742,-87.699413,666,47.15
+W Armitage Ave & N Sheffield Ave,Dock,2 Inner neighbourhoods (3-8 km),41.917805,-87.653449,916,29.04
+Wabash Ave & 16th St,Dock,1 Loop + near downtown (< 3 km),41.860384,-87.625813,8615,30.6
+Wabash Ave & 9th St,Dock,1 Loop + near downtown (< 3 km),41.870769,-87.625734,11913,34.06
+Wabash Ave & Adams St,Dock,1 Loop + near downtown (< 3 km),41.879472,-87.625689,7112,33.62
+Wabash Ave & Cermak Rd,Dock,2 Inner neighbourhoods (3-8 km),41.852619,-87.626488,3408,46.36
+Wabash Ave & Grand Ave,Dock,1 Loop + near downtown (< 3 km),41.891466,-87.626761,20911,37.99
+Wabash Ave & Jackson Blvd,Dock,1 Loop + near downtown (< 3 km),41.87801,-87.62599,6243,36.18
+Wabash Ave & Roosevelt Rd,Dock,1 Loop + near downtown (< 3 km),41.867227,-87.625961,18291,32.8
+Wabash Ave & Wacker Pl,Dock,1 Loop + near downtown (< 3 km),41.886875,-87.62603,2422,39.14
+Wabash Ave & Washington St,Dock,1 Loop + near downtown (< 3 km),41.8832,-87.62662,12902,36.25
+Wacker Dr & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.88454,-87.63732,7284,27.22
+Wacker Dr & Washington St,Dock,1 Loop + near downtown (< 3 km),41.883143,-87.637242,7898,19.87
+Wacker Dr & Washington St Corral,Dock,1 Loop + near downtown (< 3 km),41.88316,-87.63736,543,16.57
+Wallace St & 28th St,Dock,2 Inner neighbourhoods (3-8 km),41.843511,-87.6419,931,32.55
+Wallace St & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.830707,-87.641255,1459,46.2
+Walsh Park,Dock,2 Inner neighbourhoods (3-8 km),41.91461,-87.667968,4728,39.02
+Warren Park East,Dock,3 Outer neighbourhoods (8-15 km),42.00455,-87.680666,704,36.08
+Warren Park West,Dock,3 Outer neighbourhoods (8-15 km),42.001785,-87.688829,1011,26.61
+Washington Blvd & Peoria St Public Rack,Public rack,1 Loop + near downtown (< 3 km),41.883043,-87.649931,660,29.7
+Washtenaw Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96873,-87.69626,2871,27.69
+Washtenaw Ave & Ogden Ave,Dock,2 Inner neighbourhoods (3-8 km),41.86193,-87.69345,650,30.62
+Washtenaw Ave & Polk St,Dock,2 Inner neighbourhoods (3-8 km),41.87114,-87.69377,568,64.44
+Waveland/Racine Corral,Dock,2 Inner neighbourhoods (3-8 km),41.948821,-87.659282,2425,54.14
+Wells St & 19th St,Dock,1 Loop + near downtown (< 3 km),41.856802,-87.633879,1678,66.69
+Wells St & Concord Ln,Dock,2 Inner neighbourhoods (3-8 km),41.912133,-87.634656,28283,32.65
+Wells St & Elm St,Dock,1 Loop + near downtown (< 3 km),41.903222,-87.634324,27242,29.6
+Wells St & Evergreen Ave,Dock,1 Loop + near downtown (< 3 km),41.906724,-87.63483,15972,35.01
+Wells St & Hubbard St,Dock,1 Loop + near downtown (< 3 km),41.889906,-87.634266,25700,30.85
+Wells St & Huron St,Dock,1 Loop + near downtown (< 3 km),41.894795,-87.634374,24607,29.61
+Wells St & Institute Pl,Dock,1 Loop + near downtown (< 3 km),41.89738,-87.63442,8325,29.44
+Wells St & Madison St,Dock,1 Loop + near downtown (< 3 km),41.88199,-87.63418,5671,30.12
+Wells St & Ohio St,Dock,1 Loop + near downtown (< 3 km),41.89281,-87.63421,6689,36.37
+Wells St & Polk St,Dock,1 Loop + near downtown (< 3 km),41.872732,-87.633516,11773,32.78
+Wells St & Randolph St,Dock,1 Loop + near downtown (< 3 km),41.884295,-87.633963,11423,31.61
+Wells St & Walton St,Dock,1 Loop + near downtown (< 3 km),41.89993,-87.63443,14052,28.58
+Wells St & Washington St,Dock,1 Loop + near downtown (< 3 km),41.883,-87.63396,4410,29.61
+Wentworth Ave & 24th St,Dock,2 Inner neighbourhoods (3-8 km),41.850084,-87.632141,1859,47.77
+Wentworth Ave & 33rd St,Dock,2 Inner neighbourhoods (3-8 km),41.83453,-87.631823,2137,36.69
+Wentworth Ave & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.830777,-87.632504,2584,50.93
+Wentworth Ave & Cermak Rd,Dock,2 Inner neighbourhoods (3-8 km),41.853214,-87.631872,6360,53.1
+Western Ave & 21st St,Dock,2 Inner neighbourhoods (3-8 km),41.854109,-87.685838,1257,30.31
+Western Ave & 24th St,Dock,2 Inner neighbourhoods (3-8 km),41.84847,-87.685109,817,44.31
+Western Ave & Ardmore Ave,Dock,3 Outer neighbourhoods (8-15 km),41.98662,-87.68968,504,32.94
+Western Ave & Berteau Ave,Dock,3 Outer neighbourhoods (8-15 km),41.95774,-87.688273,1981,25.09
+Western Ave & Congress Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.874749,-87.686445,2228,31.96
+Western Ave & Division St,Dock,2 Inner neighbourhoods (3-8 km),41.902893,-87.687275,4375,35.59
+Western Ave & Fillmore St,Dock,2 Inner neighbourhoods (3-8 km),41.868563,-87.686234,2501,19.63
+Western Ave & Grace St,Dock,3 Outer neighbourhoods (8-15 km),41.95035,-87.68808,1977,26.96
+Western Ave & Granville Ave,Dock,3 Outer neighbourhoods (8-15 km),41.994161,-87.689438,1597,28.24
+Western Ave & Gunnison St,Dock,3 Outer neighbourhoods (8-15 km),41.96966,-87.689526,1832,26.04
+Western Ave & Howard St,Dock,4 Edge + suburbs (15 km+),42.018901,-87.690048,1161,39.28
+Western Ave & Lake St,Dock,2 Inner neighbourhoods (3-8 km),41.88481,-87.68668,564,46.45
+Western Ave & Leland Ave,Dock,3 Outer neighbourhoods (8-15 km),41.96572,-87.68844,6154,27.36
+Western Ave & Lunt Ave,Dock,4 Edge + suburbs (15 km+),42.008594,-87.690492,1488,12.5
+Western Ave & Lyndale St,Dock,2 Inner neighbourhoods (3-8 km),41.9226,-87.68772,2131,32.43
+Western Ave & Monroe St,Dock,2 Inner neighbourhoods (3-8 km),41.881425,-87.686632,1163,36.72
+Western Ave & Roscoe St,Dock,3 Outer neighbourhoods (8-15 km),41.943034,-87.687288,3018,31.84
+Western Ave & Wabansia Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91208,-87.68752,2914,32.02
+Western Ave & Walton St,Dock,2 Inner neighbourhoods (3-8 km),41.898418,-87.686596,5132,33.05
+Western Ave & Winnebago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.91552,-87.687022,6040,32.86
+Whipple St & Irving Park Rd,Dock,3 Outer neighbourhoods (8-15 km),41.95422,-87.70444,548,36.86
+Wilton Ave & Addison St,Dock,2 Inner neighbourhoods (3-8 km),41.947459,-87.653216,5864,37.26
+Wilton Ave & Belmont Ave,Dock,2 Inner neighbourhoods (3-8 km),41.940232,-87.652944,18055,32.76
+Wilton Ave & Diversey Pkwy,Dock,2 Inner neighbourhoods (3-8 km),41.932418,-87.652705,17042,29.63
+Winchester (Ravenswood) Ave & Balmoral Ave,Dock,3 Outer neighbourhoods (8-15 km),41.979762,-87.67753,2016,26.19
+Winchester Ave & Elston Ave,Dock,2 Inner neighbourhoods (3-8 km),41.924091,-87.67646,2806,33.0
+Winthrop Ave & Bryn Mawr Ave,Dock,3 Outer neighbourhoods (8-15 km),41.98384,-87.65806,1997,38.96
+Winthrop Ave & Lawrence Ave,Dock,3 Outer neighbourhoods (8-15 km),41.968812,-87.657659,4537,33.15
+Winthrop Ave & Sheridan Rd,Dock,3 Outer neighbourhoods (8-15 km),41.99814,-87.65885,1144,44.76
+Wolcott (Ravenswood) Ave & Montrose Ave,Dock,3 Outer neighbourhoods (8-15 km),41.961406,-87.676169,5769,31.18
+Wolcott Ave & Fargo Ave,Dock,4 Edge + suburbs (15 km+),42.016977,-87.677725,627,22.49
+Wolcott Ave & Polk St,Dock,2 Inner neighbourhoods (3-8 km),41.871262,-87.673688,7775,17.5
+Wood St & 35th St,Dock,2 Inner neighbourhoods (3-8 km),41.830105,-87.670298,759,28.59
+Wood St & Augusta Blvd,Dock,2 Inner neighbourhoods (3-8 km),41.899181,-87.6722,6489,23.02
+Wood St & Beach Ave,Dock,2 Inner neighbourhoods (3-8 km),41.907655,-87.672552,10732,30.75
+Wood St & Chicago Ave,Dock,2 Inner neighbourhoods (3-8 km),41.895634,-87.672069,7367,23.51
+Wood St & Cortland St,Dock,2 Inner neighbourhoods (3-8 km),41.91589,-87.67281,3300,35.39
+Wood St & Hubbard St,Dock,2 Inner neighbourhoods (3-8 km),41.889715,-87.671966,4018,27.68
+Wood St & Milwaukee Ave,Dock,2 Inner neighbourhoods (3-8 km),41.90629,-87.67151,4180,35.33
+Wood St & Taylor St (Temp),Temporary dock,2 Inner neighbourhoods (3-8 km),41.869265,-87.673731,5357,14.64
+Wood St & Walnut St,Dock,2 Inner neighbourhoods (3-8 km),41.886125,-87.671984,1198,41.07
+Wood St & Webster Ave,Dock,2 Inner neighbourhoods (3-8 km),41.921057,-87.672797,3342,25.94
+Woodlawn Ave & 55th St,Dock,3 Outer neighbourhoods (8-15 km),41.795264,-87.596471,8975,31.19
+Woodlawn Ave & 58th St,Dock,3 Outer neighbourhoods (8-15 km),41.789381,-87.596479,8424,27.07
+Woodlawn Ave & Lake Park Ave,Dock,2 Inner neighbourhoods (3-8 km),41.814093,-87.597005,896,46.54

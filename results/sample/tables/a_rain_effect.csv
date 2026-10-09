@@ -1,0 +1,7 @@
+day_type,rain_class,n_days,avg_temp_c,member_rides_per_day,casual_rides_per_day
+Weekday,1 dry (< 1 mm),60,20.4,68.0,34.0
+Weekday,2 light rain (1-5 mm),18,18.7,63.0,30.0
+Weekday,3 heavy rain (5 mm+),27,23.3,57.0,29.0
+Weekend / holiday,1 dry (< 1 mm),28,19.7,54.0,57.0
+Weekend / holiday,2 light rain (1-5 mm),6,21.7,51.0,52.0
+Weekend / holiday,3 heavy rain (5 mm+),14,21.9,41.0,40.0

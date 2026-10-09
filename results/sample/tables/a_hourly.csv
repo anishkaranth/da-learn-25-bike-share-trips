@@ -1,0 +1,97 @@
+day_type,hour,rider_type,rides,n_days,rides_per_day
+Weekday,0,casual,76,250,0.3
+Weekday,0,member,73,250,0.3
+Weekday,1,casual,37,250,0.1
+Weekday,1,member,33,250,0.1
+Weekday,2,casual,28,250,0.1
+Weekday,2,member,20,250,0.1
+Weekday,3,casual,13,250,0.1
+Weekday,3,member,17,250,0.1
+Weekday,4,casual,24,250,0.1
+Weekday,4,member,34,250,0.1
+Weekday,5,casual,37,250,0.1
+Weekday,5,member,119,250,0.5
+Weekday,6,casual,82,250,0.3
+Weekday,6,member,370,250,1.5
+Weekday,7,casual,164,250,0.7
+Weekday,7,member,723,250,2.9
+Weekday,8,casual,213,250,0.9
+Weekday,8,member,973,250,3.9
+Weekday,9,casual,143,250,0.6
+Weekday,9,member,505,250,2.0
+Weekday,10,casual,151,250,0.6
+Weekday,10,member,372,250,1.5
+Weekday,11,casual,200,250,0.8
+Weekday,11,member,419,250,1.7
+Weekday,12,casual,213,250,0.9
+Weekday,12,member,510,250,2.0
+Weekday,13,casual,265,250,1.1
+Weekday,13,member,488,250,2.0
+Weekday,14,casual,301,250,1.2
+Weekday,14,member,422,250,1.7
+Weekday,15,casual,325,250,1.3
+Weekday,15,member,751,250,3.0
+Weekday,16,casual,464,250,1.9
+Weekday,16,member,1127,250,4.5
+Weekday,17,casual,508,250,2.0
+Weekday,17,member,1316,250,5.3
+Weekday,18,casual,455,250,1.8
+Weekday,18,member,1028,250,4.1
+Weekday,19,casual,363,250,1.5
+Weekday,19,member,751,250,3.0
+Weekday,20,casual,261,250,1.0
+Weekday,20,member,476,250,1.9
+Weekday,21,casual,239,250,1.0
+Weekday,21,member,376,250,1.5
+Weekday,22,casual,182,250,0.7
+Weekday,22,member,281,250,1.1
+Weekday,23,casual,144,250,0.6
+Weekday,23,member,174,250,0.7
+Weekend / holiday,0,casual,118,115,1.0
+Weekend / holiday,0,member,91,115,0.8
+Weekend / holiday,1,casual,84,115,0.7
+Weekend / holiday,1,member,70,115,0.6
+Weekend / holiday,2,casual,48,115,0.4
+Weekend / holiday,2,member,37,115,0.3
+Weekend / holiday,3,casual,16,115,0.1
+Weekend / holiday,3,member,11,115,0.1
+Weekend / holiday,4,casual,15,115,0.1
+Weekend / holiday,4,member,11,115,0.1
+Weekend / holiday,5,casual,14,115,0.1
+Weekend / holiday,5,member,15,115,0.1
+Weekend / holiday,6,casual,24,115,0.2
+Weekend / holiday,6,member,51,115,0.4
+Weekend / holiday,7,casual,45,115,0.4
+Weekend / holiday,7,member,78,115,0.7
+Weekend / holiday,8,casual,88,115,0.8
+Weekend / holiday,8,member,125,115,1.1
+Weekend / holiday,9,casual,111,115,1.0
+Weekend / holiday,9,member,195,115,1.7
+Weekend / holiday,10,casual,176,115,1.5
+Weekend / holiday,10,member,231,115,2.0
+Weekend / holiday,11,casual,237,115,2.1
+Weekend / holiday,11,member,273,115,2.4
+Weekend / holiday,12,casual,261,115,2.3
+Weekend / holiday,12,member,306,115,2.7
+Weekend / holiday,13,casual,263,115,2.3
+Weekend / holiday,13,member,270,115,2.3
+Weekend / holiday,14,casual,276,115,2.4
+Weekend / holiday,14,member,291,115,2.5
+Weekend / holiday,15,casual,316,115,2.7
+Weekend / holiday,15,member,307,115,2.7
+Weekend / holiday,16,casual,248,115,2.2
+Weekend / holiday,16,member,285,115,2.5
+Weekend / holiday,17,casual,272,115,2.4
+Weekend / holiday,17,member,320,115,2.8
+Weekend / holiday,18,casual,212,115,1.8
+Weekend / holiday,18,member,251,115,2.2
+Weekend / holiday,19,casual,171,115,1.5
+Weekend / holiday,19,member,207,115,1.8
+Weekend / holiday,20,casual,112,115,1.0
+Weekend / holiday,20,member,147,115,1.3
+Weekend / holiday,21,casual,95,115,0.8
+Weekend / holiday,21,member,114,115,1.0
+Weekend / holiday,22,casual,105,115,0.9
+Weekend / holiday,22,member,99,115,0.9
+Weekend / holiday,23,casual,76,115,0.7
+Weekend / holiday,23,member,83,115,0.7

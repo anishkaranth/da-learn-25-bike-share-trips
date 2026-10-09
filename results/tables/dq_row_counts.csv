@@ -1,0 +1,10 @@
+entity,raw_rows,distinct_rows,clean_rows,grain
+agg_daily,,,1460,date x rider type x bike type
+agg_station_month,,,30044,start station x month x rider type
+dim_date,,,365,day (with weather + holiday)
+dim_hour / dim_rider_type / dim_bike_type,,,28,24 + 2 + 2
+dim_station (incl. key 0 = dockless),,,2030,standardised station name
+fact_ride,,,6006520,valid ride
+"invalid rides (flagged, kept in cln_trips, not in fact_ride)",,,165230,ride
+raw trip rows (12 monthly files),6171785,6171750,6006520,ride (clean = valid rides in fact_ride)
+rides after dedupe (one row per ride_id),,,6171750,ride

@@ -1,0 +1,20 @@
+invalid_reason,rideable_type,member_casual,rides
+implausible speed (> 45 km/h),classic_bike,member,1
+implausible speed (> 45 km/h),electric_bike,casual,1
+implausible speed (> 45 km/h),electric_bike,member,1
+no end location (bike not returned),classic_bike,casual,208
+no end location (bike not returned),classic_bike,member,100
+outside the service area,electric_bike,casual,21
+outside the service area,electric_bike,member,10
+over 24 hours (lost / not returned),classic_bike,casual,4196
+over 24 hours (lost / not returned),classic_bike,member,1108
+started before 1 Oct 2025 (previous month spill-over),classic_bike,casual,24
+started before 1 Oct 2025 (previous month spill-over),classic_bike,member,16
+started before 1 Oct 2025 (previous month spill-over),electric_bike,casual,11
+started before 1 Oct 2025 (previous month spill-over),electric_bike,member,20
+test / depot station,classic_bike,casual,1
+test / depot station,classic_bike,member,17
+test / depot station,electric_bike,casual,132
+test / depot station,electric_bike,member,796
+under 60 seconds (false start / re-dock),electric_bike,casual,74194
+under 60 seconds (false start / re-dock),electric_bike,member,84373

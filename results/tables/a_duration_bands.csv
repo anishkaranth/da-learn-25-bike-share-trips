@@ -1,0 +1,13 @@
+rider_type,duration_band,rides,pct_of_rider_rides
+casual,01 <5 min,331717,15.72
+casual,02 5-10 min,611461,28.98
+casual,03 10-20 min,641169,30.38
+casual,04 20-30 min,244988,11.61
+casual,05 30-60 min,198874,9.42
+casual,06 60+ min,82015,3.89
+member,01 <5 min,911441,23.39
+member,02 5-10 min,1318693,33.84
+member,03 10-20 min,1117795,28.69
+member,04 20-30 min,338359,8.68
+member,05 30-60 min,184477,4.73
+member,06 60+ min,25531,0.66

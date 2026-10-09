@@ -1,0 +1,2 @@
+duckdb>=1.1
+# PNG rendering (scripts/render_png.py) also needs Google Chrome or Chromium on PATH

@@ -1,0 +1,21 @@
+rider_type,rnk,start_station,end_station,is_round_trip,rides,median_min
+casual,1,Navy Pier,Navy Pier,1,37,30.1
+casual,2,DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,1,27,25.6
+casual,3,Michigan Ave & Oak St,Michigan Ave & Oak St,1,13,10.8
+casual,4,DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,0,11,11.3
+casual,5,DuSable Lake Shore Dr & Monroe St,Navy Pier,0,10,10.9
+casual,6,Millennium Park,Millennium Park,1,10,9.7
+casual,7,Navy Pier,DuSable Lake Shore Dr & Monroe St,0,10,14.3
+casual,8,Shedd Aquarium,Shedd Aquarium,1,10,7.9
+casual,9,Theater on the Lake,Theater on the Lake,1,9,12.5
+casual,10,Dusable Harbor,Navy Pier,0,8,7.5
+member,1,Ellis Ave & 55th St,Ellis Ave & 60th St,0,10,4.2
+member,2,University Ave & 57th St,Ellis Ave & 60th St,0,10,3.6
+member,3,Ellis Ave & 60th St,Ellis Ave & 55th St,0,9,4.1
+member,4,Calumet Ave & 33rd St,State St & 33rd St,0,7,3.6
+member,5,Kimbark Ave & 53rd St,University Ave & 57th St,0,7,5.0
+member,6,Michigan Ave & Washington St,Canal St & Madison St,0,7,6.2
+member,7,University Ave & 57th St,Ellis Ave & 55th St,0,7,2.3
+member,8,Blackstone Ave & 59th St,University Ave & 57th St,0,6,4.7
+member,9,Broadway & Cornelia Ave,Wilton Ave & Addison St,0,6,3.2
+member,10,Kingsbury St & Kinzie St 2,Kingsbury St & Erie St,0,6,2.8

@@ -1,0 +1,31 @@
+rider_type,rnk,station_name,zone,rides,all_starts,casual_share_pct,round_trip_pct
+casual,1,Navy Pier,1 Loop + near downtown (< 3 km),49557,65421,75.75,15.36
+casual,2,DuSable Lake Shore Dr & Monroe St,1 Loop + near downtown (< 3 km),28567,36380,78.52,15.7
+casual,3,Michigan Ave & Oak St,1 Loop + near downtown (< 3 km),20660,34126,60.54,11.33
+casual,4,DuSable Lake Shore Dr & North Blvd,2 Inner neighbourhoods (3-8 km),16929,30977,54.65,5.55
+casual,5,Millennium Park,1 Loop + near downtown (< 3 km),16833,25269,66.62,9.22
+casual,6,Shedd Aquarium,1 Loop + near downtown (< 3 km),16057,19673,81.62,8.49
+casual,7,Theater on the Lake,2 Inner neighbourhoods (3-8 km),14755,26022,56.7,6.36
+casual,8,Dusable Harbor,1 Loop + near downtown (< 3 km),13630,18977,71.82,12.45
+casual,9,Field Museum,1 Loop + near downtown (< 3 km),10024,12372,81.02,7.15
+casual,10,Adler Planetarium,1 Loop + near downtown (< 3 km),9992,13837,72.21,11.93
+casual,11,Montrose Harbor,3 Outer neighbourhoods (8-15 km),9941,17759,55.98,11.04
+casual,12,Michigan Ave & 8th St,1 Loop + near downtown (< 3 km),9852,15901,61.96,8.89
+casual,13,Wells St & Concord Ln,2 Inner neighbourhoods (3-8 km),9234,28283,32.65,1.39
+casual,14,Clark St & Armitage Ave,2 Inner neighbourhoods (3-8 km),9122,24079,37.88,2.78
+casual,15,New St & Illinois St,1 Loop + near downtown (< 3 km),9022,22152,40.73,4.7
+member,1,Canal St & Madison St,1 Loop + near downtown (< 3 km),22697,29050,21.87,0.93
+member,2,State St & Chicago Ave,1 Loop + near downtown (< 3 km),22159,30029,26.21,1.89
+member,3,Clinton St & Jackson Blvd,1 Loop + near downtown (< 3 km),19874,25018,20.56,0.76
+member,4,Wells St & Elm St,1 Loop + near downtown (< 3 km),19179,27242,29.6,1.44
+member,5,Wells St & Concord Ln,2 Inner neighbourhoods (3-8 km),19049,28283,32.65,1.39
+member,6,Clinton St & Madison St,1 Loop + near downtown (< 3 km),18529,24957,25.76,1.24
+member,7,Kingsbury St & Kinzie St 2,1 Loop + near downtown (< 3 km),18136,23169,21.72,0.78
+member,8,Wells St & Hubbard St,1 Loop + near downtown (< 3 km),17772,25700,30.85,1.54
+member,9,Wells St & Huron St,1 Loop + near downtown (< 3 km),17320,24607,29.61,1.52
+member,10,Clinton St & Washington Blvd 2,1 Loop + near downtown (< 3 km),17307,21386,19.07,0.84
+member,11,University Ave & 57th St,3 Outer neighbourhoods (8-15 km),16144,21232,23.96,2.77
+member,12,Navy Pier,1 Loop + near downtown (< 3 km),15864,65421,75.75,15.36
+member,13,Desplaines St & Kinzie St,1 Loop + near downtown (< 3 km),15689,21920,28.43,1.36
+member,14,Clark St & Elm St,1 Loop + near downtown (< 3 km),15676,22735,31.05,1.72
+member,15,Kingsbury St & Erie St,1 Loop + near downtown (< 3 km),15491,20069,22.81,1.74

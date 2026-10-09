@@ -1,0 +1,5 @@
+rider_type,bike_type,rides,pct_of_rider_rides,median_min,dockless_start_pct,dockless_end_pct
+casual,classic_bike,544249,25.79,15.55,0.0,0.0
+casual,electric_bike,1565975,74.21,10.08,27.58,31.21
+member,classic_bike,1234493,31.68,9.15,0.0,0.0
+member,electric_bike,2661803,68.32,8.5,28.94,28.43

@@ -1,0 +1,11 @@
+zone,rider_type,rides,pct_of_rider_rides
+0 Dockless (no station),casual,431847,20.46
+0 Dockless (no station),member,770282,19.77
+1 Loop + near downtown (< 3 km),casual,768189,36.4
+1 Loop + near downtown (< 3 km),member,1411019,36.21
+2 Inner neighbourhoods (3-8 km),casual,599902,28.43
+2 Inner neighbourhoods (3-8 km),member,1109156,28.47
+3 Outer neighbourhoods (8-15 km),casual,277979,13.17
+3 Outer neighbourhoods (8-15 km),member,566303,14.53
+4 Edge + suburbs (15 km+),casual,32307,1.53
+4 Edge + suburbs (15 km+),member,39536,1.01
